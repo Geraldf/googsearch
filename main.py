@@ -3,11 +3,15 @@ from googleplaces import GooglePlaces, types, lang
 #from pandas import *
 from collections import defaultdict
 import time 
-import threading
-from queue import Queue
+from multiprocessing import Queue
+from threading import Thread
+
 
 # lock to serialize console output
-lock = threading.Lock()
+#lock = threading.Lock()
+que = Queue()
+threads_list = list()
+
 
 #YOUR_API_KEY = 'AIzaSyCxxraww0nAVV2Emm_1HbIFnmhTi3UhZzQ'
 
@@ -25,20 +29,43 @@ def read_Exel():
     dataframes = []
     while len(df) > max_rows:
         top = df[:max_rows]
+        top.reset_index(inplace=True, drop=True)
         dataframes.append(top)
         df = df[max_rows:]
     else:
         dataframes.append(df)
-    df_target = traverse(df)
+    print ('running {} programms in Parallel, each Programm performs {} searches. '.format (len(dataframes), max_rows))
+    for f in dataframes:
+   
+        t = Thread(target=lambda q, arg1: q.put(traverse(arg1)), args=(que, f))
+        t.start()
+        threads_list.append(t)
+
+    # Join all the threads
+    for t in threads_list:
+        t.join()
+
+    # Check thread's return value
+    resultDataFrames = []
+    while not que.empty():
+        resultdf = que.get()
+        resultDataFrames.append(resultdf)
+
+    rdf= pd.concat(resultDataFrames)    
+    #target = traverse(df)
     # Create a Pandas Excel writer using XlsxWriter as the engine.
     #writer = pd.ExcelWriter('\\\\sv022181\\abl$\\abl\\Austausch\\Gerald\\Vertragspartner\\Arztverzeichnis-work-gesammt-google.xlsx')
+    
+    
     writer = pd.ExcelWriter('./Arztverzeichnis-work-5000-google.xlsx')
-    df_target.to_excel(writer, sheet_name='Sheet1')
+    rdf.to_excel(writer, sheet_name='Sheet1')
     writer.save()
 
 def traverse(df):
+    
     cols = d = defaultdict(list)
     df_target = df
+  
     for index, row in df.iterrows():
         df_target = googSearch(row, df, index, cols, df_target)
     df_target['goog_name'] = cols['goog_name']
