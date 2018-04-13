@@ -133,20 +133,7 @@ def googSearch(row, googdf, index, cols, target_DF):
 
 
     if len(s_result.places) == 0:
-        cols['goog_name'].append('')
-        cols['goog_plz'].append('') 
-        cols['goog_web'].append('') 
-        cols['goog_ort'].append('')
-        cols['goog_phone'].append('')
-        cols['goog_hausnummer'].append('')
-        cols['goog_strasse'].append('')
-        cols['goog_rating'].append('')
-        cols['goog_adr_formatiert'].append('' )
-        cols['goog_types'].append('')
-        cols['goog_url'].append('')
-        cols['goog_plzdiff'].append('')
-
-        return target_DF
+        return emptyCols(cols, target_DF)
 
     for idx, place in enumerate(s_result.places):
 
@@ -213,6 +200,22 @@ def googSearch(row, googdf, index, cols, target_DF):
         cols['goog_types'].append(types)
         cols['goog_url'].append(url)
         cols['goog_plzdiff'].append(plzdiff)
+
+    return target_DF
+
+def emptyCols(cols, target_DF):
+    cols['goog_name'].append('')
+    cols['goog_plz'].append('') 
+    cols['goog_web'].append('') 
+    cols['goog_ort'].append('')
+    cols['goog_phone'].append('')
+    cols['goog_hausnummer'].append('')
+    cols['goog_strasse'].append('')
+    cols['goog_rating'].append('')
+    cols['goog_adr_formatiert'].append('' )
+    cols['goog_types'].append('')
+    cols['goog_url'].append('')
+    cols['goog_plzdiff'].append('')
 
     return target_DF
 
