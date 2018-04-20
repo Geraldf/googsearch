@@ -1,0 +1,3402 @@
+running 186 programms in Parallel, each Programm performs 1000 searches. 
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:1000-- maxindex:999
+
+framezize:192-- maxindex:191
+
+19.04.2018 13:58:18 verarbeite Zeile 1 Frau Ute Kaiser 
+19.04.2018 13:58:18 verarbeite Zeile 1 Frau Tanja Stumpler 
+19.04.2018 13:58:18 verarbeite Zeile 1 Diakonie Klinikum Jung-Stilling Siegen, Gefäßchirurgie, Chefarzt Dr. Ahmed Koshty 
+19.04.2018 13:58:18 verarbeite Zeile 1 Dr. Kornelia Rolle 
+19.04.2018 13:58:18 verarbeite Zeile 1 Herr Dr. med. Paul Offenberger 
+19.04.2018 13:58:18 verarbeite Zeile 1 Dr. Emmanouil Ilias 
+19.04.2018 13:58:18 verarbeite Zeile 1 Dipl.-Med. Marion Nesimi 
+19.04.2018 13:58:18 verarbeite Zeile 1 Dr. med. Bernadette und Björn Biermann Praxis für Dermatologie und Allgemeinmedizin 
+19.04.2018 13:58:18 verarbeite Zeile 1 Dr.med. Andrea Kruppa Fachärztin für Psychiatrie und Psychotherapie 
+19.04.2018 13:58:18 verarbeite Zeile 1 Frau Elke Rosenstock-Heinz 
+19.04.2018 13:58:18 verarbeite Zeile 1 Herr Priv. Doz. Dr. med. Florian Seseke 
+19.04.2018 13:58:18 verarbeite Zeile 1 Frau Dr. Juliane Ziethen 
+19.04.2018 13:58:18 verarbeite Zeile 1 Claus-M. Reimers 
+19.04.2018 13:58:18 verarbeite Zeile 1 Herr Thomas Bachmann 
+19.04.2018 13:58:19 verarbeite Zeile 1 Dr. med.Frank Tenbrock 
+19.04.2018 13:58:19 verarbeite Zeile 1 Herr Jörg R. Witte 
+19.04.2018 13:58:19 verarbeite Zeile 1 Dr. med. Denise Gauß 
+19.04.2018 13:58:19 verarbeite Zeile 1 Heike Post 
+19.04.2018 13:58:19 verarbeite Zeile 1 Beine Holger Dr.med. 
+19.04.2018 13:58:19 verarbeite Zeile 1 visentis Augenzentrum Dr. Gentsch 
+19.04.2018 13:58:19 verarbeite Zeile 1 Institut für Pathologie und Molekularpathologie 
+19.04.2018 13:58:19 verarbeite Zeile 1 Frau Dr. med. Sarah Knödel 
+19.04.2018 13:58:19 verarbeite Zeile 1 Wolfgang Braml 
+19.04.2018 13:58:19 verarbeite Zeile 1 Frau Dipl.-Psych. Sigrid Liebenspacher-Helm 
+19.04.2018 13:58:19 verarbeite Zeile 1 Anne-Katrin Hoestermann 
+19.04.2018 13:58:19 verarbeite Zeile 1 Nicole Zoernig Kinder- und Jugendlichenpsychotherapeutin 
+19.04.2018 13:58:19 verarbeite Zeile 1 Dr. med. Matthias Knöringer 
+19.04.2018 13:58:19 verarbeite Zeile 1 Dr. med. Diethelm Preun 
+19.04.2018 13:58:19 verarbeite Zeile 1 Barbara Ibald 
+19.04.2018 13:58:19 verarbeite Zeile 1 Herr Dr. med. Frank Ebeling 
+19.04.2018 13:58:19 verarbeite Zeile 1 Dr. med. Stefan Oberle 
+19.04.2018 13:58:19 verarbeite Zeile 1 Landgraff M. Dr. 
+19.04.2018 13:58:19 verarbeite Zeile 1 Frau Dr. med. Nadine Fuhlrott-Slevogt 
+19.04.2018 13:58:19 verarbeite Zeile 1 Wolfgang Bender Dr. med. Allgemeinmedizin 
+19.04.2018 13:58:19 verarbeite Zeile 1 Dr.med. Ute Lenk 
+19.04.2018 13:58:19 verarbeite Zeile 1 Herr Dr. med. Hans-Ulrich Klimeck 
+19.04.2018 13:58:19 verarbeite Zeile 1 Vogel Melanie 
+19.04.2018 13:58:19 verarbeite Zeile 1 Dr. med. Thomas Heinicke / Efstathios Georgiadis 
+19.04.2018 13:58:19 verarbeite Zeile 1 Diakoniekrankenhaus Halle 
+19.04.2018 13:58:19 verarbeite Zeile 1 Michael Ernst 
+19.04.2018 13:58:19 verarbeite Zeile 1 Johann Christian Reil gGmbH Poli Reil 
+19.04.2018 13:58:19 verarbeite Zeile 1 Dr.med. Thomas Ruppert Facharzt für Allgemeinmedizin 
+19.04.2018 13:58:19 verarbeite Zeile 1 Dr. Sabine Vescia 
+19.04.2018 13:58:19 verarbeite Zeile 1 Dr. med. Rolf-Jürgen Maus 
+19.04.2018 13:58:19 verarbeite Zeile 1 Frau Juliana Friederichs 
+19.04.2018 13:58:19 verarbeite Zeile 1 Dr. med. Katja Frankenbusch 
+19.04.2018 13:58:19 verarbeite Zeile 1 Dr. Kristina Risse 
+19.04.2018 13:58:19 verarbeite Zeile 1 Dr. Johannes Hartwig 
+19.04.2018 13:58:19 verarbeite Zeile 1 Herr Dr. med. Christian Paschen 
+19.04.2018 13:58:19 verarbeite Zeile 1 Herr Dr. med. Holger Winkel 
+19.04.2018 13:58:19 verarbeite Zeile 1 Dr. Wolfgang Schütt 
+19.04.2018 13:58:19 verarbeite Zeile 1 Dr. med. Veronika Coltoiu 
+19.04.2018 13:58:19 verarbeite Zeile 1 Frau Iris Trompeter 
+19.04.2018 13:58:19 verarbeite Zeile 1 Dr. med. Peter Müller 
+19.04.2018 13:58:19 verarbeite Zeile 1 Dr. med. Werner Willmann 
+19.04.2018 13:58:19 verarbeite Zeile 1 Dr. Helga Jacob-Osafo 
+19.04.2018 13:58:19 verarbeite Zeile 1 Dr.med. Christine Wiese 
+19.04.2018 13:58:19 verarbeite Zeile 1 Cornelia Burmeister-Neumann 
+19.04.2018 13:58:20 verarbeite Zeile 1 Frau Dipl.-Päd. Dipl.-Psych. Marlene Finger 
+19.04.2018 13:58:20 verarbeite Zeile 1 Dr. med. Sonnhild Schiöberg - Fachärztin für Allgemeinmedizin 
+19.04.2018 13:58:20 verarbeite Zeile 1 Thomas Bachmann Facharzt für Allgemeinmedizin 
+19.04.2018 13:58:20 verarbeite Zeile 1 Max Witte GmbH 
+19.04.2018 13:58:20 verarbeite Zeile 1 Dr. med. Martin Schmitz-Nahrath 
+19.04.2018 13:58:20 verarbeite Zeile 1 Frau Dr. med. Susanne Zeegers 
+19.04.2018 13:58:20 verarbeite Zeile 1 Arztpraxis Elena Köhler 
+19.04.2018 13:58:20 verarbeite Zeile 2 Herr Dr. med. Lothar Volbracht 
+19.04.2018 13:58:20 verarbeite Zeile 2 Dr.med. Volker Baumgarten Gesundheitszentrum Wolfen 
+19.04.2018 13:58:20 verarbeite Zeile 1 Herr Prof. Dr. med. Martin Bettag 
+19.04.2018 13:58:20 verarbeite Zeile 1 Herr Marijan Susic 
+19.04.2018 13:58:20 verarbeite Zeile 1 Herr Dr. med. Hans-Wolfgang Scheuer 
+19.04.2018 13:58:20 verarbeite Zeile 2 Dr. med. Toni Koudmani 
+19.04.2018 13:58:21 verarbeite Zeile 1 Küster Martina Dr. med. 
+19.04.2018 13:58:21 verarbeite Zeile 1 Frau Dipl.-Med. Sylvia Kretschmer 
+19.04.2018 13:58:21 verarbeite Zeile 1 Urologie am Stadtwald 
+19.04.2018 13:58:21 verarbeite Zeile 1 Markus Wegner 
+19.04.2018 13:58:21 verarbeite Zeile 1 Diakoniewerk Halle 
+19.04.2018 13:58:21 verarbeite Zeile 1 Dr. med. Michaela Wöhlermann 
+19.04.2018 13:58:21 verarbeite Zeile 1 Dr. med Jens Berl, Dr. med Christian Paschen 
+19.04.2018 13:58:21 verarbeite Zeile 2 Dr.med. Andrea Kruppa Fachärztin für Psychiatrie und Psychotherapie 
+19.04.2018 13:58:21 verarbeite Zeile 2 Dr. med. Bernd Großmann 
+19.04.2018 13:58:21 verarbeite Zeile 2 Anke Peter&Maria von Oertzen-Plümer 
+index:0
+sizeDiff:0
+idx:1
+
+19.04.2018 13:58:21 verarbeite Zeile 2 Meier Michael Dr.med. 
+19.04.2018 13:58:21 verarbeite Zeile 1 Dr. med. Christine Keitel und Kristine Engeleeit 
+19.04.2018 13:58:21 verarbeite Zeile 2 Frau Dipl.-Med. Barbara Herms 
+19.04.2018 13:58:22 verarbeite Zeile 2 Herr Dr. med. Roland Reif 
+19.04.2018 13:58:22 verarbeite Zeile 2 Frauenarztpraxis Berlin Dr. Alexandra von Palombini, Dr. Rosalie Steckel 
+19.04.2018 13:58:22 verarbeite Zeile 2 Dr.med. Werner Wolf 
+19.04.2018 13:58:22 verarbeite Zeile 1 Sana Kinderarztpraxis Griet Schnieders 
+19.04.2018 13:58:22 verarbeite Zeile 1 Bettina Kneisel-Scholz 
+19.04.2018 13:58:22 verarbeite Zeile 1 Dr.med. Elisabeth Ott 
+19.04.2018 13:58:22 verarbeite Zeile 1 Dr.med. Marlies Gensert Fachärztin f. Allgemeinmedizin 
+19.04.2018 13:58:22 verarbeite Zeile 1 Christian Neumann 
+19.04.2018 13:58:22 verarbeite Zeile 2 Gemeinschaftspraxis Sophie de Greck und Philipp Dietz 
+19.04.2018 13:58:22 verarbeite Zeile 1 Dr. med. Christiane Witz 
+index:0
+sizeDiff:0
+idx:1
+
+19.04.2018 13:58:22 verarbeite Zeile 1 Dr. med. Sibylle Dittrich 
+19.04.2018 13:58:22 verarbeite Zeile 1 Dr. med. Birgitta Bohnet 
+19.04.2018 13:58:22 verarbeite Zeile 1 Dr. med. Martin Jung 
+19.04.2018 13:58:22 verarbeite Zeile 1 Herr Dr. med. Hermann Hack 
+index:0
+sizeDiff:0
+idx:1
+
+19.04.2018 13:58:22 verarbeite Zeile 2 Christiane Mantei 
+19.04.2018 13:58:22 verarbeite Zeile 1 Max Witte GmbH 
+19.04.2018 13:58:22 verarbeite Zeile 1 Praxis Kolpingstraße Dres. Straßner, Pfeiffer und Behr 
+19.04.2018 13:58:22 verarbeite Zeile 1 Dipl.Med. Eckhardt Fichelmann 
+19.04.2018 13:58:22 verarbeite Zeile 1 Dr. med. Elmar Bühler 
+19.04.2018 13:58:22 verarbeite Zeile 2 Dr.med. Monika Horn 
+19.04.2018 13:58:22 verarbeite Zeile 1 Dr. med. Andreas Wohlmeiner 
+19.04.2018 13:58:22 verarbeite Zeile 1 Jan-Dirk Geerken 
+19.04.2018 13:58:22 verarbeite Zeile 2 Dr.med. Jürgen Freitag-Hoppen 
+19.04.2018 13:58:22 verarbeite Zeile 2 Elisabeth Palm-Baumann 
+19.04.2018 13:58:22 verarbeite Zeile 2 Barbara Ibald 
+19.04.2018 13:58:22 verarbeite Zeile 2 Gösche Bianka 
+19.04.2018 13:58:22 verarbeite Zeile 2 Herr Dr. med. Volker Baumgarten 
+19.04.2018 13:58:22 verarbeite Zeile 2 Herr Hassan Hachem 
+19.04.2018 13:58:23 verarbeite Zeile 2 Frau Etta Mimkes 
+19.04.2018 13:58:23 verarbeite Zeile 1 Krankenhaus der Barmherzigen Brüder 
+19.04.2018 13:58:23 verarbeite Zeile 1 Dr. med. Marco Feyrer, 
+19.04.2018 13:58:23 verarbeite Zeile 2 Frau Dr. med. Simone Heukamp 
+19.04.2018 13:58:23 verarbeite Zeile 1 Frau Dr. med. Marie-Luise Verspohl 
+19.04.2018 13:58:23 verarbeite Zeile 1 Dr. med. Thomas Titzmann 
+19.04.2018 13:58:23 verarbeite Zeile 2 Dr. med. Christiane Meinke 
+19.04.2018 13:58:23 verarbeite Zeile 2 Herr Jens Wölkner 
+19.04.2018 13:58:23 verarbeite Zeile 1 Dr.med. Hans-Wolfgang Scheuer Facharzt für Allgemeinmedizin 
+index:0
+sizeDiff:0
+idx:1
+
+19.04.2018 13:58:23 verarbeite Zeile 1 Dr. med. Klemens Donaubauer 
+19.04.2018 13:58:23 verarbeite Zeile 1 Nierenzentrum am ZKM Dres.med. W. Fischinger, Hans-G. Röder, Andre Martin, Ch. Schroeter 
+index:0
+sizeDiff:0
+idx:1
+
+19.04.2018 13:58:23 verarbeite Zeile 1 Herr Dr. med. Klaus Korte 
+19.04.2018 13:58:23 verarbeite Zeile 1 Nuzari Dipl.-Psychologe 
+19.04.2018 13:58:23 verarbeite Zeile 2 Herr Dr. med. Herbert Hager 
+index:0
+sizeDiff:0
+idx:1
+
+19.04.2018 13:58:23 verarbeite Zeile 1 Dr.med. Hedda Brandenburg 
+19.04.2018 13:58:23 verarbeite Zeile 2 Dr. Alexandra Beiche 
+19.04.2018 13:58:23 verarbeite Zeile 2 Arzt für Orthopädie und Unfallchirurgie Hauke Seidel 
+19.04.2018 13:58:23 verarbeite Zeile 2 Dr. med. Franke-Portmann & Dr. med. Helleberg 
+19.04.2018 13:58:23 verarbeite Zeile 2 Andreas Ferchland 
+19.04.2018 13:58:23 verarbeite Zeile 1 Gesundheitszentrum Dr. Dr. Tadzic und Kollegen MVZ GmbH 
+19.04.2018 13:58:23 verarbeite Zeile 2 Dr. med. Petra Hafeneder 
+19.04.2018 13:58:23 verarbeite Zeile 2 Herr Dipl.-Med. Hans-Joachim Schade 
+19.04.2018 13:58:23 verarbeite Zeile 1 Dr.med. Heinz Hilden 
+index:0
+sizeDiff:0
+idx:1
+
+19.04.2018 13:58:23 verarbeite Zeile 1 Dr.med. Gerd Pietschmann 
+19.04.2018 13:58:23 verarbeite Zeile 1 Dr.med. Reinhard Scheffler 
+19.04.2018 13:58:23 verarbeite Zeile 1 Dr. med. Günther Stahl 
+19.04.2018 13:58:23 verarbeite Zeile 1 Frau Dr. med. Michaela Wöhlermann 
+19.04.2018 13:58:23 verarbeite Zeile 1 Praxisgemeinschaft Dr. Schmauß & Dr. Ochsendorf 
+19.04.2018 13:58:23 verarbeite Zeile 1 Dr.med. Hans-Joachim 
+19.04.2018 13:58:23 verarbeite Zeile 2 Dr. Bernd Horn 
+index:0
+sizeDiff:0
+idx:1
+
+19.04.2018 13:58:23 verarbeite Zeile 2 MKG Brühl 
+19.04.2018 13:58:23 verarbeite Zeile 1 Dr.med. Alexandra Ruthmann Fachärztin für Augenheilkunde 
+19.04.2018 13:58:23 verarbeite Zeile 2 Dr. med. Hans-Weert Klopp 
+19.04.2018 13:58:24 verarbeite Zeile 2 Prof. Dr. med. Birgit Kallinowski 
+19.04.2018 13:58:24 verarbeite Zeile 1 Gemeinschaftspraxis Dialyse Uelzen 
+index:0
+sizeDiff:0
+idx:1
+
+19.04.2018 13:58:24 verarbeite Zeile 1 Frau Dipl.-Psych. Harriet Trettin 
+19.04.2018 13:58:24 verarbeite Zeile 1 Herr Dr. med. Reza Gholipour-Baradari 
+19.04.2018 13:58:24 verarbeite Zeile 2 HNO Zentrum Erkrath 
+19.04.2018 13:58:24 verarbeite Zeile 1 Dr. med. Doina Muth 
+19.04.2018 13:58:24 verarbeite Zeile 1 Margret Lohmann-Sinsel 
+19.04.2018 13:58:24 verarbeite Zeile 2 Herr Dr. med. Foued Hamouda 
+19.04.2018 13:58:24 verarbeite Zeile 2 Hubertus Mitschke 
+19.04.2018 13:58:24 verarbeite Zeile 2 Dr. med. Jürgen Orzessek 
+19.04.2018 13:58:24 verarbeite Zeile 1 Frau Dr. med. Brigitta Hofebauer-Mews 
+19.04.2018 13:58:24 verarbeite Zeile 1 Dr. med. Jürgen Nöldemann 
+19.04.2018 13:58:24 verarbeite Zeile 1 Frau Dr. med. Andrea Fröhlich 
+index:0
+sizeDiff:1
+idx:2
+
+19.04.2018 13:58:24 verarbeite Zeile 1 Dr.med. Sonja Ruh 
+19.04.2018 13:58:24 verarbeite Zeile 1 Dipl. -Med. Frank Streichan 
+19.04.2018 13:58:24 verarbeite Zeile 2 Gemeinschaftspraxis Kinder- und Jugendärzte Dr. Reif, Dr. Auerochs, Dr. Hirn, Prof.Dr. Singer 
+19.04.2018 13:58:24 verarbeite Zeile 2 Dr.med. Birgit Hoffmann Fachärztin für Physiologie 
+19.04.2018 13:58:24 verarbeite Zeile 1 Barbara Bödefeld Psycholog. Psychotherapeutin 
+19.04.2018 13:58:24 verarbeite Zeile 1 Dr. med. Birgitt Weinhold 
+19.04.2018 13:58:24 verarbeite Zeile 1 Frau Elke Jaenecke 
+19.04.2018 13:58:24 verarbeite Zeile 2 Frau Johanna Filipski 
+19.04.2018 13:58:24 verarbeite Zeile 1 Herr Erwin Maguhn 
+19.04.2018 13:58:24 verarbeite Zeile 1 Dr. med. Volker Petersen 
+19.04.2018 13:58:24 verarbeite Zeile 2 Kay-Arne Schiffke 
+19.04.2018 13:58:25 verarbeite Zeile 1 Gottwald K. Dr.med. 
+19.04.2018 13:58:25 verarbeite Zeile 2 Dr. med. Andreas Kronwitter 
+index:0
+sizeDiff:0
+idx:1
+
+19.04.2018 13:58:25 verarbeite Zeile 1 Dr. med. V. Seuthe 
+19.04.2018 13:58:25 verarbeite Zeile 1 Dr. med. Hans-Michael Behr 
+19.04.2018 13:58:25 verarbeite Zeile 2 Dr.med. Rolf Thelen Facharzt für Augenheilkunde 
+index:0
+sizeDiff:1
+idx:2
+
+19.04.2018 13:58:25 verarbeite Zeile 1 Dr. med. Ernst Gut 
+19.04.2018 13:58:25 verarbeite Zeile 1 Stefan Plaul 
+19.04.2018 13:58:25 verarbeite Zeile 1 Frau Irmgard Baudis 
+index:1
+sizeDiff:0
+idx:1
+
+19.04.2018 13:58:25 verarbeite Zeile 1 Kerstin Bethge 
+19.04.2018 13:58:25 verarbeite Zeile 1 MVZ Reichenbach 
+19.04.2018 13:58:25 verarbeite Zeile 1 Frau Dipl.-Psych. Almut Atrops 
+19.04.2018 13:58:25 verarbeite Zeile 2 Dr. Emmanouil Ilias 
+19.04.2018 13:58:25 verarbeite Zeile 2 Frau Dr. rer. nat. Birgit Hofmann 
+19.04.2018 13:58:25 verarbeite Zeile 3 Dr. med. Elisabeth Einhoff 
+19.04.2018 13:58:25 verarbeite Zeile 1 Dr. med. Octavian Popescu 
+index:0
+sizeDiff:0
+idx:1
+
+19.04.2018 13:58:25 verarbeite Zeile 2 Dr. med. Thomas Böck 
+index:0
+sizeDiff:0
+idx:1
+
+index:0
+sizeDiff:0
+idx:1
+
+index:1
+sizeDiff:0
+idx:1
+
+19.04.2018 13:58:25 verarbeite Zeile 1 Frau Dr. med. Karin Ahlert 
+19.04.2018 13:58:25 verarbeite Zeile 1 Frau Dr. med. Christiane Oechsner-Bauer 
+19.04.2018 13:58:25 verarbeite Zeile 1 Dr. med. Frank Fischer 
+19.04.2018 13:58:25 verarbeite Zeile 2 dr.(MU Budapest) Hubertus Grosse-Leege 
+19.04.2018 13:58:25 verarbeite Zeile 1 Dr. med. Claus Buchbender 
+19.04.2018 13:58:25 verarbeite Zeile 1 Dr.med. Nils Rose-Borsum Facharzt für Innere Medizin 
+19.04.2018 13:58:25 verarbeite Zeile 3 Dr. med. Petra Köster 
+19.04.2018 13:58:25 verarbeite Zeile 3 Frau Dr. med. Ina Baumann 
+19.04.2018 13:58:25 verarbeite Zeile 1 Gemeinschaftspraxis Fels-Maris 
+19.04.2018 13:58:26 verarbeite Zeile 1 Frau Dr. med. Alma Kosak 
+19.04.2018 13:58:26 verarbeite Zeile 1 Kinder- und Jugendarztpraxis Kelber 
+19.04.2018 13:58:26 verarbeite Zeile 1 Dr. med. Brigitte Weininger Lange Praktische Ärztin 
+19.04.2018 13:58:26 verarbeite Zeile 2 Priv.Doz. Dr. Dr. Naujoks Christian 
+19.04.2018 13:58:26 verarbeite Zeile 1 Praxis Dr. med. Olaf Müller 
+19.04.2018 13:58:26 verarbeite Zeile 1 Alderma 
+19.04.2018 13:58:26 verarbeite Zeile 2 Dr.med. Sonja Ruh 
+19.04.2018 13:58:26 verarbeite Zeile 3 Herr Priv. Doz. Dr. med. Wolfram Klapper 
+19.04.2018 13:58:26 verarbeite Zeile 3 Herr M. A. Dipl.-Psych. Tim Darmstädter 
+index:0
+sizeDiff:2
+idx:3
+
+19.04.2018 13:58:26 verarbeite Zeile 1 Frau Dr. med. Kristin Westerhausen-Ertl 
+19.04.2018 13:58:26 verarbeite Zeile 3 Dr. Barbara Hesse 
+19.04.2018 13:58:26 verarbeite Zeile 1 Frau Dr. Brigitte Oehrle-Wöhl 
+19.04.2018 13:58:26 verarbeite Zeile 1 Frau Vera Naab 
+19.04.2018 13:58:26 verarbeite Zeile 1 Herr Dr. med. Hans-Joachim Schaefer 
+19.04.2018 13:58:26 verarbeite Zeile 3 Dr.med. Sabine Guder 
+index:1
+sizeDiff:0
+idx:1
+
+19.04.2018 13:58:26 verarbeite Zeile 1 Frau Dipl.-Med. Annegret Otterstein 
+19.04.2018 13:58:26 verarbeite Zeile 3 Psychotherapeutische Gemeinschaftspraxis Fröhlich und Pototzky 
+19.04.2018 13:58:26 verarbeite Zeile 1 Herr Roman Mantaj 
+19.04.2018 13:58:26 verarbeite Zeile 2 Herr Dr. med. Andreas Adler 
+19.04.2018 13:58:26 verarbeite Zeile 2 Frau Dipl.-Psych. Ulrike Andree 
+19.04.2018 13:58:26 verarbeite Zeile 1 Herr Dr. med. Dirk Lichtermann 
+19.04.2018 13:58:26 verarbeite Zeile 2 Dr. med. Inge Walter 
+19.04.2018 13:58:26 verarbeite Zeile 2 HNO Zirndorf/Dr.med Ralph Schulte/Dr.med. Heidrun Obbarius-Leidig 
+19.04.2018 13:58:26 verarbeite Zeile 3 Herr Dipl.-Soz. Päd. (FH) Torsten Gutsche 
+19.04.2018 13:58:26 verarbeite Zeile 3 HNO-Nürnberg Dr. med. Ulrike Walter 
+index:0
+sizeDiff:0
+idx:1
+
+19.04.2018 13:58:27 verarbeite Zeile 2 Kypke I. Dipl.-Psych. Psychologische Psychotherapeutin 
+19.04.2018 13:58:27 verarbeite Zeile 2 Malerbetrieb Frank Gutsche 
+19.04.2018 13:58:27 verarbeite Zeile 1 Frau Rita Kratzenberg 
+19.04.2018 13:58:27 verarbeite Zeile 1 Frau Dipl.-Psych. Gabriele Kluxen 
+19.04.2018 13:58:27 verarbeite Zeile 1 Frau Dr. med. Lotte Lührs 
+19.04.2018 13:58:27 verarbeite Zeile 2 Frau apl. Prof. Dr. med. Dagmar Wieczorek 
+19.04.2018 13:58:27 verarbeite Zeile 2 Gert Intelmann 
+19.04.2018 13:58:27 verarbeite Zeile 1 Muwafeg Abdel-Qader 
+19.04.2018 13:58:27 verarbeite Zeile 3 Dr. med. Beate Reich 
+19.04.2018 13:58:27 verarbeite Zeile 2 Herr Dr. med. Walter Huber 
+19.04.2018 13:58:27 verarbeite Zeile 2 Ellermann Stefanie 
+19.04.2018 13:58:27 verarbeite Zeile 3 Dr. Jakob Hein 
+19.04.2018 13:58:27 verarbeite Zeile 3 Restaurant Schneider 
+19.04.2018 13:58:27 verarbeite Zeile 3 Dr. med. Thomas Gesenhues 
+19.04.2018 13:58:27 verarbeite Zeile 1 Dr. med. Thomas Lang 
+19.04.2018 13:58:27 verarbeite Zeile 3 Herr Dr. med. Stefan Hausch 
+19.04.2018 13:58:27 verarbeite Zeile 2 Dipl.Psych. Gabriele Batzke 
+index:1
+sizeDiff:0
+idx:1
+
+19.04.2018 13:58:27 verarbeite Zeile 3 Sana Kliniken Ostholstein GmbH - Klinik Eutin Onkologische Tagesklinik 
+19.04.2018 13:58:27 verarbeite Zeile 3 Herr Jörn Duve 
+19.04.2018 13:58:27 verarbeite Zeile 2 Dr. med. Ulrike Seitz-Schepan 
+19.04.2018 13:58:27 verarbeite Zeile 2 Axel Schulz Zahnarzt 
+19.04.2018 13:58:27 verarbeite Zeile 2 Dr. med. Helmut Cubasch 
+19.04.2018 13:58:27 verarbeite Zeile 2 Frau N. Rohr 
+19.04.2018 13:58:27 verarbeite Zeile 3 Herr Dr. med. Reinhard Jakubovic 
+19.04.2018 13:58:27 verarbeite Zeile 1 narconova Klinik GmbH 
+19.04.2018 13:58:27 verarbeite Zeile 2 Dipl.Med. Susanne Weßlau 
+19.04.2018 13:58:27 verarbeite Zeile 3 Dr.med. Hermann Willems Facharzt für Allgemeinmedizin 
+19.04.2018 13:58:27 verarbeite Zeile 3 Praxis Dr. med. Eppe / von Abercron 
+19.04.2018 13:58:27 verarbeite Zeile 3 Herr Dr. med. Stephan Gerster 
+19.04.2018 13:58:27 verarbeite Zeile 2 Dieter Söntgerath 
+19.04.2018 13:58:27 verarbeite Zeile 2 Herr Dr. med. Michael Wülker 
+19.04.2018 13:58:27 verarbeite Zeile 3 Frau Dipl.-Psych. Karin Elke Krüll 
+19.04.2018 13:58:27 verarbeite Zeile 1 Antje Raab & Michael Schmid Psychotherapeutische Gemeinschaftspraxis 19.04.2018 13:58:27 verarbeite Zeile 3 Dr. Baltzer 
+19.04.2018 13:58:28 verarbeite Zeile 1 Dr.med. Michael Grundig 
+index:0
+sizeDiff:0
+idx:1
+
+19.04.2018 13:58:28 verarbeite Zeile 2 Dr. med. Harald Spiess 
+19.04.2018 13:58:28 verarbeite Zeile 1 Hausarztpraxis Ofen - Hofer & Rose-Borsum 
+19.04.2018 13:58:28 verarbeite Zeile 2 Herr Dr. med. Steffen Schmidt 
+
+19.04.2018 13:58:28 verarbeite Zeile 1 Privatärztliches Centrum 
+19.04.2018 13:58:28 verarbeite Zeile 3 Elisabeth Hoffmann-Weber Fachärztin für Kinder- und Jugendmedizin 
+19.04.2018 13:58:28 verarbeite Zeile 2 Dr. med. Vassilios Kardalinos 
+19.04.2018 13:58:28 verarbeite Zeile 2 Daniela Vogt 
+19.04.2018 13:58:28 verarbeite Zeile 3 Dr. med. Antonia Seeger-Held 
+19.04.2018 13:58:28 verarbeite Zeile 1 Frank Wieland 
+index:0
+sizeDiff:0
+idx:1
+
+19.04.2018 13:58:28 verarbeite Zeile 2 Dr. med. Marcus Bisping 
+19.04.2018 13:58:28 verarbeite Zeile 1 Dr.med. Bernd Menke Facharzt für Innere Medizin 
+19.04.2018 13:58:28 verarbeite Zeile 2 Frau Dr. med. Christiane Wöhrle 
+19.04.2018 13:58:28 verarbeite Zeile 3 Frau Martina Tänzer 
+19.04.2018 13:58:28 verarbeite Zeile 2 Dr. med. Birgit Haka 
+19.04.2018 13:58:28 verarbeite Zeile 1 Dipl.-Psych Julia von Waldenfels 
+19.04.2018 13:58:28 verarbeite Zeile 1 Dr.med. Peter Speiser Facharzt für Innere Medizin 
+19.04.2018 13:58:28 verarbeite Zeile 2 Frau Susanne Heptner 
+19.04.2018 13:58:28 verarbeite Zeile 3 Praxis Dr.med. Holger Haftstein 
+19.04.2018 13:58:28 verarbeite Zeile 1 Dipl.-Psych. Hans Dieter Kolb 
+19.04.2018 13:58:28 verarbeite Zeile 1 Dr. med. Ralf Kost 
+19.04.2018 13:58:28 verarbeite Zeile 1 Dr.med. Sonhild Kolb Fachärztin für Innere Medizin 
+19.04.2018 13:58:28 verarbeite Zeile 1 Dr. med. R. Cardoso 
+19.04.2018 13:58:28 verarbeite Zeile 3 Herr Dr. med. Michael Rosenkranz 
+19.04.2018 13:58:28 verarbeite Zeile 2 Dr.med. Tarek-Christian Andres 
+19.04.2018 13:58:28 verarbeite Zeile 1 Frau Gudrun Schley 
+19.04.2018 13:58:28 verarbeite Zeile 2 Dr. med. Pia Clemens 
+19.04.2018 13:58:28 verarbeite Zeile 1 Praxisgemeinschaft Dr. Schmauß & Dr. Ochsendorf 
+19.04.2018 13:58:28 verarbeite Zeile 2 Frau Ute Watzlaw-Schmidt 
+19.04.2018 13:58:28 verarbeite Zeile 1 Friedrich-Wilhelm Arc 
+19.04.2018 13:58:28 verarbeite Zeile 1 Frau Dipl.-Psych. Ursula Torka 
+19.04.2018 13:58:28 verarbeite Zeile 2 Dr. med. Uwe Hennig 
+19.04.2018 13:58:28 verarbeite Zeile 1 Frau Dipl.-Psych. Andrea Metzkow 
+19.04.2018 13:58:28 verarbeite Zeile 1 Dr. Eberhard Risse 
+19.04.2018 13:58:28 verarbeite Zeile 1 Dr. med. Alexander Putzo 
+19.04.2018 13:58:29 verarbeite Zeile 1 Frau Dipl.-Psych. Karin Bundschuh-Müller 
+index:1
+sizeDiff:0
+idx:1
+
+index:0
+sizeDiff:0
+idx:1
+
+19.04.2018 13:58:29 verarbeite Zeile 1 Dr. med. Hans-Jürgen Beckmann 
+19.04.2018 13:58:29 verarbeite Zeile 3 Herr Prof. Dr. Carl Erb 
+19.04.2018 13:58:29 verarbeite Zeile 2 Schmerzpraxis P57 Dr. med. Lorenz Hotz 
+19.04.2018 13:58:29 verarbeite Zeile 1 Frau Dr. med. Lisette Schulze 
+19.04.2018 13:58:29 verarbeite Zeile 1 Frau Dr. phil. Dipl.-Psych. Sibylle Grüner 
+19.04.2018 13:58:29 verarbeite Zeile 3 Dr.med. Rüdiger Weber Facharzt für Allgemeinmedizin 
+19.04.2018 13:58:29 verarbeite Zeile 2 Herr Dr. med. Paul Lucas 
+index:0
+sizeDiff:3
+idx:4
+
+19.04.2018 13:58:29 verarbeite Zeile 1 Dr. med. Christina Albrecht 
+19.04.2018 13:58:29 verarbeite Zeile 2 Anna Krebs 
+19.04.2018 13:58:29 verarbeite Zeile 3 Frau Dr. med. Christiane Wille 
+19.04.2018 13:58:29 verarbeite Zeile 2 Dr.med.Wilm-Dieter Jach 
+index:0
+sizeDiff:0
+idx:1
+
+index:1
+sizeDiff:0
+idx:1
+
+19.04.2018 13:58:29 verarbeite Zeile 1 Dr. med. Hans-Joachim Henatsch 
+19.04.2018 13:58:29 verarbeite Zeile 1 Herr TipDr. (Univ. Istanbul) Abdulhamit Tellioglu 
+19.04.2018 13:58:30 verarbeite Zeile 3 Hamburger Andreas Prof. Dr. 
+19.04.2018 13:58:30 verarbeite Zeile 1 Dr.med. Dirk Lichtermann Facharzt für Psychiatrie und Psychotherapie 
+19.04.2018 13:58:30 verarbeite Zeile 2 Orthopädisch-Chirurgische Gemeinschaftspraxis Savignyplatz 
+19.04.2018 13:58:30 verarbeite Zeile 2 Chirurgische Gemeinschaftspraxis - Dr. Dau, Dr. Debertin, Dr. Kolbow, O. Reich 
+index:1
+sizeDiff:0
+idx:1
+
+19.04.2018 13:58:30 verarbeite Zeile 2 Orthopädische Gemeinschaftspraxis Dres. Vogeley/Liakos 
+19.04.2018 13:58:30 verarbeite Zeile 2 Frau Dr. med. Dagmar Meyer-Schewitz 
+index:0
+sizeDiff:0
+idx:1
+
+19.04.2018 13:58:30 verarbeite Zeile 3 Dr.med. Gerd Gruber 
+19.04.2018 13:58:30 verarbeite Zeile 2 Herr Dr. med. Christian Rößner 
+index:0
+sizeDiff:4
+idx:5
+
+19.04.2018 13:58:30 verarbeite Zeile 3 Herr Strahil Ivanov Gerchev 
+19.04.2018 13:58:30 verarbeite Zeile 3 Dr.med. Angela B. Westerburg 
+19.04.2018 13:58:30 verarbeite Zeile 2 Kardiologische Praxis Dr. med. Schmidt-Rauch und Dr. med. Bröckling 
+19.04.2018 13:58:30 verarbeite Zeile 3 Herr Dr. med. Michael Bell 
+19.04.2018 13:58:30 verarbeite Zeile 4 Herr Dipl.-Psych. Robert Trapp 
+19.04.2018 13:58:30 verarbeite Zeile 2 Frau Dipl.-Med. Kathrin Samtleben 
+19.04.2018 13:58:30 verarbeite Zeile 3 Gemeinschaftspraxis Dres. Krabbe, Burth, Schacher 
+19.04.2018 13:58:30 verarbeite Zeile 3 Praxis Valentina Bobrowski 
+index:1
+sizeDiff:0
+idx:1
+
+19.04.2018 13:58:30 verarbeite Zeile 2 Frau Dr. med. Christine Fuchs 
+19.04.2018 13:58:30 verarbeite Zeile 3 Uwe Adam EVU GmbH 
+19.04.2018 13:58:30 verarbeite Zeile 2 Dr. med. Christian Breitenbach 
+19.04.2018 13:58:30 verarbeite Zeile 2 Kimpel M. Dr.med., Kimpel S. Dr. med. 
+19.04.2018 13:58:30 verarbeite Zeile 2 Dipl.-Med. Hans Hauk 
+19.04.2018 13:58:30 verarbeite Zeile 3 Allgemeinarztpraxis Isabel Baumann 
+19.04.2018 13:58:31 verarbeite Zeile 2 Dr. med. Barbara Brune Stephan Brune 
+19.04.2018 13:58:31 verarbeite Zeile 2 Helgrid Franke 
+index:0
+sizeDiff:0
+idx:1
+
+19.04.2018 13:58:31 verarbeite Zeile 2 Dr. med. Thomas Dexel 
+19.04.2018 13:58:31 verarbeite Zeile 2 Axel Schulz-Hohenhaus Zahnarzt 
+19.04.2018 13:58:31 verarbeite Zeile 2 Lorenz, Reinhard Dr.med. 
+index:0
+sizeDiff:0
+idx:1
+
+index:0
+sizeDiff:0
+idx:1
+
+19.04.2018 13:58:31 verarbeite Zeile 2 Frau Dipl.-Soz. Päd. (FH) Maria Ziegler-Gögl 
+19.04.2018 13:58:31 verarbeite Zeile 2 Jörn Forkert 
+19.04.2018 13:58:31 verarbeite Zeile 4 Frau Dr. med. Sylke Ludwig 
+index:0
+sizeDiff:0
+idx:1
+
+19.04.2018 13:58:31 verarbeite Zeile 2 Dr.med. Christiane Nastke 
+19.04.2018 13:58:31 verarbeite Zeile 2 Gerinnungszentrum Berlin Dr. Sucker (hervorgegangen aus dem LaboMed Gerinnungszentrum Berlin) 
+19.04.2018 13:58:31 verarbeite Zeile 2 Frau Dr. med. Dipl.-Psych. (Univ.) Gudrun Müller 
+19.04.2018 13:58:31 verarbeite Zeile 2 Herr Dr. med. Klaus Böhme 
+19.04.2018 13:58:31 verarbeite Zeile 3 Michael von Abercron 
+index:0
+sizeDiff:0
+idx:1
+
+19.04.2018 13:58:31 verarbeite Zeile 2 Dr. med. Henrik Pape 
+19.04.2018 13:58:31 verarbeite Zeile 3 Herr Dr. med. Sönke Breitkreuz 
+19.04.2018 13:58:31 verarbeite Zeile 2 Stefan Vollrath 
+19.04.2018 13:58:31 verarbeite Zeile 2 Gemeinschaftspraxis N. Abuzahra & J. Dollmann 
+19.04.2018 13:58:31 verarbeite Zeile 2 Herr Dr. phil. Alfred Walter 
+19.04.2018 13:58:31 verarbeite Zeile 3 Ralf Endnich 
+19.04.2018 13:58:31 verarbeite Zeile 3 Dr. med. Josef Georg Chomicz 
+19.04.2018 13:58:31 verarbeite Zeile 3 Herr Dr. med. (I) Hans-Peter Unger 
+19.04.2018 13:58:31 verarbeite Zeile 4 Dr. med. Elisabeth Kusche 
+19.04.2018 13:58:31 verarbeite Zeile 3 Frau Maria Brake 
+19.04.2018 13:58:31 verarbeite Zeile 4 Dr.med. Holger Kempf 
+19.04.2018 13:58:31 verarbeite Zeile 3 Dr.med. Hubert Zeller Facharzt für Allgemeinmedizin 
+19.04.2018 13:58:31 verarbeite Zeile 2 Britta Freitag Psycholog. Psychotherapeutin 
+19.04.2018 13:58:31 verarbeite Zeile 2 Frau Dipl.-Med. Barbara Heda 
+19.04.2018 13:58:32 verarbeite Zeile 4 Herr Dr. med. Torsten Knobloch 
+19.04.2018 13:58:32 verarbeite Zeile 2 Frau Dr. med. Barbara Zentz 
+index:1
+sizeDiff:0
+idx:1
+
+19.04.2018 13:58:32 verarbeite Zeile 1 Dr. Andreas Hofinga 
+19.04.2018 13:58:32 verarbeite Zeile 3 Herr Dipl.-Psych. Guerdogan Süren 
+19.04.2018 13:58:32 verarbeite Zeile 2 Herr Priv. Doz. Dr. med. Michael van Kampen 
+19.04.2018 13:58:32 verarbeite Zeile 2 Dr. med. Gabriele Caspers-Schmitt 
+19.04.2018 13:58:32 verarbeite Zeile 2 Dr. med. Rudolf Weiß 
+19.04.2018 13:58:32 verarbeite Zeile 3 Frauenärztliches Gesundheits- und Vitalzentrum Dr. Christiane Wessel 
+19.04.2018 13:58:32 verarbeite Zeile 1 Dorothea Hoffmann Psychotherapie 
+19.04.2018 13:58:32 verarbeite Zeile 2 Frau Dr. med. Ute Hohage 
+19.04.2018 13:58:32 verarbeite Zeile 3 Dr. med. Wilhelm Esser-Bartels 
+19.04.2018 13:58:32 verarbeite Zeile 4 Herr Dipl.-Psych. Ronald Schelte 
+19.04.2018 13:58:32 verarbeite Zeile 2 Frau Ulrike Foertsch 
+19.04.2018 13:58:32 verarbeite Zeile 2 Dr. med. Ulrike Breckling 
+19.04.2018 13:58:32 verarbeite Zeile 2 Herr Alexander Scherf 
+19.04.2018 13:58:32 verarbeite Zeile 2 Dr.med. Josef Noderer Facharzt für Anästhesiologie 
+19.04.2018 13:58:32 verarbeite Zeile 2 Psychologische Psychotherapeutin Doris Schmalhofer 
+19.04.2018 13:58:32 verarbeite Zeile 1 Hausärztliche Gemeinschaftspraxis Beate Michel & Dr. med. Keller 
+19.04.2018 13:58:32 verarbeite Zeile 2 Dr. Joachim Könneker 
+19.04.2018 13:58:32 verarbeite Zeile 2 Bärbel Heise 
+19.04.2018 13:58:32 verarbeite Zeile 2 Katharina Matzel-Mayer 
+19.04.2018 13:58:32 verarbeite Zeile 3 Dr. med. Joachim Müller 
+19.04.2018 13:58:32 verarbeite Zeile 2 Franziska von Maltzahn 
+19.04.2018 13:58:32 verarbeite Zeile 2 Stefanie Schlomberg Psycholog.Psychotherapeutin 
+19.04.2018 13:58:32 verarbeite Zeile 2 Dr.med. Rainer Köpcke 
+19.04.2018 13:58:32 verarbeite Zeile 1 Herr Dr. med. Bruno Rossi 
+19.04.2018 13:58:32 verarbeite Zeile 1 Orthopädiezentrum Kurfürstendamm 
+19.04.2018 13:58:32 verarbeite Zeile 3 Herr Dr. med. Axel Kiefer 
+index:0
+sizeDiff:0
+idx:1
+
+index:0
+sizeDiff:1
+idx:2
+
+19.04.2018 13:58:32 verarbeite Zeile 1 Golling, Dr. Hans Joachim 
+index:1
+sizeDiff:0
+idx:1
+
+19.04.2018 13:58:33 verarbeite Zeile 1 Dr. Dr. Tadzic 
+19.04.2018 13:58:33 verarbeite Zeile 4 Orthopädische Gemeinschaftspraxis Bochum 
+19.04.2018 13:58:33 verarbeite Zeile 3 Dr. Rüdiger Weber 
+19.04.2018 13:58:33 verarbeite Zeile 2 Ulrich Dr.med. 
+19.04.2018 13:58:33 verarbeite Zeile 3 Herr Andreas Schafft 
+19.04.2018 13:58:33 verarbeite Zeile 3 Herr Dr. med. Martin Stuthe 
+19.04.2018 13:58:33 verarbeite Zeile 2 Dr.med. Beate Hüttl Fachärztin für Dermatologie 
+19.04.2018 13:58:33 verarbeite Zeile 3 Evers Jens 
+19.04.2018 13:58:33 verarbeite Zeile 2 Praxis Mustafa Yoldas 
+19.04.2018 13:58:33 verarbeite Zeile 3 Silke Eichhorn & Dres.med. Ulrike Mayer-Reining Allgemeinärztliche 
+19.04.2018 13:58:33 verarbeite Zeile 2 Dr.med. Ulrich Fackert Facharzt für Orthopädie 
+19.04.2018 13:58:33 verarbeite Zeile 2 Praxis für Psychoanalyse/Psychotherapie Dipl.Psych. Heidi Spanl 
+19.04.2018 13:58:33 verarbeite Zeile 3 Eva Seeber 
+19.04.2018 13:58:33 verarbeite Zeile 2 Dr.med. Martin Synnatschke 
+19.04.2018 13:58:33 verarbeite Zeile 3 Chirurgisch-Orthopädisches Zentrum Dinslaken (COZD) 
+19.04.2018 13:58:33 verarbeite Zeile 4 Herr Strahil Ivanov Gerchev 
+19.04.2018 13:58:34 verarbeite Zeile 4 Dr. med. Frank Hupe 
+19.04.2018 13:58:34 verarbeite Zeile 3 Carsten Schulze 
+19.04.2018 13:58:34 verarbeite Zeile 4 Dr. Johannes Müller 
+19.04.2018 13:58:34 verarbeite Zeile 4 Herr Dr. med. Michael Kühl 
+index:0
+sizeDiff:0
+idx:1
+
+19.04.2018 13:58:34 verarbeite Zeile 3 Frau Judith Wundenberg-Rohmann 
+19.04.2018 13:58:34 verarbeite Zeile 3 Dr.med. Margitta Raschke 
+19.04.2018 13:58:34 verarbeite Zeile 3 Holderbaum Udo 
+19.04.2018 13:58:34 verarbeite Zeile 4 Praxisgemeinschaft Albrecht u. Moradi 
+19.04.2018 13:58:34 verarbeite Zeile 3 Dr. med. Simone Zenkert 
+19.04.2018 13:58:34 verarbeite Zeile 2 Herr Dr. med. Dirk Lichtermann 
+19.04.2018 13:58:34 verarbeite Zeile 2 Diabetologische Arztpraxis Dr. med. Barbara Sawitzky-Rose 
+19.04.2018 13:58:34 verarbeite Zeile 4 Frau Dipl.-Psych. Ute Langfeld 
+19.04.2018 13:58:34 verarbeite Zeile 3 Jürgen Adrian 
+19.04.2018 13:58:34 verarbeite Zeile 2 Dr. med. Thomas Yeung 
+19.04.2018 13:58:34 verarbeite Zeile 3 Dr. med. Valeska Wessendorf 
+19.04.2018 13:58:34 verarbeite Zeile 4 Dr. med. Michael Busch 
+19.04.2018 13:58:34 verarbeite Zeile 2 Juditha Zoepp 
+19.04.2018 13:58:34 verarbeite Zeile 2 Dr. med. Heike Strobel 
+19.04.2018 13:58:34 verarbeite Zeile 4 Dr. med. Jörg-Friedrich Gerzmann 
+19.04.2018 13:58:34 verarbeite Zeile 2 Herr Dr. med. Martin Riegelsberger 
+19.04.2018 13:58:34 verarbeite Zeile 3 Dr. Beate S. Riedemann 
+19.04.2018 13:58:34 verarbeite Zeile 4 Praxis für Allgemeinmedizin Peter Gaigl 
+19.04.2018 13:58:34 verarbeite Zeile 4 Matthias Grützke 
+19.04.2018 13:58:34 verarbeite Zeile 3 Frau Dr. med. Gabriele Feeken-Wiegand 
+19.04.2018 13:58:34 verarbeite Zeile 4 Krankenhaus Barmherzige Brüder Regensburg 
+19.04.2018 13:58:34 verarbeite Zeile 3 Herr Andreas Galla 
+index:0
+sizeDiff:0
+idx:1
+
+19.04.2018 13:58:34 verarbeite Zeile 2 Dr.med.Armin Heid 
+19.04.2018 13:58:34 verarbeite Zeile 3 Neurologie 360° - Praxis in der Ringstraße in Köln-Rodenkirchen 
+19.04.2018 13:58:34 verarbeite Zeile 4 Praxis für Kinder- und Jugendlichenpsychotherapie Elisabeta Rabe 
+19.04.2018 13:58:34 verarbeite Zeile 4 Frau Dr. phil. Dipl.-Psych. Christina Wiesemann 
+index:2
+sizeDiff:0
+idx:1
+
+19.04.2018 13:58:34 verarbeite Zeile 2 Beck U. Dr.med. 
+19.04.2018 13:58:34 verarbeite Zeile 4 Frau Katharina Wagner 
+19.04.2018 13:58:34 verarbeite Zeile 3 Dr. med. Karin Satow 
+19.04.2018 13:58:34 verarbeite Zeile 2 Dr.med. Karl Heller 
+19.04.2018 13:58:34 verarbeite Zeile 4 Herr Dr. med. Uwe Reihs 
+19.04.2018 13:58:34 verarbeite Zeile 3 Dr. med. Uwe Menzel 
+19.04.2018 13:58:34 verarbeite Zeile 3 Dr.med. Martina Menzel 
+19.04.2018 13:58:35 verarbeite Zeile 2 Hubert Kandels 
+19.04.2018 13:58:35 verarbeite Zeile 4 Frauenärztin Dr.Metze und Dr.Franzke 
+19.04.2018 13:58:35 verarbeite Zeile 5 Dr.med. Thomas Doulas 
+19.04.2018 13:58:35 verarbeite Zeile 3 Frau Dipl.-Psych. Marion Knutzen 
+19.04.2018 13:58:35 verarbeite Zeile 2 Dr. med. Marco Pohl 
+19.04.2018 13:58:35 verarbeite Zeile 3 Uthe Mentzel / Dr. med. Veronika Weißmann 
+19.04.2018 13:58:35 verarbeite Zeile 2 Frau Priv. Doz. Dr. med. Heide Siggelkow 
+index:2
+sizeDiff:1
+idx:1
+
+19.04.2018 13:58:35 verarbeite Zeile 4 Frau Dr. med. Carola Wendler 
+19.04.2018 13:58:35 verarbeite Zeile 2 Dr.med. Dirk Lichtermann Facharzt für Psychiatrie und Psychotherapie 
+index:2
+sizeDiff:0
+idx:1
+
+19.04.2018 13:58:35 verarbeite Zeile 2 Dr. med. Christian Hessel 
+index:1
+sizeDiff:0
+idx:1
+
+19.04.2018 13:58:35 verarbeite Zeile 4 Dr.Klaus Panzer 
+19.04.2018 13:58:35 verarbeite Zeile 2 Frau Kornelia Kuhn 
+19.04.2018 13:58:35 verarbeite Zeile 3 Beate Pilz 
+19.04.2018 13:58:35 verarbeite Zeile 3 Frau Dr. med. Heike Kirchhoff 
+19.04.2018 13:58:35 verarbeite Zeile 4 Frau Dr. med. Ute Kuhnt 
+index:1
+sizeDiff:2
+idx:1
+
+19.04.2018 13:58:35 verarbeite Zeile 2 Peter Schulz und Axel Mähler - Kinder- und Psychotherapie 
+19.04.2018 13:58:35 verarbeite Zeile 3 Frau Dorothee Mehrlein 
+19.04.2018 13:58:35 verarbeite Zeile 3 Dipl.Med. Hanna Kramer Fachärztin f. Allgemeinmedizin 
+19.04.2018 13:58:35 verarbeite Zeile 3 Dr. Udo Rodenbusch 
+19.04.2018 13:58:35 verarbeite Zeile 2 Herr Dr. med. Carl Clemente 
+19.04.2018 13:58:35 verarbeite Zeile 5 Frau Barbara Meerwein 
+19.04.2018 13:58:35 verarbeite Zeile 4 Herr Dr. med. Christian Sprock 
+19.04.2018 13:58:35 verarbeite Zeile 4 Herr Dr. med. Hans-Wolfgang Scheuer 
+19.04.2018 13:58:35 verarbeite Zeile 3 Dr. med. Claudia Waluga-Neven 
+19.04.2018 13:58:35 verarbeite Zeile 3 Frauenarztpraxis Heike Gebhardt 
+19.04.2018 13:58:35 verarbeite Zeile 4 Herr Dr. med. Mariusz Kubik 
+19.04.2018 13:58:35 verarbeite Zeile 3 Dr. med. Jens Dittmann 
+index:0
+sizeDiff:2
+idx:3
+
+19.04.2018 13:58:35 verarbeite Zeile 1 Dr. med. Thomas Toermer 
+19.04.2018 13:58:36 verarbeite Zeile 3 Karsten Schulze 
+19.04.2018 13:58:36 verarbeite Zeile 3 Dr. med. Lamyah El Samman 
+19.04.2018 13:58:36 verarbeite Zeile 4 Praxis Dr. Dröge und M. Bette 
+19.04.2018 13:58:36 verarbeite Zeile 5 Dr. med. Andreas Wagner 
+index:0
+sizeDiff:0
+idx:1
+
+index:1
+sizeDiff:1
+idx:1
+
+19.04.2018 13:58:36 verarbeite Zeile 3 Frau Dipl.-Psych. Evelyn Lehr 
+19.04.2018 13:58:36 verarbeite Zeile 3 Dr. med. Mathias Walden 
+index:0
+sizeDiff:0
+idx:1
+
+19.04.2018 13:58:36 verarbeite Zeile 3 Dr.med. Marek Wojcik 
+19.04.2018 13:58:36 verarbeite Zeile 4 Herr Dr. med. Karsten Karad 
+index:1
+sizeDiff:0
+idx:1
+
+index:2
+sizeDiff:0
+idx:1
+
+19.04.2018 13:58:36 verarbeite Zeile 3 Frau Dipl.-Psych. Annemarie Schloesser 
+19.04.2018 13:58:36 verarbeite Zeile 3 Karen Hartwig 
+19.04.2018 13:58:36 verarbeite Zeile 3 Herr Dr. med. Andreas Wolf 
+19.04.2018 13:58:36 verarbeite Zeile 4 Dr. Thomas Johne 
+19.04.2018 13:58:36 verarbeite Zeile 2 Kerstin Heisler 
+index:2
+sizeDiff:0
+idx:1
+
+19.04.2018 13:58:36 verarbeite Zeile 2 Dr.med. Irmtraud Hüttl Fachärztin für Innere Medizin 
+19.04.2018 13:58:36 verarbeite Zeile 4 Frau Gönül Pamuk 
+19.04.2018 13:58:36 verarbeite Zeile 3 Dr.med. Andreas Istel 
+index:0
+sizeDiff:1
+idx:2
+
+19.04.2018 13:58:36 verarbeite Zeile 4 Herr Dr. med. Thomas Herbst 
+19.04.2018 13:58:36 verarbeite Zeile 2 Dr. Ulrich Wehmeier 
+19.04.2018 13:58:36 verarbeite Zeile 3 Praxis für Schmerztherapie Dr. Anke Boden 
+index:1
+sizeDiff:1
+idx:2
+
+19.04.2018 13:58:36 verarbeite Zeile 4 Frau Heike Tylkoski 
+19.04.2018 13:58:36 verarbeite Zeile 3 Herr Alfred F. Petry 
+19.04.2018 13:58:36 verarbeite Zeile 3 Herr Dr. med. Christoph Handrack 
+19.04.2018 13:58:36 verarbeite Zeile 4 Frau Dipl.-Psych. Helga Kühn 
+19.04.2018 13:58:36 verarbeite Zeile 3 Frau Julia Butz 
+19.04.2018 13:58:37 verarbeite Zeile 2 Frau Renate Rössig 
+19.04.2018 13:58:37 verarbeite Zeile 3 Herr Bernd Leonhardt 
+19.04.2018 13:58:37 verarbeite Zeile 3 Dr. Petra Hunger-Wenke 
+index:0
+sizeDiff:0
+idx:1
+
+19.04.2018 13:58:37 verarbeite Zeile 3 Praxis Dr. Warnke 
+19.04.2018 13:58:37 verarbeite Zeile 2 Herr Dr. med. Thomas Becker 
+19.04.2018 13:58:37 verarbeite Zeile 3 Frau Dr. med. Ute Hohage 
+19.04.2018 13:58:37 verarbeite Zeile 2 Vivantes - MVZ GmbH 
+19.04.2018 13:58:37 verarbeite Zeile 4 Dr. med. Gregor Spira 
+19.04.2018 13:58:37 verarbeite Zeile 3 Prof. Dr. med. Kay Steen 
+19.04.2018 13:58:37 verarbeite Zeile 4 Herr Dr. med. Alfons Schmitz 
+19.04.2018 13:58:37 verarbeite Zeile 2 Herr Markus Schlüren 
+19.04.2018 13:58:37 verarbeite Zeile 3 Axel Möller 
+19.04.2018 13:58:37 verarbeite Zeile 4 Dagmar Liesegang 
+19.04.2018 13:58:37 verarbeite Zeile 5 Praxis Inga Beyer 
+19.04.2018 13:58:37 verarbeite Zeile 3 Frau Dipl.-Psych. Gabriele Saake 
+19.04.2018 13:58:38 verarbeite Zeile 2 Frau Angelika Lagari-Postpischil 
+19.04.2018 13:58:38 verarbeite Zeile 3 Herr Matthias Koch 
+19.04.2018 13:58:38 verarbeite Zeile 3 Dr. Ulrich Sauer 
+19.04.2018 13:58:38 verarbeite Zeile 3 Hausarztpraxis Nolte 
+19.04.2018 13:58:38 verarbeite Zeile 4 Dr.med. Sebnem Özgüler 
+19.04.2018 13:58:38 verarbeite Zeile 4 Dr. Nico Abegunewardene Kardiologe 
+19.04.2018 13:58:38 verarbeite Zeile 3 Dr. med. Heike Barnickel-John 
+19.04.2018 13:58:38 verarbeite Zeile 3 Heidrun Filehr-Hoffmann Dipl.- Psych. Psychologisch Psychotherapeutische Praxis 
+19.04.2018 13:58:38 verarbeite Zeile 4 Herr Dr. med. Klaus Bernstein 
+19.04.2018 13:58:38 verarbeite Zeile 4 Frau Dipl.-Psych. Helga Wierzoch 
+19.04.2018 13:58:38 verarbeite Zeile 4 Herr Dr. med. Rüdiger Schmidt 
+index:1
+sizeDiff:1
+idx:2
+
+19.04.2018 13:58:38 verarbeite Zeile 2 Dr. med. Thomas Herzog 
+19.04.2018 13:58:38 verarbeite Zeile 4 Herr Dr. med. Gregor Spira 
+19.04.2018 13:58:38 verarbeite Zeile 3 Frau Dipl.-Psych. Antoinette von Egidy 
+19.04.2018 13:58:38 verarbeite Zeile 3 Christof Dunkel 
+19.04.2018 13:58:38 verarbeite Zeile 4 Hausärzte Altstadt Spandau 
+19.04.2018 13:58:38 verarbeite Zeile 3 Dr. med. Markus Pfeiffer 
+19.04.2018 13:58:38 verarbeite Zeile 4 Herr Dr. med. Joachim Grewe 
+19.04.2018 13:58:38 verarbeite Zeile 2 Herr Dr. med. Robert Romming 
+19.04.2018 13:58:38 verarbeite Zeile 3 Westfal H.-P. 
+19.04.2018 13:58:38 verarbeite Zeile 3 Rosemarie Paczinski-Henkelmann 
+19.04.2018 13:58:38 verarbeite Zeile 3 Herr Dr. med. Horst Henze 
+19.04.2018 13:58:38 verarbeite Zeile 4 Praxis Dr. Heck 
+19.04.2018 13:58:38 verarbeite Zeile 4 Kernspinzentrum Hamburg-Süd 
+19.04.2018 13:58:38 verarbeite Zeile 4 Frau Dipl.-Psych. Susanne Rink 
+19.04.2018 13:58:38 verarbeite Zeile 5 Dr. med. Hans-Georg Brinkmann 
+19.04.2018 13:58:38 verarbeite Zeile 5 Catherine Wieynk 
+index:2
+sizeDiff:1
+idx:1
+
+19.04.2018 13:58:38 verarbeite Zeile 4 Gemeinschaftspraxis Dr.Hauke, Arnold Weiss, Dr. Schwindt,Dr. Schäfer 
+19.04.2018 13:58:38 verarbeite Zeile 4 Schmid Stefan Dr.med. Facharzt für Allgemeinmedizin 
+19.04.2018 13:58:38 verarbeite Zeile 3 Dr. med. Andreas Lucas 
+19.04.2018 13:58:38 verarbeite Zeile 3 Dr. med. Sylvia Brockhaus 
+index:2
+sizeDiff:1
+idx:2
+
+19.04.2018 13:58:38 verarbeite Zeile 3 Egger-Büssing Anne 
+19.04.2018 13:58:38 verarbeite Zeile 5 Herr Dr. med. Kai Lautenschläger 
+19.04.2018 13:58:38 verarbeite Zeile 4 Dr. med. Ingrid Staab 
+index:0
+sizeDiff:3
+idx:4
+
+19.04.2018 13:58:38 verarbeite Zeile 4 Herr Dipl.-Psych. Kurt Klaus Klein 
+19.04.2018 13:58:38 verarbeite Zeile 5 Sascha Mittag 
+19.04.2018 13:58:39 verarbeite Zeile 1 Herr Dr. med. Hans-Joachim Bohn 
+index:3
+sizeDiff:1
+idx:1
+
+19.04.2018 13:58:39 verarbeite Zeile 3 Dr.med. Irene Knust 
+index:2
+sizeDiff:0
+idx:1
+
+19.04.2018 13:58:39 verarbeite Zeile 5 Dr. med. Friederike Eschlberger und Kollegen 
+19.04.2018 13:58:39 verarbeite Zeile 3 Hubert Kandels 
+19.04.2018 13:58:39 verarbeite Zeile 5 Dr. med. Wolfgang Kraus 
+19.04.2018 13:58:39 verarbeite Zeile 4 Dr. med. Maimu Truderung 
+19.04.2018 13:58:39 verarbeite Zeile 4 Tatjana Paris 
+19.04.2018 13:58:39 verarbeite Zeile 3 Praxis Volker Lüke 
+19.04.2018 13:58:39 verarbeite Zeile 5 Susanne Fromm & Dr. med. W.-P. Wirsich 
+19.04.2018 13:58:39 verarbeite Zeile 5 Herr Dr. med. Theo Stetter 
+19.04.2018 13:58:39 verarbeite Zeile 3 Weiss Ursula Dipl. Psych. u. Hohl Karin Psychologische Physiotherapeutin 
+19.04.2018 13:58:39 verarbeite Zeile 5 Diplom-Psychologin Daniela Bockhorst, psycholog. Psychotherapeutin (VT) 
+19.04.2018 13:58:39 verarbeite Zeile 3 Schulze Karsten Traditionell Zimmerei 
+19.04.2018 13:58:39 verarbeite Zeile 3 Dr.med. Vladimir Todorovic Facharzt für Allgemeinmedizin 
+19.04.2018 13:58:39 verarbeite Zeile 4 Psychotherapeutische Praxis Dr. Gerlach 
+19.04.2018 13:58:39 verarbeite Zeile 3 Lange Rüdiger 
+19.04.2018 13:58:39 verarbeite Zeile 3 Frau Dipl.-Psych. Mathilde Möbus-Flick 
+19.04.2018 13:58:39 verarbeite Zeile 4 Herr Steffen Christmann 
+index:1
+sizeDiff:1
+idx:1
+
+19.04.2018 13:58:39 verarbeite Zeile 4 Dr.med. Jürgen Böke 
+19.04.2018 13:58:39 verarbeite Zeile 3 Dr. med. Predrag Matic 
+19.04.2018 13:58:39 verarbeite Zeile 4 Berndt Christian FA für Allg.Med. und Sportmedizin 
+19.04.2018 13:58:39 verarbeite Zeile 4 Gemeinschaftspraxis Dipl. Psych. Petra Galas, Dipl. Psych. Heiko Wiencke-Galas 
+19.04.2018 13:58:39 verarbeite Zeile 4 Dr. med. Peter Galambos, Dr. med. Kerstin Galambos, Augenzentrum Othmarschen 
+index:3
+sizeDiff:0
+idx:1
+
+19.04.2018 13:58:39 verarbeite Zeile 3 Hausarztpraxis Dr. Julia Steinicke 
+19.04.2018 13:58:39 verarbeite Zeile 4 Herr Dr. med. Michael Dörter 
+19.04.2018 13:58:39 verarbeite Zeile 4 Frau Dr. med. Christine Bürk 
+19.04.2018 13:58:39 verarbeite Zeile 4 Frau Dr. med. Roswitha Ress 
+19.04.2018 13:58:39 verarbeite Zeile 4 Frau Dr. med. Ines Karohl 
+19.04.2018 13:58:39 verarbeite Zeile 5 Dipl.-Med. Jochen Geske Facharzt für Allgemeinmedizin 
+19.04.2018 13:58:39 verarbeite Zeile 5 Herr Michael Götz 
+19.04.2018 13:58:39 verarbeite Zeile 4 Dr. med. Christian Vermehren 
+19.04.2018 13:58:40 verarbeite Zeile 3 Vivantes - MVZ GmbH 
+19.04.2018 13:58:40 verarbeite Zeile 3 Kinderärtzte Friesenweg Dr. Runge/W.Sextro/Dr.Held 
+19.04.2018 13:58:40 verarbeite Zeile 4 Dr. med. Matthias Wenz 
+19.04.2018 13:58:40 verarbeite Zeile 2 Sprenger Sabine 
+index:1
+sizeDiff:3
+idx:2
+
+19.04.2018 13:58:40 verarbeite Zeile 2 Axel Schulz 
+19.04.2018 13:58:40 verarbeite Zeile 4 Dr. med. Bernhard Weber, Dr. med. Oliver Hebgen, Dr. med. Heike Wendland, Dr. med. Michael Munz 
+index:2
+sizeDiff:1
+idx:2
+
+index:1
+sizeDiff:1
+idx:1
+
+19.04.2018 13:58:40 verarbeite Zeile 3 Lehr Evelyn 
+19.04.2018 13:58:40 verarbeite Zeile 2 Dr.med. Angelika Hillscher Fachärztin für Innere Medizin 
+19.04.2018 13:58:40 verarbeite Zeile 5 Priv.-Doz. Dr. S. Trellakis & Kollegen 19.04.2018 13:58:40 verarbeite Zeile 5 Frau Dr. med. Marion Wolter 
+
+19.04.2018 13:58:40 verarbeite Zeile 4 Radiologische Praxis Soest, Niels Meinhardt 
+19.04.2018 13:58:40 verarbeite Zeile 2 Dr. med. Christian Schaller 
+19.04.2018 13:58:40 verarbeite Zeile 3 Dr. Jan Sulzer 
+19.04.2018 13:58:40 verarbeite Zeile 3 Dr.med. Sabine Frey 
+19.04.2018 13:58:40 verarbeite Zeile 2 MVZ Endokrinologikum Göttingen 
+19.04.2018 13:58:40 verarbeite Zeile 5 Andrej Salata Praxis für Psychosomatische Medizin und Psychotherapie 
+19.04.2018 13:58:40 verarbeite Zeile 3 Dr. med. Karin Todoroff 
+19.04.2018 13:58:40 verarbeite Zeile 5 Frau Dr. med. Katharina-E. Gay-Heppelmann 
+19.04.2018 13:58:40 verarbeite Zeile 5 Dr.med. Helmut Schötz 
+19.04.2018 13:58:40 verarbeite Zeile 3 Dr.med. Annette Barner 
+19.04.2018 13:58:40 verarbeite Zeile 3 Dr. med. Birgit Korbonits 
+19.04.2018 13:58:40 verarbeite Zeile 3 Dr. med. Gottfried Niedeggen 
+19.04.2018 13:58:40 verarbeite Zeile 3 Hausarztpraxis am Markt Kirchhatten 
+19.04.2018 13:58:40 verarbeite Zeile 3 Herr Dr. med. Wilfried Zimmermann 
+19.04.2018 13:58:40 verarbeite Zeile 3 Dr. med. Jörg Waldmüller 
+19.04.2018 13:58:40 verarbeite Zeile 2 Dr. Alexander Wurm 
+19.04.2018 13:58:40 verarbeite Zeile 3 Dr. Ralph Müller 
+index:3
+sizeDiff:1
+idx:1
+
+19.04.2018 13:58:41 verarbeite Zeile 6 Herr Dr. med. Gerrit Hohmann 
+19.04.2018 13:58:41 verarbeite Zeile 4 Dr. med. Petra Klemm 
+19.04.2018 13:58:41 verarbeite Zeile 4 Piter S. Dr.med. 
+19.04.2018 13:58:41 verarbeite Zeile 4 Heckmann, Roger 
+index:3
+sizeDiff:0
+idx:1
+
+19.04.2018 13:58:41 verarbeite Zeile 4 Frau Dipl.-Med. Ulla Heyder 
+index:0
+sizeDiff:4
+idx:5
+
+19.04.2018 13:58:41 verarbeite Zeile 1 Dr. med. Hans-Joachim Veith Facharzt für Innere Medizin 
+19.04.2018 13:58:41 verarbeite Zeile 4 Dr.med. Jürgen Buhr Facharzt für Innere Medizin 
+index:2
+sizeDiff:1
+idx:2
+
+19.04.2018 13:58:41 verarbeite Zeile 3 Karsten Schulze 
+19.04.2018 13:58:42 verarbeite Zeile 4 Birgit Nahamowitz Heilpraktikerin 
+19.04.2018 13:58:42 verarbeite Zeile 5 Herr Dr. med. Raphael Liebner 
+index:1
+sizeDiff:0
+idx:1
+
+19.04.2018 13:58:42 verarbeite Zeile 5 Dr. med. Johann Federhofer 
+19.04.2018 13:58:42 verarbeite Zeile 4 Dr. med. Marcus Dahlheim 
+19.04.2018 13:58:42 verarbeite Zeile 4 Frau Viktoria Turovsky 
+19.04.2018 13:58:42 verarbeite Zeile 3 Dr. med. Antje Hilbig 
+19.04.2018 13:58:42 verarbeite Zeile 6 Hautarztpraxis Prof.Khusru Asadullah 
+19.04.2018 13:58:42 verarbeite Zeile 3 Herr Dipl.-Psych. Thomas Albicker 
+19.04.2018 13:58:42 verarbeite Zeile 4 Helmut van Bentum 
+19.04.2018 13:58:42 verarbeite Zeile 5 Dr. med. Withold Riedel 
+19.04.2018 13:58:42 verarbeite Zeile 4 Dr.med. Annett Zörner 
+19.04.2018 13:58:42 verarbeite Zeile 4 Harald Morsbach Facharzt für Allgemeinmedizin 
+19.04.2018 13:58:42 verarbeite Zeile 5 Dr. med. Isabelle Bauer 
+19.04.2018 13:58:42 verarbeite Zeile 5 Dr. med. Cornelia Bachmann 
+19.04.2018 13:58:42 verarbeite Zeile 5 Herr Dr. med. Jochen Stadlbauer 
+19.04.2018 13:58:42 verarbeite Zeile 4 Dr. med. Markus Wohlfrom 
+19.04.2018 13:58:42 verarbeite Zeile 5 Herr Jörg Henrich Siegert 
+19.04.2018 13:58:42 verarbeite Zeile 3 Dr.med. Thomas Frede Facharzt für Urologie 
+19.04.2018 13:58:42 verarbeite Zeile 4 team med amberg 
+index:0
+sizeDiff:5
+idx:6
+
+19.04.2018 13:58:42 verarbeite Zeile 4 Praxis Dr. Jürgen Hofmann 
+19.04.2018 13:58:42 verarbeite Zeile 6 Schulte K. Praxis für Allgemeinmedizin und Geriatrie Alte Spinnerei 
+19.04.2018 13:58:42 verarbeite Zeile 3 Dr. med. Joachim Rüth 
+19.04.2018 13:58:42 verarbeite Zeile 4 Dr.med. Wahidullah Attiq 
+19.04.2018 13:58:42 verarbeite Zeile 5 Prof. Dr. Monika Wagner-Haase 
+19.04.2018 13:58:42 verarbeite Zeile 3 Herr Dr. med. Karl Kress 
+19.04.2018 13:58:42 verarbeite Zeile 3 Uniklinik RWTH Aachen 
+19.04.2018 13:58:42 verarbeite Zeile 4 Praxis Dr. Bartsch 
+19.04.2018 13:58:42 verarbeite Zeile 4 Dr. Dogan Bagci Facharzt für Augenheilkunde 
+19.04.2018 13:58:42 verarbeite Zeile 4 Dr. med. Peter Dünnbier 
+19.04.2018 13:58:42 verarbeite Zeile 5 Frau Dr. med. Gabriele Einsiedler 
+19.04.2018 13:58:42 verarbeite Zeile 5 Frank Schirmer 
+19.04.2018 13:58:42 verarbeite Zeile 4 Dr.med. Hans Engler Facharzt für Innere Medizin 
+19.04.2018 13:58:42 verarbeite Zeile 4 Urologische Gemeinschaftspraxis Dr. med. Frank Michaelis Karin Hantelmann 
+19.04.2018 13:58:42 verarbeite Zeile 6 Katharina Bayer 
+19.04.2018 13:58:43 verarbeite Zeile 4 Dr. med. Rüdiger Müller 
+19.04.2018 13:58:43 verarbeite Zeile 4 Herr Dr. med. Werner Prowald 
+19.04.2018 13:58:43 verarbeite Zeile 6 Dr.med. Andrea Hartmann Fachärztin für Innere Medizin 
+19.04.2018 13:58:43 verarbeite Zeile 4 Cardiologicum Hamburg - Praxis Wandsbek 
+19.04.2018 13:58:43 verarbeite Zeile 4 Ekkehart Pfennig Facharzt für Allgemeinmedizin 
+19.04.2018 13:58:43 verarbeite Zeile 2 Haleh Amjadi 
+19.04.2018 13:58:43 verarbeite Zeile 4 Frauenarztpraxis Dr. medic. Radu Rizea, Dr. med. Annegret Thimm, Herr Klaus Wiegand 
+19.04.2018 13:58:43 verarbeite Zeile 6 Praxis Dres. med. Markus & Ingrid Huntemann 
+19.04.2018 13:58:43 verarbeite Zeile 3 Prof. Dr. med. Ingo Fietze 
+19.04.2018 13:58:43 verarbeite Zeile 4 Mathilde Dürr-Hohenthanner 
+19.04.2018 13:58:43 verarbeite Zeile 4 Zarnitz Ferdinand Facharzt für Haut- und Geschlechtskrankheiten 
+19.04.2018 13:58:43 verarbeite Zeile 5 Hautarztpraxis Drs.Linzbach & Schleussner 
+19.04.2018 13:58:43 verarbeite Zeile 5 Dr. med. Christof Rühl 
+19.04.2018 13:58:43 verarbeite Zeile 4 Karin Kuczewski 
+index:1
+sizeDiff:4
+idx:3
+
+19.04.2018 13:58:43 verarbeite Zeile 4 Frau Dr. med. (Algerien) Sigrid Graf 
+19.04.2018 13:58:43 verarbeite Zeile 4 Frau Dr. med. Almut Rüter-Jungfleisch 
+19.04.2018 13:58:43 verarbeite Zeile 5 Dr. med. Pia Funke 
+19.04.2018 13:58:43 verarbeite Zeile 4 Dr.med. Helga Roidl Fachärztin für Kinder- und Jugendmedizin 
+19.04.2018 13:58:43 verarbeite Zeile 4 Praxis Velten 
+19.04.2018 13:58:43 verarbeite Zeile 5 Helbig Stefan Dr.med. 
+19.04.2018 13:58:43 verarbeite Zeile 4 Frau Birgit Nahamowitz 
+19.04.2018 13:58:43 verarbeite Zeile 3 Dr. Bernhard Reimann 
+19.04.2018 13:58:43 verarbeite Zeile 4 Herr Harald Jourdan 
+19.04.2018 13:58:43 verarbeite Zeile 4 Herr Thomas Hocke-Falcke 
+19.04.2018 13:58:43 verarbeite Zeile 4 Elvira Nikolaev 
+19.04.2018 13:58:43 verarbeite Zeile 5 Thomas Langner 
+19.04.2018 13:58:43 verarbeite Zeile 4 Frau Dr. rer. nat. Dipl.-Psych. Barbara Wardanjan 
+index:2
+sizeDiff:2
+idx:3
+
+19.04.2018 13:58:43 verarbeite Zeile 4 Herr Christian Nolte 
+19.04.2018 13:58:43 verarbeite Zeile 3 Dr. Andreas Schaudig 
+19.04.2018 13:58:43 verarbeite Zeile 3 Karsten Schulze 
+19.04.2018 13:58:43 verarbeite Zeile 3 Dipl. Psych. Heidrun Hankammer 
+19.04.2018 13:58:43 verarbeite Zeile 6 University Hospital Schleswig-Holstein 
+19.04.2018 13:58:43 verarbeite Zeile 4 Dr. med. Dieter Wanjura 
+19.04.2018 13:58:43 verarbeite Zeile 5 Gitta Müller 
+19.04.2018 13:58:43 verarbeite Zeile 5 Gemeinschaftspraxis für Allgemeinmedizin 
+19.04.2018 13:58:43 verarbeite Zeile 5 Psychotherapeutische Praxis Bettina Skerra 
+19.04.2018 13:58:43 verarbeite Zeile 4 Corinna Schmidt 
+19.04.2018 13:58:43 verarbeite Zeile 4 FMZ Dr. Heinicke & Partner, Dipl.-Psych. Mathias Heinicke 
+19.04.2018 13:58:44 verarbeite Zeile 5 Dr. med. Gregor Spira 
+19.04.2018 13:58:44 verarbeite Zeile 3 Beate Steiner 
+19.04.2018 13:58:44 verarbeite Zeile 5 Frau Dr. med. Angelika Gericke 
+19.04.2018 13:58:44 verarbeite Zeile 3 Andrea Dietz-Kretzschmar 
+19.04.2018 13:58:44 verarbeite Zeile 4 Dr.med. Barbara Kirsch 
+19.04.2018 13:58:44 verarbeite Zeile 4 Herr Dipl.-Psych. Roland Haag 
+19.04.2018 13:58:44 verarbeite Zeile 4 Dr.med. Christine Robotta Fachärztin für MKG - Chirurgie 
+19.04.2018 13:58:44 verarbeite Zeile 3 Manfred Gundel 
+19.04.2018 13:58:44 verarbeite Zeile 6 Waldemar Zeiser 
+19.04.2018 13:58:44 verarbeite Zeile 6 Herr Dr. med. Paul-Heinz Schroers 
+19.04.2018 13:58:44 verarbeite Zeile 5 Dr. med. Gabriele Hippke 
+19.04.2018 13:58:44 verarbeite Zeile 4 Sabine Scharffetter 
+19.04.2018 13:58:44 verarbeite Zeile 4 Frau Dr. med. Heike Bruckner 
+19.04.2018 13:58:44 verarbeite Zeile 5 Dr. med. C. Steltemeier Fachärztin für Urologie 
+index:2
+sizeDiff:0
+idx:1
+
+19.04.2018 13:58:44 verarbeite Zeile 4 Radiologische Praxis Dr. med. Erdal Sucu 
+19.04.2018 13:58:44 verarbeite Zeile 5 Dr. med. Anne-Elisabeth Franz 
+19.04.2018 13:58:44 verarbeite Zeile 4 Dr. med. Barbara Ibe 
+19.04.2018 13:58:44 verarbeite Zeile 6 Gemeinschaftspraxis für Kinder- und Jugendmedizin Dr. Morandini und Dr. Wild 
+19.04.2018 13:58:44 verarbeite Zeile 4 Robert Müller GmbH 
+19.04.2018 13:58:44 verarbeite Zeile 3 Psychotherapeutische Praxis Uta & Georg Wünnemann 
+19.04.2018 13:58:44 verarbeite Zeile 5 Psychotherapeutische Praxis Neveling Nicole 
+19.04.2018 13:58:44 verarbeite Zeile 4 Herr Prof. Dr. med. Wolfgang Schepp 
+19.04.2018 13:58:44 verarbeite Zeile 4 Dr. Stefan Thias 
+19.04.2018 13:58:44 verarbeite Zeile 5 Frau Dr. med. Silke Tinger 
+index:2
+sizeDiff:2
+idx:1
+
+19.04.2018 13:58:44 verarbeite Zeile 5 Frau Lucia Koschel 
+19.04.2018 13:58:44 verarbeite Zeile 5 Dr. med. Albrecht Roth 
+19.04.2018 13:58:44 verarbeite Zeile 4 Dr. med. Monika Zeller 
+19.04.2018 13:58:44 verarbeite Zeile 4 Richer H. Dr.med. 
+19.04.2018 13:58:44 verarbeite Zeile 3 Herr Prof. Dr. Wolfram Karges 
+19.04.2018 13:58:44 verarbeite Zeile 4 Dogan Bagci Facharzt für Augenheilkunde 
+19.04.2018 13:58:44 verarbeite Zeile 5 Dr. med. Bernd Ramme 
+19.04.2018 13:58:44 verarbeite Zeile 3 Herr Dr. med. Guido Müller 
+19.04.2018 13:58:45 verarbeite Zeile 4 Herr Dr. med. Erhard Gerono 
+19.04.2018 13:58:45 verarbeite Zeile 5 Dr. med. Burkhard Block 
+19.04.2018 13:58:45 verarbeite Zeile 4 Dipl.-Psychologin Marion Schwarz 
+19.04.2018 13:58:45 verarbeite Zeile 6 Dr.med. Eckhard Limmer 
+19.04.2018 13:58:45 verarbeite Zeile 6 Frau Dipl.-Psych. Barbara Brzeska 
+19.04.2018 13:58:45 verarbeite Zeile 4 Dr. med. Jan Noack 
+19.04.2018 13:58:45 verarbeite Zeile 4 Dr. med. Heinz Hecker 
+19.04.2018 13:58:45 verarbeite Zeile 3 Axel Schulz Zahnarzt 
+19.04.2018 13:58:45 verarbeite Zeile 4 Dipl.-Med. Brigitte Plath 
+19.04.2018 13:58:45 verarbeite Zeile 2 Dr. med. Rainer Czornik 
+19.04.2018 13:58:45 verarbeite Zeile 6 Dr. med. Wolfgang Benen 
+19.04.2018 13:58:45 verarbeite Zeile 4 Gemeinschaftspraxis Dr. F. J. Zumbé 
+index:3
+sizeDiff:2
+idx:1
+
+19.04.2018 13:58:45 verarbeite Zeile 4 Dr. med. Wolfgang Lohmann 
+19.04.2018 13:58:45 verarbeite Zeile 4 Herr Dipl.-Psych. Norbert Hörmann 
+index:3
+sizeDiff:1
+idx:1
+
+19.04.2018 13:58:45 verarbeite Zeile 6 Dr. med. Withold Riedel 
+19.04.2018 13:58:45 verarbeite Zeile 6 Dr. med. Olaf Schmitt-Kilian 
+19.04.2018 13:58:45 verarbeite Zeile 5 Anna Gajda 
+19.04.2018 13:58:45 verarbeite Zeile 6 Katrin Asmussen 
+19.04.2018 13:58:46 verarbeite Zeile 5 Herr Dr. med. Thomas Fritz 
+19.04.2018 13:58:46 verarbeite Zeile 6 Hautärzte Bahnhofstraße Dr. med. Marie-Luise Preil Dermatologin 
+19.04.2018 13:58:46 verarbeite Zeile 3 Dr. med. Dirk Tummes 
+19.04.2018 13:58:46 verarbeite Zeile 5 Frau Dipl.-Psych. Brigitte Arndt-Page 
+19.04.2018 13:58:46 verarbeite Zeile 4 Herr Dr. med. Christian-Matthias Lange 
+index:3
+sizeDiff:0
+idx:1
+
+19.04.2018 13:58:46 verarbeite Zeile 5 Dr.med. Antonio Galati 
+19.04.2018 13:58:46 verarbeite Zeile 4 Herr Christian Schmidt 
+19.04.2018 13:58:46 verarbeite Zeile 5 Herr Dr. med. Gregor Spira 
+19.04.2018 13:58:46 verarbeite Zeile 3 Andrea Dietz-Kretschmar 
+19.04.2018 13:58:46 verarbeite Zeile 6 Medizinische Hochschule Hannover 
+19.04.2018 13:58:46 verarbeite Zeile 5 Dr. med. Stephan Schulte 
+19.04.2018 13:58:46 verarbeite Zeile 2 Dr. med. Jens Bredehöft 
+19.04.2018 13:58:46 verarbeite Zeile 5 Wassmann A. Dr. 
+19.04.2018 13:58:46 verarbeite Zeile 4 Dr. med. Thomas Kempf 
+19.04.2018 13:58:46 verarbeite Zeile 3 Frau Dipl.-Psych. Monika Engers 
+19.04.2018 13:58:46 verarbeite Zeile 6 Dr. med. Henning Isbruch 
+19.04.2018 13:58:46 verarbeite Zeile 4 Dr. med. Eberhard Goldbach 
+index:2
+sizeDiff:3
+idx:4
+
+19.04.2018 13:58:46 verarbeite Zeile 5 Dr. med. Michael Koster 
+19.04.2018 13:58:46 verarbeite Zeile 3 Karsten Schulze Landwirtschaft 
+19.04.2018 13:58:46 verarbeite Zeile 2 Herr Dr. med. Josef Jansa 
+19.04.2018 13:58:46 verarbeite Zeile 5 Frau Dr. med. Bettina Peuser 
+19.04.2018 13:58:46 verarbeite Zeile 4 Laborarztpraxis Jochen Hüter / InVitaLab 
+19.04.2018 13:58:46 verarbeite Zeile 4 Herr Dipl.-Psych. Klaus-Peter Boettcher 
+19.04.2018 13:58:46 verarbeite Zeile 6 Dr. med. Jochen Ahrens 
+19.04.2018 13:58:46 verarbeite Zeile 5 Frau Dipl.-Psych. Nicole Tophoven-Arimond 
+index:3
+sizeDiff:0
+idx:1
+
+19.04.2018 13:58:46 verarbeite Zeile 5 Frau Dr. med. Anette Heinz 
+19.04.2018 13:58:46 verarbeite Zeile 5 Dr. Sorin Popowitsch 
+19.04.2018 13:58:46 verarbeite Zeile 3 Frau Dr. rer. nat. Dipl.-Psych. Katharina Rudolf 
+19.04.2018 13:58:46 verarbeite Zeile 5 Herr Dipl.-Psych. Horst Götschel 
+19.04.2018 13:58:47 verarbeite Zeile 5 Gemeinschaftspraxis Dr.Anke Joachim, Dr. Birgit Roth 
+19.04.2018 13:58:47 verarbeite Zeile 4 Frau Dipl.-Med. Simone Mandel 
+19.04.2018 13:58:47 verarbeite Zeile 6 Patricia Burkhardt 
+19.04.2018 13:58:47 verarbeite Zeile 4 Dr. med. Bernhard Weber, Dr. med. Oliver Hebgen, Frau Dr. med. Heike Wendland, Dr. med. Michael Munz 
+19.04.2018 13:58:47 verarbeite Zeile 4 Herr Dr. med. Wilfried Zimmermann 
+19.04.2018 13:58:47 verarbeite Zeile 4 Dr.med. Wolfgang Lang 
+19.04.2018 13:58:47 verarbeite Zeile 7 Katrin Beigel 
+19.04.2018 13:58:47 verarbeite Zeile 7 Dr. med. Brigitte Seeger 
+19.04.2018 13:58:47 verarbeite Zeile 5 Dr. med. Johannes Möllers 
+19.04.2018 13:58:47 verarbeite Zeile 6 Arztpraxis Joanna Gojowy Allgemeinmedizinerin, Naturheilkunde, Oxyvenierung 
+19.04.2018 13:58:47 verarbeite Zeile 5 Frauenarztpraxis Dr. med. Sabine Becke 
+19.04.2018 13:58:47 verarbeite Zeile 7 Kristin Nowak | Neurologin 
+19.04.2018 13:58:47 verarbeite Zeile 4 Herr Jose Rama 
+19.04.2018 13:58:47 verarbeite Zeile 5 Frau Dr. med. Helga Neubert 
+19.04.2018 13:58:47 verarbeite Zeile 5 Dr. med. Emy Koen 
+19.04.2018 13:58:47 verarbeite Zeile 5 Herr Wolfgang Wildenauer 
+index:3
+sizeDiff:0
+idx:1
+
+19.04.2018 13:58:47 verarbeite Zeile 5 Dr. Guido Auner 
+19.04.2018 13:58:47 verarbeite Zeile 6 Dr. med. Ingo Müller 
+19.04.2018 13:58:47 verarbeite Zeile 4 Herr Dipl.-Psych. Achim Noschka 
+19.04.2018 13:58:47 verarbeite Zeile 4 Prof. Dr. med. Ingo Fietze 
+19.04.2018 13:58:47 verarbeite Zeile 5 Herr Frank Guhlke 
+19.04.2018 13:58:47 verarbeite Zeile 5 Dr. med. Beatrix Weiler Fachärztin für Augenheilkunde 
+19.04.2018 13:58:47 verarbeite Zeile 5 Gemeinschaftspraxis Birnkammerer (Dipl.-Med. /Dr.med.) 
+19.04.2018 13:58:47 verarbeite Zeile 5 Dr. med. Erhard Hundertmark 
+19.04.2018 13:58:47 verarbeite Zeile 6 Dr.med. Christina Walke 
+19.04.2018 13:58:47 verarbeite Zeile 7 Dr. med. Kerstin Kaltenberg 
+19.04.2018 13:58:47 verarbeite Zeile 5 Frau Thuy Thuy Truong 
+19.04.2018 13:58:47 verarbeite Zeile 4 Dr. med. Johannes Hubbe 
+19.04.2018 13:58:47 verarbeite Zeile 5 Dipl.-Med. Heidi Wolter 
+19.04.2018 13:58:48 verarbeite Zeile 7 Dr.med. Bernhard Klein Facharzt für Allgemeinmedizin 
+19.04.2018 13:58:48 verarbeite Zeile 5 Frau Dipl.-Psych. Sabine Kämmer 
+19.04.2018 13:58:48 verarbeite Zeile 5 Philipps-Universität Marburg 
+19.04.2018 13:58:48 verarbeite Zeile 6 Dr. med. Jörg Andreas Larsen 
+19.04.2018 13:58:48 verarbeite Zeile 5 Frau Dr. phil. Dipl.-Psych. Heike Westenberger-Breuer 
+19.04.2018 13:58:48 verarbeite Zeile 5 Benito Oroval Frank-Robert 
+19.04.2018 13:58:48 verarbeite Zeile 5 Oliver Mathalm 
+index:3
+sizeDiff:0
+idx:1
+
+19.04.2018 13:58:48 verarbeite Zeile 5 Irina Kappes 
+19.04.2018 13:58:48 verarbeite Zeile 4 Herr Dr. med. Johannes Peter 
+19.04.2018 13:58:48 verarbeite Zeile 5 Frau Dr. med. Angelika Düren 
+index:3
+sizeDiff:0
+idx:1
+
+19.04.2018 13:58:48 verarbeite Zeile 3 Dr. med. Carolina Thron-Übler 
+19.04.2018 13:58:48 verarbeite Zeile 7 Gemeinschaftspraxis Dres. Ditzel und Dr. Raulf 
+19.04.2018 13:58:48 verarbeite Zeile 7 Frau Dipl.-Med. Jutta Drehmel 
+19.04.2018 13:58:48 verarbeite Zeile 4 DIE RADIOLOGIE 
+19.04.2018 13:58:48 verarbeite Zeile 5 Dr. Klaus Eberhart 
+19.04.2018 13:58:48 verarbeite Zeile 6 Hautarztpraxis Dr. Med. Harald Voth 
+19.04.2018 13:58:48 verarbeite Zeile 7 Dr. med. Eberhard Grewe 
+19.04.2018 13:58:48 verarbeite Zeile 5 Herr Dr. med. Ingo Beck 19.04.2018 13:58:48 verarbeite Zeile 5 Dr. med. Stefan Bilger 
+19.04.2018 13:58:48 verarbeite Zeile 6 Dr. Miriam Cirugeda-Kühnert 
+index:2
+sizeDiff:3
+idx:2
+
+19.04.2018 13:58:48 verarbeite Zeile 6 Frau Dr. med. Anja Fechtrup 
+19.04.2018 13:58:48 verarbeite Zeile 7 Herr Prof. Dr. med. Joachim Oertel 
+19.04.2018 13:58:48 verarbeite Zeile 7 Praxis Dr. med Manfred Siedl 
+
+index:2
+sizeDiff:0
+idx:1
+
+19.04.2018 13:58:48 verarbeite Zeile 3 Praxis für Psychotherapie Diplom- Psychologe Markus Höhn 
+19.04.2018 13:58:48 verarbeite Zeile 5 Dr.med. Monika Sobottke Fachärztin f.Psychosomat.Med. und Psychotherapie 
+index:4
+sizeDiff:2
+idx:1
+
+19.04.2018 13:58:48 verarbeite Zeile 7 Dr. med. Ulrike Schaub (Geb. Hedusch) 
+19.04.2018 13:58:48 verarbeite Zeile 6 Dr. Victoria Schuller 
+19.04.2018 13:58:48 verarbeite Zeile 3 Axel Schulz-Hohenhaus Zahnarzt 
+19.04.2018 13:58:48 verarbeite Zeile 4 Dr. Gerhard Guffarth 
+index:3
+sizeDiff:0
+idx:1
+
+index:4
+sizeDiff:1
+idx:1
+
+19.04.2018 13:58:48 verarbeite Zeile 6 Dr. med. Eugen Lehner 
+19.04.2018 13:58:48 verarbeite Zeile 4 Dr. med. Walter Engelbert 
+19.04.2018 13:58:48 verarbeite Zeile 6 Internistische Praxis Vellmar 
+index:2
+sizeDiff:4
+idx:5
+
+19.04.2018 13:58:48 verarbeite Zeile 5 Herr Dr. med. Wolfgang Schaack-Vogell 
+index:3
+sizeDiff:1
+idx:1
+
+19.04.2018 13:58:49 verarbeite Zeile 4 Herr Dr. med. Ingo Kretzschel 
+19.04.2018 13:58:49 verarbeite Zeile 3 Carsten Schulze-Rehberg 
+19.04.2018 13:58:49 verarbeite Zeile 6 Werner Wicker Klinik Orthopädisches Schwerpunktklinikum 
+19.04.2018 13:58:49 verarbeite Zeile 6 Dr.med. Elisabeth Eichenauer Fachärztin für Innere Medizin 
+index:1
+sizeDiff:1
+idx:1
+
+19.04.2018 13:58:49 verarbeite Zeile 5 Dr. med. Christian Schulz 
+19.04.2018 13:58:49 verarbeite Zeile 6 GP Dr.med. Barbara Ehrhardt & Steffi Herfurth 
+19.04.2018 13:58:49 verarbeite Zeile 5 Dipl.-Med. Ina Walther 
+index:3
+sizeDiff:1
+idx:2
+
+19.04.2018 13:58:49 verarbeite Zeile 6 Dr. med. Ute Grätz 
+19.04.2018 13:58:49 verarbeite Zeile 6 Dr. med. Martin Renner 
+19.04.2018 13:58:49 verarbeite Zeile 5 Frau Michaela Künkel 
+index:3
+sizeDiff:1
+idx:1
+
+19.04.2018 13:58:49 verarbeite Zeile 4 Frau Dr. med. Susanne Schepp 
+19.04.2018 13:58:49 verarbeite Zeile 5 Herr Dipl.-Psych. Günter Schäfer 
+19.04.2018 13:58:50 verarbeite Zeile 7 Herr Dr. med. Ulrich Schneider 
+19.04.2018 13:58:50 verarbeite Zeile 5 Herr Dipl.-Med. Klaus Eberhart 
+19.04.2018 13:58:50 verarbeite Zeile 5 Herr Dr. med. Georg Glanz 
+19.04.2018 13:58:50 verarbeite Zeile 4 Dr.med. Martha Ertl-Gehrke 
+19.04.2018 13:58:50 verarbeite Zeile 5 Dr. med. Hans-Jürgen Döse 
+19.04.2018 13:58:50 verarbeite Zeile 6 Dipl.Med. Petra Lorenz 
+19.04.2018 13:58:50 verarbeite Zeile 6 Merk Kathrin Dr. & Kollegen 
+19.04.2018 13:58:50 verarbeite Zeile 6 Sebastian Voigts 
+19.04.2018 13:58:50 verarbeite Zeile 3 Herr Jörg Bothe 
+index:2
+sizeDiff:5
+idx:1
+
+19.04.2018 13:58:50 verarbeite Zeile 3 Peter Schulz und Axel Mähler - Kinder- und Psychotherapie 
+19.04.2018 13:58:50 verarbeite Zeile 6 Dr. med. (SYR) Ismail M. Arous 
+19.04.2018 13:58:50 verarbeite Zeile 4 Dr.med. Bettina Lietzberg 
+19.04.2018 13:58:50 verarbeite Zeile 5 Dr. Monika Sobottke 
+19.04.2018 13:58:50 verarbeite Zeile 6 Herr Dr. med. Henno Elsäßer 
+19.04.2018 13:58:50 verarbeite Zeile 6 Dr. med. Steffen Riedt 
+19.04.2018 13:58:50 verarbeite Zeile 4 Dr.med. Dietmar Rinker Facharzt für Physikalische und Rehabilitative Medizin 
+index:3
+sizeDiff:2
+idx:2
+
+19.04.2018 13:58:50 verarbeite Zeile 5 Dr.med. Dietlinde Pörsel 
+19.04.2018 13:58:50 verarbeite Zeile 4 Dr.med. Uta Vieweg 
+19.04.2018 13:58:50 verarbeite Zeile 7 Frau Dipl.-Psych. Adelheid Schlarmann-Korte 
+19.04.2018 13:58:50 verarbeite Zeile 6 Frauenärztinnen Durlach 
+19.04.2018 13:58:50 verarbeite Zeile 6 Dr. med. Thomas Langer 
+19.04.2018 13:58:50 verarbeite Zeile 8 Vesela Loch 
+19.04.2018 13:58:50 verarbeite Zeile 3 Herr Dr. med. Hartmut Hoppe 
+19.04.2018 13:58:50 verarbeite Zeile 5 Dr. med. Elisabeth Langendörfer 
+19.04.2018 13:58:50 verarbeite Zeile 5 Praxis Dr. Pleißner 
+19.04.2018 13:58:50 verarbeite Zeile 4 Dr.med. Ulrich Müller-Römer, Facharzt für Kinder- und Jugendmedizin, Neonatologie 
+19.04.2018 13:58:50 verarbeite Zeile 4 Dr.med. Thomas Zörcher Facharzt für Urologie 
+19.04.2018 13:58:50 verarbeite Zeile 6 Dr. Olaf Bick 
+19.04.2018 13:58:50 verarbeite Zeile 6 Dr.med. Hermann-Josef Simonis Facharzt für Allgemeinmedizin 
+19.04.2018 13:58:50 verarbeite Zeile 3 Bernd Michael Roth Facharzt für Allgemeinmedizin 
+19.04.2018 13:58:50 verarbeite Zeile 4 Frau Dipl.-Psych. Evelyn Gebhardt 
+19.04.2018 13:58:50 verarbeite Zeile 7 Frau Anita Conze 
+19.04.2018 13:58:50 verarbeite Zeile 5 Dr. med. Axel Brümmer, Facharzt für Innere Medizin, Nieren- und Hochdruckerkrankungen 
+19.04.2018 13:58:50 verarbeite Zeile 6 Dr. Thomas Eggert-Hackenberg 
+19.04.2018 13:58:50 verarbeite Zeile 5 Dr. med. habil. Wolfgang Gast 
+19.04.2018 13:58:50 verarbeite Zeile 5 Dipl.Med. Martina Ulrich Fachärztin für Orthopädie 
+19.04.2018 13:58:50 verarbeite Zeile 5 Hauser Gerhard Dr.med. Praxis für Allgemeinmedizin 
+19.04.2018 13:58:50 verarbeite Zeile 6 Dipl.-Psych. Bettina Weigel 
+19.04.2018 13:58:51 verarbeite Zeile 5 Tobias Bahr 
+19.04.2018 13:58:51 verarbeite Zeile 4 Dr. med. Dieter Flierl 
+19.04.2018 13:58:51 verarbeite Zeile 6 Dr.med. Gabriela Göldner 
+19.04.2018 13:58:51 verarbeite Zeile 5 Dr. Roland Bühlmaier 
+19.04.2018 13:58:51 verarbeite Zeile 5 Dr.med. Thomas Abel 
+19.04.2018 13:58:51 verarbeite Zeile 7 Frau Dr. med. Angelika Schneider-Menn 
+19.04.2018 13:58:51 verarbeite Zeile 4 Dipl.-Psych. Klaus Reimer 
+19.04.2018 13:58:51 verarbeite Zeile 5 Dr.med. Norbert Graubner 
+index:4
+sizeDiff:1
+idx:1
+
+19.04.2018 13:58:51 verarbeite Zeile 3 Dr. Andreas Winter 
+index:3
+sizeDiff:2
+idx:2
+
+19.04.2018 13:58:51 verarbeite Zeile 6 Dr.med. Jörg Andreas Larsen 
+19.04.2018 13:58:51 verarbeite Zeile 3 Dr. Frank Bürger 
+19.04.2018 13:58:51 verarbeite Zeile 6 Praxis Dr. Bielfeld 
+19.04.2018 13:58:51 verarbeite Zeile 5 Dr.med. Anne Althoff und Simone Casser 
+19.04.2018 13:58:51 verarbeite Zeile 8 Petra Scheuermann 
+19.04.2018 13:58:51 verarbeite Zeile 8 Wilhelm Hufnagel Bauunternehmen 
+19.04.2018 13:58:51 verarbeite Zeile 6 Dr. med. Natascha Hess - MVZ Rankestraße GmbH 
+19.04.2018 13:58:51 verarbeite Zeile 6 Hans-Peter Galonska 
+19.04.2018 13:58:51 verarbeite Zeile 5 Uphuser Ärzteteam: Lobsien, Reller und Grünefeld 
+index:2
+sizeDiff:6
+idx:2
+
+19.04.2018 13:58:51 verarbeite Zeile 8 Frau Dr. med. Enide Bischof-Leger 
+index:4
+sizeDiff:0
+idx:1
+
+19.04.2018 13:58:51 verarbeite Zeile 6 Dr. med. Sabine Mertens 
+19.04.2018 13:58:51 verarbeite Zeile 6 Hatice Konakci 
+19.04.2018 13:58:51 verarbeite Zeile 6 Dr. med. Bernd Fürstenau 
+19.04.2018 13:58:51 verarbeite Zeile 6 Dr.med. Jutta Oberndorfer 
+index:5
+sizeDiff:0
+idx:1
+
+19.04.2018 13:58:51 verarbeite Zeile 3 Axel Schulz 
+19.04.2018 13:58:51 verarbeite Zeile 5 Dr.med. Manfred Maylahn Praktischer Arzt 
+19.04.2018 13:58:51 verarbeite Zeile 5 Müller-Trudrung Michael Dr.med. 
+19.04.2018 13:58:51 verarbeite Zeile 7 Dr. Müller-Thurmann, Svenja -Fachärztin für HNO 
+19.04.2018 13:58:51 verarbeite Zeile 4 Herr Dr. med. Hans-Jörg Ebell 
+19.04.2018 13:58:51 verarbeite Zeile 5 Dr. Rainer Kroschinski 
+19.04.2018 13:58:51 verarbeite Zeile 5 Lange Christine Psychotherapeutische Praxis 
+19.04.2018 13:58:51 verarbeite Zeile 6 Gemeinschaftspraxis für Allgemeinmedizin 
+19.04.2018 13:58:52 verarbeite Zeile 6 Herr Dr. med. Uwe H. Farr 
+19.04.2018 13:58:52 verarbeite Zeile 5 Frau Dipl.-Psych. Helena Hüttmann 
+19.04.2018 13:58:52 verarbeite Zeile 6 Dipl.-Med. Christine Saupe 
+19.04.2018 13:58:52 verarbeite Zeile 6 Frau Dipl.-Psych. Eva-Maria Horn-Teka 
+19.04.2018 13:58:52 verarbeite Zeile 7 Frau Dr. med. Doris Tormann 
+19.04.2018 13:58:52 verarbeite Zeile 6 Dr. med. Thomas Langer Facharzt für Innere Medizin und Nephrologie 
+19.04.2018 13:58:52 verarbeite Zeile 8 MVZ Wülfrath, Rita Kreber und Gesa Kumberg 
+index:2
+sizeDiff:5
+idx:6
+
+19.04.2018 13:58:52 verarbeite Zeile 6 Dr.med. Norbert Gildein 
+index:3
+sizeDiff:3
+idx:3
+
+19.04.2018 13:58:52 verarbeite Zeile 4 Herr Dr. med. Hanno Guhlmann 19.04.2018 13:58:52 verarbeite Zeile 7 Dr. med. Sabine Auschra 
+19.04.2018 13:58:52 verarbeite Zeile 7 Praxis am Seepark – Dr. med. Annette Spohrer, Dr. med. Michael Waschkies 
+19.04.2018 13:58:52 verarbeite Zeile 3 Karsten Schulze 
+19.04.2018 13:58:52 verarbeite Zeile 4 Dr. med. Birgit Wilhelm 
+19.04.2018 13:58:52 verarbeite Zeile 6 Dr. Elsässer Henno 
+
+19.04.2018 13:58:52 verarbeite Zeile 6 Herr Martin Hecken 
+19.04.2018 13:58:52 verarbeite Zeile 5 Dr. med. Sabine Altmann-Kraft 
+19.04.2018 13:58:52 verarbeite Zeile 7 Dipl.-Psych. Sarah Ginsberg 
+19.04.2018 13:58:52 verarbeite Zeile 6 Dr. Iris Mumm 
+19.04.2018 13:58:52 verarbeite Zeile 5 Radiologie Nuklearmedizin Mannheim 
+19.04.2018 13:58:52 verarbeite Zeile 7 Dr.med. Silke Lüder 
+19.04.2018 13:58:52 verarbeite Zeile 7 Herr Dr. med. Andreas Westermann 
+19.04.2018 13:58:52 verarbeite Zeile 4 Dialyse Landstuhl 
+19.04.2018 13:58:52 verarbeite Zeile 5 Dr. med. Heike Schlötzer 
+19.04.2018 13:58:53 verarbeite Zeile 5 Dr. med. Salvatore Busche 
+19.04.2018 13:58:53 verarbeite Zeile 6 Dr. med. Thomas Glaremin 
+19.04.2018 13:58:53 verarbeite Zeile 5 Jutta Tenzer 
+19.04.2018 13:58:53 verarbeite Zeile 4 Dr. Walter Mildenberger Facharzt für Innere Medizin in Falkensee 
+19.04.2018 13:58:53 verarbeite Zeile 7 Joachim Loch-Falge 
+19.04.2018 13:58:53 verarbeite Zeile 5 Herr Dipl.-Psych. Olaf Woithon 
+19.04.2018 13:58:53 verarbeite Zeile 5 Frau Dipl.-Med. Martina Ulrich 
+19.04.2018 13:58:53 verarbeite Zeile 5 Susanne Jung 
+index:3
+sizeDiff:2
+idx:1
+
+19.04.2018 13:58:53 verarbeite Zeile 8 Praxis für Frauen Service GbR 
+19.04.2018 13:58:53 verarbeite Zeile 6 Holde Kreul 
+19.04.2018 13:58:53 verarbeite Zeile 8 Augenarztpraxis Dr. med. Eva Haid 
+index:5
+sizeDiff:0
+idx:1
+
+19.04.2018 13:58:53 verarbeite Zeile 7 Prof. Dr. med. Margot Wüstner-Hofmann 
+19.04.2018 13:58:53 verarbeite Zeile 6 Herr Dr. med. Andreas Kruppa 
+19.04.2018 13:58:53 verarbeite Zeile 6 Herr Dipl.-Psych. Wolfgang Barth 
+19.04.2018 13:58:53 verarbeite Zeile 5 Dipl.Med. Brigitte Rentsch 
+19.04.2018 13:58:53 verarbeite Zeile 5 Dr.med.Paul Althoff 
+19.04.2018 13:58:54 verarbeite Zeile 7 Birgit Hollenhorst 
+19.04.2018 13:58:54 verarbeite Zeile 6 Dr. med. Stefan Behr 
+index:2
+sizeDiff:7
+idx:3
+
+19.04.2018 13:58:54 verarbeite Zeile 7 Dr.med. Walter Voß 
+19.04.2018 13:58:54 verarbeite Zeile 5 Frau Dipl.-Psych. Pia Ernst-Scharnitzki 
+19.04.2018 13:58:54 verarbeite Zeile 7 M. Oliver Ahlers 
+19.04.2018 13:58:54 verarbeite Zeile 6 Frau Dipl.-Psych. Hannelore Mangen 
+19.04.2018 13:58:54 verarbeite Zeile 7 Dr. Olaf Bick 
+19.04.2018 13:58:54 verarbeite Zeile 4 Dr.med. Fritz Hofstetter 
+19.04.2018 13:58:54 verarbeite Zeile 7 Gemeinschaftspraxis Drs. Klausmann 
+19.04.2018 13:58:54 verarbeite Zeile 6 Frau Dr. med. Iris Blum 
+19.04.2018 13:58:54 verarbeite Zeile 6 Venenzentrum Aalen Dr. med. Engin Usta 
+19.04.2018 13:58:54 verarbeite Zeile 7 Dr. Dr. Christian Römer 
+19.04.2018 13:58:54 verarbeite Zeile 7 Dr. med. Marion Ursula Kleine 
+19.04.2018 13:58:54 verarbeite Zeile 4 Frau Dipl.-Psych. Mechthild Schulze-Haidl 
+19.04.2018 13:58:54 verarbeite Zeile 8 Kaiser, Meiler & Kollegen - Fachärzte für Allgemeinmedizin 
+19.04.2018 13:58:54 verarbeite Zeile 8 Dr. med. Christoph Mittrach Facharzt für Innere Medizin und Kardiologie 
+index:5
+sizeDiff:0
+idx:1
+
+19.04.2018 13:58:54 verarbeite Zeile 6 Frau Dr. med. Margit Stroband 
+19.04.2018 13:58:54 verarbeite Zeile 5 Herr Dr. med. Ulrich Kleßinger 
+19.04.2018 13:58:54 verarbeite Zeile 3 Dorothee und Thomas Hess 
+19.04.2018 13:58:54 verarbeite Zeile 5 Dr. med. Klaus-Peter Holzhauser 
+19.04.2018 13:58:54 verarbeite Zeile 3 Frau Sandra Krehmeier 
+19.04.2018 13:58:54 verarbeite Zeile 6 Herr Dr. med. Karsten Gericke 
+19.04.2018 13:58:54 verarbeite Zeile 6 Holde Kreul Psychologin 
+19.04.2018 13:58:54 verarbeite Zeile 7 Dr. Martin Storck 
+19.04.2018 13:58:54 verarbeite Zeile 8 Arztpraxis Wolf-Dieter Schlicksupp 
+19.04.2018 13:58:54 verarbeite Zeile 5 Andreas Wirges & Dr. med. Friederike Hilgemann 
+19.04.2018 13:58:54 verarbeite Zeile 6 Dr. med. Elisabeth Hildebrandt & Dr. Bornmann 
+19.04.2018 13:58:54 verarbeite Zeile 7 Dr. med. Jochen Krain 
+19.04.2018 13:58:54 verarbeite Zeile 4 Frau Cäcilia Schulze Bockholt-Abdullah 
+index:3
+sizeDiff:4
+idx:4
+
+19.04.2018 13:58:54 verarbeite Zeile 4 MVZ Dr. Philipp Zollmann & Kollegen 
+19.04.2018 13:58:54 verarbeite Zeile 5 Dr. med. Martina Koch-Preißer praxis 
+index:5
+sizeDiff:1
+idx:2
+
+19.04.2018 13:58:55 verarbeite Zeile 6 Imruck Barbara 
+19.04.2018 13:58:55 verarbeite Zeile 4 Herr Rüdiger Schall 
+19.04.2018 13:58:55 verarbeite Zeile 7 Daniela Ditterich 
+19.04.2018 13:58:55 verarbeite Zeile 5 Frau Bettina Houben 
+19.04.2018 13:58:55 verarbeite Zeile 7 Dr.med. Klaus Sinzig 
+19.04.2018 13:58:55 verarbeite Zeile 5 Dipl.Med. Katrin Holz 
+19.04.2018 13:58:55 verarbeite Zeile 4 Dr.med. Basem Abu-Lubdeh 
+19.04.2018 13:58:55 verarbeite Zeile 6 Dipl. Med. Dietlind Dembeck 
+19.04.2018 13:58:55 verarbeite Zeile 6 Frau Dipl.-Soz. Päd. (FH) Patricia Thommes 
+19.04.2018 13:58:55 verarbeite Zeile 6 Frau Dr. med. Angelika Korn 
+19.04.2018 13:58:55 verarbeite Zeile 5 Dr. med. Nils Onken 
+19.04.2018 13:58:55 verarbeite Zeile 7 Dr.med. Johannes Brücker 
+19.04.2018 13:58:55 verarbeite Zeile 6 MVZ St. Theresien 
+19.04.2018 13:58:55 verarbeite Zeile 7 Klinik Rosengasse Prof. Hofmann GmbH 
+index:4
+sizeDiff:0
+idx:1
+
+19.04.2018 13:58:55 verarbeite Zeile 5 Herr Dr. med. Klaus Erdmann 
+19.04.2018 13:58:55 verarbeite Zeile 5 Dr. med. Ulrich Reploh 
+19.04.2018 13:58:55 verarbeite Zeile 9 Herr Dr. med. Adolf Ried und Herr Dr. med. Alexander Ried 
+19.04.2018 13:58:55 verarbeite Zeile 4 Tatjana Schneider-Stiebler Fachärztin für Innere Medizin 
+19.04.2018 13:58:55 verarbeite Zeile 6 Dr.med.Valeriy Kim 
+19.04.2018 13:58:55 verarbeite Zeile 6 Herr Dipl.-Psych. Cyrill Fäller 
+19.04.2018 13:58:55 verarbeite Zeile 6 Dr. med. Jutta Wendenburg 
+19.04.2018 13:58:55 verarbeite Zeile 7 Praxen am Walkstrom, Psychotherapie Erfurt 
+19.04.2018 13:58:55 verarbeite Zeile 7 Dr. med. Günter Menge 
+19.04.2018 13:58:55 verarbeite Zeile 6 Frau Dipl.-Med. Barbara Hartmann 
+19.04.2018 13:58:55 verarbeite Zeile 6 Dr. med. Thomas Gold 
+19.04.2018 13:58:55 verarbeite Zeile 9 Herr Eckhardt Kibbel 
+19.04.2018 13:58:55 verarbeite Zeile 6 Herr Dr. rer. soc. Albrecht Köhl 
+19.04.2018 13:58:55 verarbeite Zeile 5 Frau Dr. med. Anne Althoff 
+index:4
+sizeDiff:2
+idx:1
+
+19.04.2018 13:58:55 verarbeite Zeile 6 Orthopaedicum Kiel Elmschenhagen 
+19.04.2018 13:58:55 verarbeite Zeile 7 Frau Dr. med. Karin Eschenbrücher 
+19.04.2018 13:58:55 verarbeite Zeile 6 Dr. Renate Könighaus 
+19.04.2018 13:58:55 verarbeite Zeile 5 Frau Dr. med. Jarmila Mahlmeister 
+19.04.2018 13:58:56 verarbeite Zeile 7 Psychotherapeutische Praxis Abuzer Dogan 
+19.04.2018 13:58:56 verarbeite Zeile 9 BAG Dres. Kollmann Hoffmüller Franziska Wolfram Manuela Augenärztin 
+19.04.2018 13:58:56 verarbeite Zeile 7 Frau Dr. med. Annette Gregor 
+19.04.2018 13:58:56 verarbeite Zeile 6 Herr Dr. med. Andreas Baumann 
+19.04.2018 13:58:56 verarbeite Zeile 8 Herr Dr. med. Hubert Rützel 
+19.04.2018 13:58:56 verarbeite Zeile 9 Dr.med. Andreas Hecke Facharzt für Innere Medizin 
+19.04.2018 13:58:56 verarbeite Zeile 8 Gabriele Thierfelder 
+19.04.2018 13:58:56 verarbeite Zeile 8 Frau Dipl.-Psych. Jutta Finette 
+19.04.2018 13:58:56 verarbeite Zeile 4 Dr. med. Stefanie Karbe 
+19.04.2018 13:58:56 verarbeite Zeile 6 Gerhard Jansen 
+19.04.2018 13:58:56 verarbeite Zeile 6 Dr. med. Stephan Schulte 
+19.04.2018 13:58:56 verarbeite Zeile 6 Herr Dr. med. Gerhard Rieger 
+index:5
+sizeDiff:0
+idx:1
+
+19.04.2018 13:58:56 verarbeite Zeile 9 julia emma bergk 
+19.04.2018 13:58:56 verarbeite Zeile 6 Dr.med. Monika Nahlik 
+19.04.2018 13:58:56 verarbeite Zeile 7 Herr Dr. med. Joachim Hildebrandt 
+19.04.2018 13:58:56 verarbeite Zeile 7 Joachim Fuhrmann 
+19.04.2018 13:58:56 verarbeite Zeile 6 Dipl.-Med. Carola Kawa 
+19.04.2018 13:58:56 verarbeite Zeile 4 Johannes Fischer 
+19.04.2018 13:58:56 verarbeite Zeile 7 Dr.med. Harald Kallweit Facharzt für Allgemeinmedizin 
+index:5
+sizeDiff:0
+idx:1
+
+19.04.2018 13:58:56 verarbeite Zeile 7 Uwe Hüttner Facharzt für Allgemeinmedizin 
+index:2
+sizeDiff:6
+idx:7
+
+19.04.2018 13:58:56 verarbeite Zeile 5 Dr. med. Andreas Trieb / Dr. med. Frauke Otto 
+19.04.2018 13:58:56 verarbeite Zeile 7 Dr. med. Imke Dinsing 
+19.04.2018 13:58:56 verarbeite Zeile 8 Frau Almut Rewerts-Büschel 
+19.04.2018 13:58:56 verarbeite Zeile 5 Dr. med. Frederik M. Mader 
+19.04.2018 13:58:56 verarbeite Zeile 5 Herr Dr. med. Michael Feldbaum 
+19.04.2018 13:58:56 verarbeite Zeile 7 Herr Dr. phil. Dipl.-Psych. Georg Pelz 
+19.04.2018 13:58:56 verarbeite Zeile 9 Frau Dr. med. Ines Lay 
+19.04.2018 13:58:56 verarbeite Zeile 6 Dr. med. Volker Amend 
+index:5
+sizeDiff:1
+idx:1
+
+19.04.2018 13:58:56 verarbeite Zeile 6 Herr Dr. med. Rainer Stroband 
+19.04.2018 13:58:56 verarbeite Zeile 7 Peter W. Lust 
+19.04.2018 13:58:56 verarbeite Zeile 7 Dr. med. Andrea Betzner 
+19.04.2018 13:58:56 verarbeite Zeile 8 Herr Uwe Schieferbein 
+index:7
+sizeDiff:0
+idx:1
+
+19.04.2018 13:58:57 verarbeite Zeile 9 Gesundheitszentrum Wittenberge GmbH 
+19.04.2018 13:58:57 verarbeite Zeile 7 Orthopädie Düsseldorf Süd - Dr. Amir R. Ghasemi & Dr. Axel Zaremba 
+19.04.2018 13:58:57 verarbeite Zeile 6 Hausarztpraxis Frau Dr. Drieschner 
+19.04.2018 13:58:57 verarbeite Zeile 5 Dr.med. Hartwig Frohmann 
+19.04.2018 13:58:57 verarbeite Zeile 6 Frau Dipl.-Med. Bettina Leuteritz 
+index:6
+sizeDiff:2
+idx:1
+
+19.04.2018 13:58:57 verarbeite Zeile 5 Dr. med. Ulrich Schröder 
+19.04.2018 13:58:57 verarbeite Zeile 6 Dr. Ralph Sassen 
+19.04.2018 13:58:57 verarbeite Zeile 6 Monika Helling-Reck 
+19.04.2018 13:58:57 verarbeite Zeile 4 Herr Dr. med. Ulrich Hensch 
+19.04.2018 13:58:57 verarbeite Zeile 5 Herr Dipl.-Psych. Dr. phil. Karsten Rutter 
+19.04.2018 13:58:57 verarbeite Zeile 7 Cornelia Kutscherskij 
+19.04.2018 13:58:57 verarbeite Zeile 6 Frau Dr. Stefanie Volz 
+19.04.2018 13:58:57 verarbeite Zeile 7 Herr Dr. med. Paul Steinocher 
+19.04.2018 13:58:57 verarbeite Zeile 9 Dr. med. Wolfram Hofmüller 
+19.04.2018 13:58:57 verarbeite Zeile 6 Dr. Detlef Kobusch 
+19.04.2018 13:58:57 verarbeite Zeile 8 Christiane Heinrichs-Kuhn 
+19.04.2018 13:58:57 verarbeite Zeile 7 Wolfgang Wende 
+19.04.2018 13:58:57 verarbeite Zeile 8 Dr.med. Hubert Rützel Krankenhaus Marktredwitz Abt.Unfallchirurgie 
+19.04.2018 13:58:57 verarbeite Zeile 8 Praxis für Gefäßmedizin Löffler. Dr. Dagmar 
+19.04.2018 13:58:57 verarbeite Zeile 7 Hausärztliche Gemeinschaftspraxis Köln-Deutz 
+index:5
+sizeDiff:3
+idx:1
+
+19.04.2018 13:58:57 verarbeite Zeile 6 MVZ Onkologie GmbH 
+19.04.2018 13:58:58 verarbeite Zeile 6 Dr. med. Gerhard Rieger 
+19.04.2018 13:58:58 verarbeite Zeile 4 Dr. med. Thomas Mayr, Praxis für Psychosomatische Medizin und Psychotherapie 
+19.04.2018 13:58:58 verarbeite Zeile 7 Dr. med. Thomas Specht 
+19.04.2018 13:58:58 verarbeite Zeile 6 Dr. med. Volker Amend 
+19.04.2018 13:58:58 verarbeite Zeile 8 Herr Ralph Beutler 
+19.04.2018 13:58:58 verarbeite Zeile 7 HNO-Praxis CARMEN KAUZMANN mit Dr. med. Günther Fladrich 
+19.04.2018 13:58:58 verarbeite Zeile 5 Dr.med. Claude Kieffer 
+19.04.2018 13:58:58 verarbeite Zeile 5 Herr Dr. med. Georg Flöther 
+19.04.2018 13:58:58 verarbeite Zeile 6 Herr Prof. Dr. med. Michael Mayer 
+19.04.2018 13:58:58 verarbeite Zeile 6 Frau Dr. med. Kirsten Benn 
+19.04.2018 13:58:58 verarbeite Zeile 9 Herr Dr. med. Günter Fondalinski 
+index:5
+sizeDiff:0
+idx:1
+
+19.04.2018 13:58:58 verarbeite Zeile 7 Dr. med. Astrid Brillinger 
+19.04.2018 13:58:58 verarbeite Zeile 4 Dr. Ralf Schreiber 
+19.04.2018 13:58:58 verarbeite Zeile 7 Dr.med. Wolfgang Voltz 
+19.04.2018 13:58:58 verarbeite Zeile 7 Britta Ruppert 
+19.04.2018 13:58:58 verarbeite Zeile 6 Frau Dr. med. Uta Sterzinsky 
+19.04.2018 13:58:58 verarbeite Zeile 7 Herr Dr. med. Franz Schuberl 
+19.04.2018 13:58:58 verarbeite Zeile 6 Dr. med. Johannes Birgel 
+index:6
+sizeDiff:0
+idx:1
+
+19.04.2018 13:58:58 verarbeite Zeile 7 Dr. med. Reiner Moissl 
+19.04.2018 13:58:58 verarbeite Zeile 5 Volker Keppler Facharzt für Anästhesiologie 
+19.04.2018 13:58:59 verarbeite Zeile 7 Herr Dr. med. Stephan Müller 
+19.04.2018 13:58:59 verarbeite Zeile 4 Herr Dr. med. Paul Nemes 
+index:5
+sizeDiff:0
+idx:1
+
+19.04.2018 13:58:59 verarbeite Zeile 10 Frau Dr. med. Birgit Knauff 
+19.04.2018 13:58:59 verarbeite Zeile 8 Dr. med. Harald Hofmeier 
+19.04.2018 13:58:59 verarbeite Zeile 9 Herr Dr. med. Steffen Löffler / Dr.med.Valentina Giebelhaus 
+19.04.2018 13:58:59 verarbeite Zeile 9 Frau Annemarie Steinert-Lohse 
+19.04.2018 13:58:59 verarbeite Zeile 8 Susanne Bauer 
+19.04.2018 13:58:59 verarbeite Zeile 9 Heinrich-Braun-Klinikum, Standort Zwickau 
+19.04.2018 13:58:59 verarbeite Zeile 8 Urch Thomas Dr.med. Allgemeinmediziner 
+19.04.2018 13:58:59 verarbeite Zeile 7 Dr. Peter Nae und Fachärztin Inna Strauß 
+19.04.2018 13:58:59 verarbeite Zeile 8 Herr Dr. med. Helmut Laaff 
+19.04.2018 13:58:59 verarbeite Zeile 6 Dr. med. Johann Gamringer jun. 
+19.04.2018 13:58:59 verarbeite Zeile 8 Dr. med. Heribert Becker 
+19.04.2018 13:58:59 verarbeite Zeile 9 Klünsch Arne Dr. Med. 
+19.04.2018 13:58:59 verarbeite Zeile 5 Dr.med. Renate Ehrke 
+19.04.2018 13:58:59 verarbeite Zeile 9 Dr.med. Elvira Dein Fachärztin für Kinder- und Jugendmedizin 
+19.04.2018 13:58:59 verarbeite Zeile 4 Frau Dr. phil. Dipl.-Psych. Dipl.-Päd. Ruth Waldeck 
+19.04.2018 13:58:59 verarbeite Zeile 9 Dr. med. Thomas Schummer 
+19.04.2018 13:58:59 verarbeite Zeile 5 Privatpraxis - MEDIPLEX Kompetenz: Kardiologie Angiologie Dr. Dill, Dr. Voigt 
+19.04.2018 13:58:59 verarbeite Zeile 6 Angelika Wieschhues Dipl. Psych. Psychotherapeutische Praxis 
+19.04.2018 13:58:59 verarbeite Zeile 8 Georgia Hammer 
+19.04.2018 13:58:59 verarbeite Zeile 7 Herr Dr. med. Albert Rübel 
+19.04.2018 13:58:59 verarbeite Zeile 9 Herr Dr. med. Thoralf Thelemann 
+19.04.2018 13:58:59 verarbeite Zeile 7 Frau Dipl.-Psych. Claudia Effertz 
+index:5
+sizeDiff:2
+idx:1
+
+index:5
+sizeDiff:0
+idx:1
+
+19.04.2018 13:58:59 verarbeite Zeile 7 Frau Dr. med. Dörthe Hölper 
+19.04.2018 13:58:59 verarbeite Zeile 7 Dipl.-med. Ellen Hohmann 
+19.04.2018 13:58:59 verarbeite Zeile 10 Dr. med. Dietrich Roscher 
+19.04.2018 13:58:59 verarbeite Zeile 8 Dr. Manfred Laub 
+19.04.2018 13:58:59 verarbeite Zeile 6 Christoph Wisser 
+19.04.2018 13:58:59 verarbeite Zeile 7 Prof. Dr. Med. Olaf Kilian 
+index:8
+sizeDiff:0
+idx:1
+
+19.04.2018 13:58:59 verarbeite Zeile 6 Anne Fry 
+index:7
+sizeDiff:0
+idx:1
+
+19.04.2018 13:58:59 verarbeite Zeile 5 Dr. med. Rainer Hahn 
+19.04.2018 13:58:59 verarbeite Zeile 7 Möldner Thomas Dr.med. u. Wenninger Achim Dr.med. 
+19.04.2018 13:58:59 verarbeite Zeile 10 Andrea Röger Fachärztin für Psychiatrie und Psychotherapie 
+19.04.2018 13:58:59 verarbeite Zeile 8 Facharztpraxis für Kinder-und Jugendmedizin Dr. Gisbert Voigt und Michael Thorwesten 
+19.04.2018 13:59:00 verarbeite Zeile 6 Dr. med. Karl-W. Heimberg 
+19.04.2018 13:59:00 verarbeite Zeile 7 Dr. med. C. Striedter 
+19.04.2018 13:59:00 verarbeite Zeile 6 Anabela Rodriguez de Ocampo 
+19.04.2018 13:59:00 verarbeite Zeile 5 Dr.med. Maria Buschfeld 
+19.04.2018 13:59:00 verarbeite Zeile 4 Medizinische Laboratorien Düsseldorf 
+19.04.2018 13:59:00 verarbeite Zeile 8 Dr. Anja Rogits 
+19.04.2018 13:59:00 verarbeite Zeile 9 Frau Dr. med. Stephanie Köhne 
+19.04.2018 13:59:00 verarbeite Zeile 8 Frau Dr. med. Siegrid Mehnert-Aner 
+19.04.2018 13:59:00 verarbeite Zeile 8 Dr.-medic Michaela Stein 
+19.04.2018 13:59:00 verarbeite Zeile 8 Heilpraxis Susanne Bauer 
+19.04.2018 13:59:00 verarbeite Zeile 6 Dr.med. Klaus Sterry Facharzt für Innere Medizin 
+19.04.2018 13:59:00 verarbeite Zeile 8 Dr. Michael Heyder 
+index:6
+sizeDiff:1
+idx:1
+
+19.04.2018 13:59:00 verarbeite Zeile 6 Dr. med. Sigrid Heinrich 
+19.04.2018 13:59:00 verarbeite Zeile 7 Prof. C. Ludwig-Körner 
+19.04.2018 13:59:00 verarbeite Zeile 7 Frau Dr. med. Silvia Bach 
+19.04.2018 13:59:00 verarbeite Zeile 8 Dr. Andreas Dietrich 
+19.04.2018 13:59:00 verarbeite Zeile 7 Silvia Maria Hewel-Hildebrand 
+index:4
+sizeDiff:0
+idx:1
+
+19.04.2018 13:59:00 verarbeite Zeile 10 Fürniß & Prothmann - Praxis für Frauen und Mädchen 
+19.04.2018 13:59:00 verarbeite Zeile 7 Frau Dipl.-Med. Eleonore Jentsch 
+19.04.2018 13:59:00 verarbeite Zeile 7 Dr. F. Sögüt 19.04.2018 13:59:00 verarbeite Zeile 7 Dr. med. Markus Klein 
+19.04.2018 13:59:00 verarbeite Zeile 7 Praxis Dr. med. Hartwig Pickrahn 
+19.04.2018 13:59:00 verarbeite Zeile 9 Dr.med. Luitger Hone 
+19.04.2018 13:59:00 verarbeite Zeile 6 Dipl.-Med. Dirk Witschel 
+
+19.04.2018 13:59:00 verarbeite Zeile 6 Dr. med. Christoph Männel-Norbert Mayr 
+19.04.2018 13:59:00 verarbeite Zeile 8 Frau Dr. med. Angelika Schürmann 
+19.04.2018 13:59:00 verarbeite Zeile 9 Jörg-Peter Kietzmann 
+19.04.2018 13:59:00 verarbeite Zeile 8 Frau Dr. med. Renate Wasseroth 
+19.04.2018 13:59:01 verarbeite Zeile 8 Dr. Tilman Kirste 
+19.04.2018 13:59:01 verarbeite Zeile 7 Dr. Axel Flohe 
+19.04.2018 13:59:01 verarbeite Zeile 9 Dr. med. Ekkehard Seeliger Facharzt für Allgemeinmedizin 
+19.04.2018 13:59:01 verarbeite Zeile 5 Frau Franziska Boelter 
+19.04.2018 13:59:01 verarbeite Zeile 8 Frau Dipl.-Med. Christine Oeter 
+19.04.2018 13:59:01 verarbeite Zeile 8 Dr. Robert Goldmann 
+index:3
+sizeDiff:0
+idx:1
+
+19.04.2018 13:59:01 verarbeite Zeile 6 Bornholdt-Windolf 
+19.04.2018 13:59:01 verarbeite Zeile 6 Frau Dipl.-Psych. Univ. Petra Gruhl 
+19.04.2018 13:59:01 verarbeite Zeile 6 Dr.med. Eckhard Schmidt-Ahlers 
+19.04.2018 13:59:01 verarbeite Zeile 9 Angelika Hilverling 
+19.04.2018 13:59:01 verarbeite Zeile 8 Frau Silvia Zilliken 
+19.04.2018 13:59:01 verarbeite Zeile 6 Herr Dipl.-Psych. Christoph Reckzeh 
+19.04.2018 13:59:01 verarbeite Zeile 9 Dr.med. Barbara Alles 
+19.04.2018 13:59:01 verarbeite Zeile 8 Herr Dr. med. Winfried Schickentanz 
+19.04.2018 13:59:01 verarbeite Zeile 7 Herr Claas Rothbarth 
+19.04.2018 13:59:01 verarbeite Zeile 8 Dr.med. Andreas Müller-Rosenau 
+19.04.2018 13:59:01 verarbeite Zeile 7 Metallbau Truhn 
+19.04.2018 13:59:01 verarbeite Zeile 8 Dr. med. Wulf Scheffler Facharzt für Innere Medizin 
+19.04.2018 13:59:01 verarbeite Zeile 7 Praxis für Allgemeinmedizin Dr. med. Jan-Erik Döllein Neuötting 
+19.04.2018 13:59:01 verarbeite Zeile 5 Dr. med. Manuel Mengel 
+19.04.2018 13:59:01 verarbeite Zeile 5 Frau Dr. med. Christiane Kirchhof-Dill 
+19.04.2018 13:59:01 verarbeite Zeile 9 Dr. med. Costantino Mastorello 
+19.04.2018 13:59:01 verarbeite Zeile 6 Herr Dipl.-Psych. Oliver Staniszewski 
+19.04.2018 13:59:01 verarbeite Zeile 6 Raili Zwarg 
+19.04.2018 13:59:01 verarbeite Zeile 5 Dr. med. Bernhard Körner 
+19.04.2018 13:59:01 verarbeite Zeile 10 Dr. Detlef Kobusch 
+19.04.2018 13:59:01 verarbeite Zeile 6 Regina Lex & Jürgen Fuchs Nervenärztliche Praxisgemeinschaft 
+19.04.2018 13:59:01 verarbeite Zeile 7 Asklepios Klinik Lindau 
+19.04.2018 13:59:02 verarbeite Zeile 5 Dr.med. Hermann Weiss Facharzt für Kinder- und Jugendmedizin 
+19.04.2018 13:59:02 verarbeite Zeile 9 Frau Dr. med. Susanne Simon-Schmidt 
+index:7
+sizeDiff:1
+idx:1
+
+19.04.2018 13:59:02 verarbeite Zeile 7 Frau Dipl.-Psych. Brigitte Schrittenlocher-Krawietz 
+19.04.2018 13:59:02 verarbeite Zeile 9 Urologische Fachpraxis Dr. med. Arne Klünsch 
+19.04.2018 13:59:02 verarbeite Zeile 8 Frau Dipl.-Psych. Susanne Bauer 
+19.04.2018 13:59:02 verarbeite Zeile 7 Herr Dr. med. Bernd-Michael Klapper 
+19.04.2018 13:59:02 verarbeite Zeile 8 Stein Michaela 
+19.04.2018 13:59:02 verarbeite Zeile 7 Frau Dipl.-Psych. Elisabeth Maria Müller 
+19.04.2018 13:59:02 verarbeite Zeile 7 Markus Klein Versicherungsmakler 
+19.04.2018 13:59:02 verarbeite Zeile 8 Dr. med. Werner Spangler - Facharzt für Allgemeinmedizin & Chirotherapie 
+19.04.2018 13:59:02 verarbeite Zeile 5 Dipl.Med. Marina Kriegel 
+19.04.2018 13:59:02 verarbeite Zeile 11 Herr Dr. Swen Roesler 
+19.04.2018 13:59:02 verarbeite Zeile 7 Herr Dr. med. Peter Frankus 
+index:5
+sizeDiff:0
+idx:1
+
+19.04.2018 13:59:02 verarbeite Zeile 6 Herr Dr. med. Michael Mayer 
+19.04.2018 13:59:02 verarbeite Zeile 5 Frau Dipl.-Med. Marion Boelter 
+19.04.2018 13:59:02 verarbeite Zeile 8 Sonnen-Gesundheitszentrum SOGZ 
+19.04.2018 13:59:02 verarbeite Zeile 8 Kardiologische Gemeinschaftspraxis 
+19.04.2018 13:59:02 verarbeite Zeile 8 Herr Dr. med. Matthias Zaiss 
+19.04.2018 13:59:02 verarbeite Zeile 9 Dr.med. Michael Robert Hördt 
+19.04.2018 13:59:02 verarbeite Zeile 8 Frau Dr.Leisle 
+19.04.2018 13:59:02 verarbeite Zeile 8 Dr.med. Rainer Neuberg Facharzt für Innere Medizin 
+19.04.2018 13:59:02 verarbeite Zeile 10 Dr. med. Rainer Kullik 
+19.04.2018 13:59:02 verarbeite Zeile 10 Frau Dr. med. Margot Dalitz 
+19.04.2018 13:59:02 verarbeite Zeile 8 Matthias Wanke/ Dr. med. Claudia Abu Zahra 
+19.04.2018 13:59:02 verarbeite Zeile 8 Dr. med. Matthias Hilbert 
+19.04.2018 13:59:02 verarbeite Zeile 8 Dr. med. Ralf Traut 
+19.04.2018 13:59:03 verarbeite Zeile 10 Dr. med. Elmar Schuhmacher 
+19.04.2018 13:59:03 verarbeite Zeile 8 Praxis am Seepark – Dr. med. Annette Spohrer, Dr. med. Michael Waschkies 
+19.04.2018 13:59:03 verarbeite Zeile 10 Dr.med. Gunter Häfner Zahnarzt f.MKG-Chirurgie 
+19.04.2018 13:59:03 verarbeite Zeile 7 Herr Dr. med. Karsten Uellendahl 
+19.04.2018 13:59:03 verarbeite Zeile 7 Dr. med. Joachim Wichmann 
+19.04.2018 13:59:03 verarbeite Zeile 8 Dr.med. Wiltraut Reich 
+19.04.2018 13:59:03 verarbeite Zeile 9 Dr. med. Hartmut Franck - Internist | Schilddrüsenspezialist 
+19.04.2018 13:59:03 verarbeite Zeile 5 Kardiologie Lünen 
+19.04.2018 13:59:03 verarbeite Zeile 7 Dr. Werner Alfs 
+19.04.2018 13:59:03 verarbeite Zeile 8 Herr Dipl.-Psych. Ullrich Motz 
+19.04.2018 13:59:03 verarbeite Zeile 7 Frau Dipl.-Psych. Beate Kunz 
+19.04.2018 13:59:03 verarbeite Zeile 7 Birgit Petersohn 
+19.04.2018 13:59:03 verarbeite Zeile 5 Psychotherapeutische Praxis Angelika Timm-Höffler und Marianne Horn 
+19.04.2018 13:59:03 verarbeite Zeile 7 Dr. med. Uwe Breitrück 
+19.04.2018 13:59:03 verarbeite Zeile 7 Dr.med. Reiner Schlüter 
+19.04.2018 13:59:03 verarbeite Zeile 7 IPU Berlin 
+index:7
+sizeDiff:2
+idx:2
+
+index:6
+sizeDiff:1
+idx:1
+
+19.04.2018 13:59:03 verarbeite Zeile 8 Prof. Dr. Med. Olaf Kilian 
+19.04.2018 13:59:03 verarbeite Zeile 9 Frau Kirsten Mende 
+19.04.2018 13:59:03 verarbeite Zeile 8 Dr. Ute Bauer - Dr. Folkward G. Wiesner 
+19.04.2018 13:59:03 verarbeite Zeile 9 Dipl.Med. Sabine Nehler 
+19.04.2018 13:59:03 verarbeite Zeile 5 Dr. med. Andreas Kreter 
+19.04.2018 13:59:03 verarbeite Zeile 10 Urologische Gemeinschaftspraxis Dr. Mirko Adam und Hartmut Krüger 
+index:4
+sizeDiff:0
+idx:1
+
+19.04.2018 13:59:03 verarbeite Zeile 10 Herr Dr. med. Stephan Mönich 
+19.04.2018 13:59:03 verarbeite Zeile 11 Dr. med. Reinhard Straeter Frauenarzt 
+19.04.2018 13:59:03 verarbeite Zeile 9 Dr. med. Arnd Gerhards 
+19.04.2018 13:59:03 verarbeite Zeile 8 Dr. Winfried Schickentanz 
+19.04.2018 13:59:03 verarbeite Zeile 8 Psychotherapie-Praxis Dr. Johannes von Tiling (Verhaltenstherapie) 
+19.04.2018 13:59:03 verarbeite Zeile 6 Dr. med. Anke Blüthgen 
+19.04.2018 13:59:03 verarbeite Zeile 10 Frau Dr. med. Elisabeth Egelhof-Rauch 
+index:5
+sizeDiff:1
+idx:2
+
+19.04.2018 13:59:04 verarbeite Zeile 7 Herr Dipl.-Soz. Päd. (FH) Christian Schaich 
+19.04.2018 13:59:04 verarbeite Zeile 10 Sozialpsychiatrische Praxis für Kinder und Jugendliche 
+index:3
+sizeDiff:5
+idx:5
+
+19.04.2018 13:59:04 verarbeite Zeile 4 FRAUENÄRZTIN DR. EGBE 
+19.04.2018 13:59:04 verarbeite Zeile 5 Kardiologie Hamburg - Herz- und Gefäßmedizin Esplanade 
+19.04.2018 13:59:04 verarbeite Zeile 11 Frau Dr. med. Monika Schwalenberg 
+index:7
+sizeDiff:1
+idx:1
+
+19.04.2018 13:59:04 verarbeite Zeile 8 Tillig Bernd Prof.Dr.med. 
+19.04.2018 13:59:04 verarbeite Zeile 8 Dr. med. Matthias Hager 
+19.04.2018 13:59:04 verarbeite Zeile 11 Dr. med. Thomas Vogt 
+19.04.2018 13:59:04 verarbeite Zeile 9 Frau Dipl.-Psych. Gabriele Schulte-Sasse 
+index:7
+sizeDiff:0
+idx:1
+
+19.04.2018 13:59:04 verarbeite Zeile 8 Dr. med. Thomas Sievert 
+19.04.2018 13:59:04 verarbeite Zeile 10 Dr. med. Liane Marquardt 
+19.04.2018 13:59:04 verarbeite Zeile 5 Dr.med. Martin Biskowitz 
+index:6
+sizeDiff:2
+idx:1
+
+index:4
+sizeDiff:4
+idx:1
+
+19.04.2018 13:59:04 verarbeite Zeile 10 Frau Dr. med. Daphne Xifia-Wolff 
+19.04.2018 13:59:04 verarbeite Zeile 5 Herr Dr. med. Joachim Thoß 
+19.04.2018 13:59:04 verarbeite Zeile 8 Josef Mörtl 
+19.04.2018 13:59:04 verarbeite Zeile 9 Dr. Christian Scholber 
+19.04.2018 13:59:04 verarbeite Zeile 9 Herr Jan Witte 19.04.2018 13:59:04 verarbeite Zeile 9 Dr. Edith Quass Facharzt für Allgemeinmedizin 
+
+index:7
+sizeDiff:0
+idx:1
+
+19.04.2018 13:59:04 verarbeite Zeile 6 Robert Hayes 
+19.04.2018 13:59:04 verarbeite Zeile 7 Dr. med. Stefan Ullmann 
+index:8
+sizeDiff:0
+idx:1
+
+19.04.2018 13:59:04 verarbeite Zeile 8 Dr. med. Marlies Uhe 
+19.04.2018 13:59:04 verarbeite Zeile 8 Dr.med. Norbert Mendel 
+19.04.2018 13:59:04 verarbeite Zeile 7 Orthopädisches Wirbelsäulenzentrum Bodensee 
+index:7
+sizeDiff:0
+idx:1
+
+19.04.2018 13:59:05 verarbeite Zeile 8 Gemeinschaftspraxis Paul Troch Traut 
+19.04.2018 13:59:05 verarbeite Zeile 7 Praxis Dr. Unterharnscheidt 
+19.04.2018 13:59:05 verarbeite Zeile 8 Frau Dr. med. Elisabeth Haberl-Ernst 
+19.04.2018 13:59:05 verarbeite Zeile 9 Dr. med. Michael Stockmann 
+19.04.2018 13:59:05 verarbeite Zeile 10 Messezimmer-Knoopen 
+19.04.2018 13:59:05 verarbeite Zeile 9 Frau Dr. med. Brigitte Schneider-Rätzke 
+19.04.2018 13:59:05 verarbeite Zeile 8 Dr. med. Andreas Harlass-Neuking 
+19.04.2018 13:59:05 verarbeite Zeile 7 Dr. med. Manfred Aigner 
+index:4
+sizeDiff:1
+idx:1
+
+19.04.2018 13:59:05 verarbeite Zeile 6 Dr. med. Kaweh Scheida 
+19.04.2018 13:59:05 verarbeite Zeile 9 Herr Michael Mayr 
+19.04.2018 13:59:05 verarbeite Zeile 7 Dr.med. Christine Ernst 
+19.04.2018 13:59:05 verarbeite Zeile 7 Herr Dr. med. Heiko Schulz 
+index:6
+sizeDiff:0
+idx:1
+
+19.04.2018 13:59:05 verarbeite Zeile 7 Herr Dipl.-Psych. Joachim Kuhrau 
+19.04.2018 13:59:05 verarbeite Zeile 7 Witold Rak, Dagmar Schöndorf, Irina Meisler 
+19.04.2018 13:59:05 verarbeite Zeile 6 Herr Dr. med. Armin Wohlfahrt 
+19.04.2018 13:59:05 verarbeite Zeile 8 Dr. med. Peter Hoffmann 
+19.04.2018 13:59:05 verarbeite Zeile 8 Dr. med. Manfred Eckart Facharzt f. Laboratoriumsmed. 
+19.04.2018 13:59:05 verarbeite Zeile 9 Herr Dipl.-Psych. Dipl.-Ing. Stephan Neubeiser 
+index:7
+sizeDiff:3
+idx:3
+
+19.04.2018 13:59:05 verarbeite Zeile 7 Dr. med. Hans Scheub 
+19.04.2018 13:59:05 verarbeite Zeile 6 christine fischer 
+19.04.2018 13:59:06 verarbeite Zeile 7 Dr. med. Andreas Koderer 
+19.04.2018 13:59:06 verarbeite Zeile 6 Dr.med. Werner Harlfinger 
+19.04.2018 13:59:06 verarbeite Zeile 8 Gerlach Klaus Dr.med. u. Rimoldi Stefan Dr.med. 
+index:7
+sizeDiff:0
+idx:1
+
+index:4
+sizeDiff:5
+idx:2
+
+19.04.2018 13:59:06 verarbeite Zeile 7 Herr Heinrich Weber 
+19.04.2018 13:59:06 verarbeite Zeile 6 Frau Dipl.-Psych. Sabine Wolf 
+19.04.2018 13:59:06 verarbeite Zeile 5 Dr. med. Gisela Thoß 
+index:10
+sizeDiff:0
+idx:1
+
+19.04.2018 13:59:06 verarbeite Zeile 9 Dr. med. Matthias Hilbert 
+19.04.2018 13:59:06 verarbeite Zeile 7 Frau Barbara Meyer 
+19.04.2018 13:59:06 verarbeite Zeile 7 Herr Jörn-Udo Baur 
+19.04.2018 13:59:06 verarbeite Zeile 6 Dr. med. Bernhard Körner 
+19.04.2018 13:59:06 verarbeite Zeile 11 Dr.med. Gerd Blume Facharzt für Allgemeinmedizin 
+19.04.2018 13:59:06 verarbeite Zeile 10 Bastian Trotzki, Fachanwalt für Bankrecht, Fachanwalt für Mietrecht 
+19.04.2018 13:59:06 verarbeite Zeile 8 Herr Dr. Can Yildirim 
+19.04.2018 13:59:06 verarbeite Zeile 8 Herr Dr. med. Tilman Weinreich 
+19.04.2018 13:59:06 verarbeite Zeile 9 Dr.-medic Michaela Stein 
+19.04.2018 13:59:06 verarbeite Zeile 8 Herr Dipl.-Psych. Ullrich Motz 
+19.04.2018 13:59:06 verarbeite Zeile 7 Herr Dr. med. Egbert von Frankenberg 
+19.04.2018 13:59:06 verarbeite Zeile 9 Praxis für Kinder- und Jugendpsychiatrie und -psychotherapie Christin Schubert 
+19.04.2018 13:59:06 verarbeite Zeile 7 Dr. med. Kerstin Pieper 
+19.04.2018 13:59:06 verarbeite Zeile 8 Dr.med. Marc Wermann 
+19.04.2018 13:59:06 verarbeite Zeile 7 Dr. med. Sabine Kirschke 
+19.04.2018 13:59:06 verarbeite Zeile 7 Herr Dr. med. Michael Frasch 
+19.04.2018 13:59:06 verarbeite Zeile 8 Frauenarztpraxis Stadthagen, Dr. Khalifa, Dr. Gerberding, Harms 
+19.04.2018 13:59:06 verarbeite Zeile 7 Frau Dipl.-Psych. Linda Sierra-Averitt 
+19.04.2018 13:59:06 verarbeite Zeile 8 Dr.med. Regine Starrach Fachärztin f. Allgemeinmedizin 
+19.04.2018 13:59:06 verarbeite Zeile 9 Haarstudio Bahar 
+19.04.2018 13:59:06 verarbeite Zeile 6 Praxis Dr. Holzer, Dr. Fricke & Partner 
+19.04.2018 13:59:06 verarbeite Zeile 8 Dr. med. Cordula Schwabe 
+19.04.2018 13:59:06 verarbeite Zeile 10 Herr Dr. med. Albrecht Michel 
+19.04.2018 13:59:06 verarbeite Zeile 9 Herr Dr. med. Reinhard Wiegers 
+19.04.2018 13:59:06 verarbeite Zeile 8 Dr. med. Jovan Stojilkovic 
+19.04.2018 13:59:06 verarbeite Zeile 10 Carolin Netzer 
+19.04.2018 13:59:06 verarbeite Zeile 7 Ökologiebüro TIEM Integrierte Umweltüberwachung GbR 
+19.04.2018 13:59:06 verarbeite Zeile 6 Herr Dr. med. Albert Gewargis 
+19.04.2018 13:59:06 verarbeite Zeile 8 Dr. med. Serban Salup 
+19.04.2018 13:59:06 verarbeite Zeile 7 Dr. med. Friedrich-Wilhelm Kleinsorge 
+19.04.2018 13:59:06 verarbeite Zeile 8 Radiologische Praxis Dr.med A. Claußen 
+19.04.2018 13:59:06 verarbeite Zeile 11 Herr Dr. med. Stefan Marschner 
+19.04.2018 13:59:06 verarbeite Zeile 9 Alexander Philipp 
+19.04.2018 13:59:07 verarbeite Zeile 9 Radiologie Stuttgart - Dr. med. Stefan Müller 
+19.04.2018 13:59:07 verarbeite Zeile 9 Dipl.- Psych. Anke Berger, Psychologische Psychotherapeutin 
+19.04.2018 13:59:07 verarbeite Zeile 8 Ismail Arslanoglu Frauenarzt 
+19.04.2018 13:59:07 verarbeite Zeile 8 Praxis für Chirurgie 
+19.04.2018 13:59:07 verarbeite Zeile 8 Dr.theol. Ursula Thaler Psycholog. Psychotherapeutin 
+19.04.2018 13:59:07 verarbeite Zeile 10 Frau Dr. med. Susanne Simon-Schmidt 
+19.04.2018 13:59:07 verarbeite Zeile 11 Herr Ortwin Gut 
+19.04.2018 13:59:07 verarbeite Zeile 8 Dr. med. Horst-Uwe Friedrich 
+19.04.2018 13:59:07 verarbeite Zeile 9 Herr Gregor Sniegocki 
+19.04.2018 13:59:07 verarbeite Zeile 7 Jens Glatzel 
+19.04.2018 13:59:07 verarbeite Zeile 9 Herr Dr. med. Konstantin Knauf 
+19.04.2018 13:59:07 verarbeite Zeile 5 Dr. med. Thomas Borberg 
+19.04.2018 13:59:07 verarbeite Zeile 10 Orthopädie Günzburg 
+19.04.2018 13:59:07 verarbeite Zeile 11 Dr.Distler Hausarzt 
+19.04.2018 13:59:07 verarbeite Zeile 5 Frau Dipl.-Psych. Maria Klehr 
+19.04.2018 13:59:07 verarbeite Zeile 10 Frau Dipl.-Psych. Gabriele Block-Kotte 
+19.04.2018 13:59:07 verarbeite Zeile 10 Dr. med. Wolfgang Franzen 
+19.04.2018 13:59:07 verarbeite Zeile 8 Dr.med. Beate Posenauer 
+19.04.2018 13:59:07 verarbeite Zeile 8 Erdsach Thorsten Dr. med. Dr. med. dent. Torsten Dr. med. Dr. med. dent. 
+index:7
+sizeDiff:0
+idx:1
+
+index:7
+sizeDiff:2
+idx:1
+
+19.04.2018 13:59:07 verarbeite Zeile 8 Rüdiger Hauf Facharzt für Allgemeinmedizin 
+19.04.2018 13:59:07 verarbeite Zeile 10 Herr Dr. med. Rudolf Reithmair 
+19.04.2018 13:59:07 verarbeite Zeile 10 Prof. Dr. V. Hrabal Psychotherapie/Verhaltenstherapie 
+19.04.2018 13:59:07 verarbeite Zeile 8 Dr. Med. Karl-Wolfgang Sommer 
+19.04.2018 13:59:07 verarbeite Zeile 8 Frau Dr. Meike Goldmann 
+19.04.2018 13:59:07 verarbeite Zeile 8 Herr Dr. med. Peter Brunder 
+19.04.2018 13:59:07 verarbeite Zeile 8 Dr. med. Susanne Klotz 
+19.04.2018 13:59:07 verarbeite Zeile 7 Arztpraxis Kraus, Bosch, Weiß-Sommerfeld 
+19.04.2018 13:59:07 verarbeite Zeile 10 Herr Dr. med. Gunter Bals 
+19.04.2018 13:59:07 verarbeite Zeile 9 Frauenärztin Bianka Stolp - Praxis für Gynäkologie und Geburtshilfe 
+19.04.2018 13:59:07 verarbeite Zeile 6 Dr. med.Doris Sasse 
+19.04.2018 13:59:07 verarbeite Zeile 6 Dr. med. Barbara Fischer 
+19.04.2018 13:59:07 verarbeite Zeile 9 Herr Dipl.-Psych. Ulrich Labusga 
+19.04.2018 13:59:07 verarbeite Zeile 10 Herr Dr. med. habil. Lutz Tischendorf 
+index:6
+sizeDiff:0
+idx:1
+
+19.04.2018 13:59:07 verarbeite Zeile 7 Augenarztpraxis Schmidt-Betschel 
+19.04.2018 13:59:07 verarbeite Zeile 10 Praxis Dr. Zeljka Hopfner, Hautärztin 
+index:7
+sizeDiff:1
+idx:2
+
+19.04.2018 13:59:07 verarbeite Zeile 6 Christina Fischer 
+19.04.2018 13:59:07 verarbeite Zeile 12 Frau Dorothea Kolwe 
+19.04.2018 13:59:08 verarbeite Zeile 11 Dr. Thomas W. Rossiter, MD 
+19.04.2018 13:59:08 verarbeite Zeile 8 Dr. Norbert Marschner 
+19.04.2018 13:59:08 verarbeite Zeile 10 Dr. Peter Neufeind 
+19.04.2018 13:59:08 verarbeite Zeile 7 Herr Dr. med. Ludwig Buschbaum 
+index:3
+sizeDiff:6
+idx:6
+
+19.04.2018 13:59:08 verarbeite Zeile 10 Dr. med. Bettina Wolnik, Fachärztin für Neurologie und Psychiatrie 19.04.2018 13:59:08 verarbeite Zeile 9 Dr. Oskar Oehling 
+
+index:7
+sizeDiff:2
+idx:2
+
+index:4
+sizeDiff:1
+idx:2
+
+19.04.2018 13:59:08 verarbeite Zeile 4 Herr Dr. med. Heiner Hopf 
+19.04.2018 13:59:08 verarbeite Zeile 8 Dr. Jörg Rühl 
+19.04.2018 13:59:08 verarbeite Zeile 9 Dr. med. Michael Gericke 
+19.04.2018 13:59:08 verarbeite Zeile 8 Herr Dr. med. Eberhard Anwander 
+index:4
+sizeDiff:6
+idx:3
+
+19.04.2018 13:59:08 verarbeite Zeile 5 Frau Dr. med. dent. Kristin Kurnoth 
+19.04.2018 13:59:08 verarbeite Zeile 10 Radiologie am Schillerplatz 
+19.04.2018 13:59:08 verarbeite Zeile 9 Wolfgang Kohler 
+index:4
+sizeDiff:1
+idx:2
+
+19.04.2018 13:59:08 verarbeite Zeile 9 Frau Dipl.-Päd. Erika Polley 
+19.04.2018 13:59:08 verarbeite Zeile 9 Frau Irmgard Maria Farkas 
+index:6
+sizeDiff:0
+idx:1
+
+19.04.2018 13:59:09 verarbeite Zeile 12 Müller, Thomas u. Annette Müller 
+19.04.2018 13:59:09 verarbeite Zeile 9 Dr. Sabine Schrodt 
+19.04.2018 13:59:09 verarbeite Zeile 6 Dr.med. Hans Helmut Scholler 
+19.04.2018 13:59:09 verarbeite Zeile 10 Frau Dr. med. Karena Reddington 
+19.04.2018 13:59:09 verarbeite Zeile 7 Dr. med. Marina Merk 
+19.04.2018 13:59:09 verarbeite Zeile 6 Dr. Gertraud Schmidt 
+19.04.2018 13:59:09 verarbeite Zeile 10 Frau Dipl.-Med. Christine Schulz 
+19.04.2018 13:59:09 verarbeite Zeile 10 Dr.med. Marion Sponholz Fachärztin für Anästhesiologie 
+19.04.2018 13:59:09 verarbeite Zeile 7 Praxis Felix Kilwinger Hausarzt & Facharzt für Innere Medizin Dortmund Aplerbeck 
+19.04.2018 13:59:09 verarbeite Zeile 11 Dr. med. Klaus Möller 
+index:7
+sizeDiff:0
+idx:1
+
+19.04.2018 13:59:09 verarbeite Zeile 11 Dr. med. M. Aksu 
+19.04.2018 13:59:09 verarbeite Zeile 7 Herr Dr. med. Andreas Happ 
+19.04.2018 13:59:09 verarbeite Zeile 8 Herr Priv. Doz. Dr. med. Christian Pehl 
+19.04.2018 13:59:09 verarbeite Zeile 9 Frau Dipl.-Psych. Marlies Plischke 
+19.04.2018 13:59:09 verarbeite Zeile 11 Dr.med. Hans-Hilmer Eimer 
+19.04.2018 13:59:09 verarbeite Zeile 11 Reiche Werner Dr.med. 
+19.04.2018 13:59:09 verarbeite Zeile 8 Wolfgang Jahn GmbH 
+19.04.2018 13:59:09 verarbeite Zeile 7 Frau Ulrike Eileen Hausdörfer 
+19.04.2018 13:59:09 verarbeite Zeile 8 Herr Dr. med. Sebastian Bürger 
+19.04.2018 13:59:09 verarbeite Zeile 10 Kinderartztpraxis Dr. Susanne Lehmann 
+19.04.2018 13:59:09 verarbeite Zeile 7 J. Koschwitz-Hofmann 
+index:4
+sizeDiff:1
+idx:1
+
+19.04.2018 13:59:09 verarbeite Zeile 10 Hausarztpraxis Martin, Rasdorf 
+19.04.2018 13:59:09 verarbeite Zeile 10 Praxisklinik Haut und Venen 
+19.04.2018 13:59:09 verarbeite Zeile 8 Frau Dr. med. Gabriele Krause 
+19.04.2018 13:59:09 verarbeite Zeile 9 Frau Dipl.-Psych. Susanne Glahr-Schroeder 
+index:7
+sizeDiff:3
+idx:3
+
+index:7
+sizeDiff:3
+idx:2
+
+19.04.2018 13:59:09 verarbeite Zeile 7 Hausarztpraxis Pier 3 – Dr. med. Christian Butt, Stefan Strezlec 
+19.04.2018 13:59:10 verarbeite Zeile 6 Dres. Birgit Lang, Hans-Georg Wulff, Heiko Schmidt HNO-Ärzte 
+19.04.2018 13:59:10 verarbeite Zeile 8 Frau Ingrid Hartmann 
+19.04.2018 13:59:10 verarbeite Zeile 8 Dipl.-Psych. Elena Mayninger 
+19.04.2018 13:59:10 verarbeite Zeile 9 Frau Dipl.-Psych. Annette Potthoff 
+19.04.2018 13:59:10 verarbeite Zeile 9 Dr. med. Andrea Bauer 
+19.04.2018 13:59:10 verarbeite Zeile 10 Dr. med. Matthias Hilbert 
+19.04.2018 13:59:10 verarbeite Zeile 7 Kinder- und Jugendlichenpsychotherapeutin Dipl.-Päd. Maren Denker 
+19.04.2018 13:59:10 verarbeite Zeile 7 Dr. med. Andreas Wilke 
+19.04.2018 13:59:10 verarbeite Zeile 9 Stefan Weiß Wirtschaftsprüfer Steuerberater 
+19.04.2018 13:59:10 verarbeite Zeile 8 Herr Dr. med. Claus Birken 
+19.04.2018 13:59:10 verarbeite Zeile 8 Herr Dr. med. Karl Brümmer 
+19.04.2018 13:59:10 verarbeite Zeile 7 Dr. med. Elke Guggemos 
+19.04.2018 13:59:10 verarbeite Zeile 8 Dr.med. Gunther Tittel 
+19.04.2018 13:59:10 verarbeite Zeile 9 Dr. med. Günter Tieke 
+19.04.2018 13:59:10 verarbeite Zeile 10 Dipl.Med. Semara Spiegelberg Märkische Dialysezentren 
+19.04.2018 13:59:10 verarbeite Zeile 8 Dr.med. Karin Riebe 
+index:5
+sizeDiff:0
+idx:1
+
+19.04.2018 13:59:10 verarbeite Zeile 6 Herr Priv. Doz. Dr. med. Jürgen Bock 
+19.04.2018 13:59:10 verarbeite Zeile 12 Frau Dr. med. Helga Wellmann 
+19.04.2018 13:59:10 verarbeite Zeile 10 Viktor Siebert 
+19.04.2018 13:59:10 verarbeite Zeile 9 Jutta Weissweiler 
+19.04.2018 13:59:10 verarbeite Zeile 8 Dr.med. Ulf Feldhoff 
+19.04.2018 13:59:10 verarbeite Zeile 11 Herr Prof. Dr. med. Wolfgang Milch 
+19.04.2018 13:59:10 verarbeite Zeile 10 Dipl.Med. Anett Leistner 
+19.04.2018 13:59:10 verarbeite Zeile 8 Augenarztpraxis Dr. med. Sabine Meilinger-Krebs Dr. med. Betina Zimmermann 
+19.04.2018 13:59:10 verarbeite Zeile 9 Herr Prof. Dr. med. Ilja Ciernik 
+19.04.2018 13:59:10 verarbeite Zeile 6 Yildize Dechert 
+19.04.2018 13:59:11 verarbeite Zeile 8 Herr Dr. med. Andreas Turzynski 
+19.04.2018 13:59:11 verarbeite Zeile 9 Dr. med. Michael Schidelko 
+19.04.2018 13:59:11 verarbeite Zeile 9 Gemeinschaftspraxis Beate Winstel und Dr. Patricia Sonneck 
+19.04.2018 13:59:11 verarbeite Zeile 7 Dipl.-Med. Peter Zabel 
+19.04.2018 13:59:11 verarbeite Zeile 9 Sabine Meiser 
+19.04.2018 13:59:11 verarbeite Zeile 6 Herr Dr. med. Hans-Joachim Häberle 
+19.04.2018 13:59:11 verarbeite Zeile 9 Dr. Wolfgang Mäurer 
+19.04.2018 13:59:11 verarbeite Zeile 10 Ärztehaus Günzburg 
+19.04.2018 13:59:11 verarbeite Zeile 6 Herr Dr. med. Markus Salomon 
+index:9
+sizeDiff:0
+idx:1
+
+19.04.2018 13:59:11 verarbeite Zeile 9 Dr. med. Uwe Krause 
+19.04.2018 13:59:11 verarbeite Zeile 7 Hautarzt Dr. Steffen Küster 
+19.04.2018 13:59:11 verarbeite Zeile 9 Dr. med. Werner Kriener 
+index:5
+sizeDiff:0
+idx:1
+
+index:4
+sizeDiff:7
+idx:4
+
+19.04.2018 13:59:11 verarbeite Zeile 8 Dr. med. H. Benecke Mr. Orthopä 
+19.04.2018 13:59:11 verarbeite Zeile 10 Frau Dr. med. Marion Sponholz 
+index:3
+sizeDiff:7
+idx:7
+
+19.04.2018 13:59:11 verarbeite Zeile 5 Dipl.Med. Volker Göde 
+19.04.2018 13:59:11 verarbeite Zeile 4 Frauenarzt Praxis Dr. med. Beatrix Fechtel 
+19.04.2018 13:59:11 verarbeite Zeile 6 Herr Dr. med. Hans Mau 
+19.04.2018 13:59:11 verarbeite Zeile 12 Gemeinschaftspraxis Engling & Rudolf-Wimmer 
+19.04.2018 13:59:11 verarbeite Zeile 8 Dieter Mertins 
+19.04.2018 13:59:11 verarbeite Zeile 7 Diabetologische Gemeinschaftspraxis Dachau - Gerald Schade und Dr. Thomas Kothny 
+19.04.2018 13:59:11 verarbeite Zeile 11 Dr. Gisela Feinen 
+19.04.2018 13:59:11 verarbeite Zeile 10 Gabriele Block-Kotte 
+index:6
+sizeDiff:1
+idx:2
+
+19.04.2018 13:59:11 verarbeite Zeile 11 Martin Nachtwey 
+19.04.2018 13:59:11 verarbeite Zeile 12 Frau Elke Gerhardt 
+19.04.2018 13:59:11 verarbeite Zeile 7 Herr Dr. Abdul Karim Ossman 
+19.04.2018 13:59:11 verarbeite Zeile 6 Frau Dipl.-Päd. Christine Fischer 
+index:7
+sizeDiff:2
+idx:3
+
+19.04.2018 13:59:11 verarbeite Zeile 9 Herr Dieter Stinshoff 
+19.04.2018 13:59:12 verarbeite Zeile 7 Dr. Christian Conzelmann 
+19.04.2018 13:59:12 verarbeite Zeile 8 Dr. med. Martin Schwermann 
+19.04.2018 13:59:12 verarbeite Zeile 10 Praxis für Psychotherapie Jeannette Grabow 
+19.04.2018 13:59:12 verarbeite Zeile 8 Dipl.-Med. Beate Müller 
+19.04.2018 13:59:12 verarbeite Zeile 8 Erika-Maria Oerter 
+19.04.2018 13:59:12 verarbeite Zeile 9 Facharztzentrum Kaffeetrichter Erfurt 
+19.04.2018 13:59:12 verarbeite Zeile 12 Dorothea Kolwe Fachärztin für Innere Medizin 
+19.04.2018 13:59:12 verarbeite Zeile 7 Herr Dr. med. Mathias Stake 
+19.04.2018 13:59:12 verarbeite Zeile 9 Frau Dipl.-Psych. Anke Berger 
+19.04.2018 13:59:12 verarbeite Zeile 11 Dr. med. Mustafa Aksu 
+19.04.2018 13:59:12 verarbeite Zeile 7 Frau Dr. (H) Andrea Fürst-Megyeri 
+19.04.2018 13:59:12 verarbeite Zeile 9 Dr. med. Cornelius Huber 
+index:6
+sizeDiff:2
+idx:1
+
+19.04.2018 13:59:12 verarbeite Zeile 6 Dr. med. Wulf Gebhard 
+19.04.2018 13:59:13 verarbeite Zeile 9 Frau Dr. med. Angelika Beier-Witt 
+19.04.2018 13:59:13 verarbeite Zeile 9 Frau Dipl.-Psych. Martina Majer-N'Diaye 
+19.04.2018 13:59:13 verarbeite Zeile 9 MVZ Dardenne Zweigpraxis Sinzig 
+19.04.2018 13:59:13 verarbeite Zeile 10 Dr.med. Katrin Franke-Augustin 
+19.04.2018 13:59:13 verarbeite Zeile 8 Dr.med. Carmen Eckardt 
+19.04.2018 13:59:13 verarbeite Zeile 7 Praxis für allgemein Medizin Herr Dr. med.Boersma 
+19.04.2018 13:59:13 verarbeite Zeile 12 Hausarztpraxis Svitlana Filipchuk 
+19.04.2018 13:59:13 verarbeite Zeile 11 Herr Dr. med. Rüdiger Schmidt 
+19.04.2018 13:59:13 verarbeite Zeile 10 MVZ DaVita Iserlohn GmbH Dialyse- und Apheresezentrum Dr. Johannes Bunia & Martin Ernst & Dipl.-Med. Semara Spiegelberg 
+19.04.2018 13:59:13 verarbeite Zeile 10 Detlef Behrendt 
+19.04.2018 13:59:13 verarbeite Zeile 9 Dr.med. Michael Warnke Facharzt für Innere Medizin 
+19.04.2018 13:59:13 verarbeite Zeile 10 Dr.med. Hinrik-M. Thiemann 
+19.04.2018 13:59:13 verarbeite Zeile 11 Herr Dipl.-Med. Dietmar Vock 
+19.04.2018 13:59:13 verarbeite Zeile 11 Dr.med. Wolfgang Ch. Pürschel 
+19.04.2018 13:59:13 verarbeite Zeile 9 Internistische Praxis Rainer Just 
+19.04.2018 13:59:13 verarbeite Zeile 8 Dr. med. Beatrix Klein 
+19.04.2018 13:59:13 verarbeite Zeile 10 Frau Dipl.-Psych. Hildegard Schorm 
+19.04.2018 13:59:13 verarbeite Zeile 8 Herr Dipl.-Psych. Heinrich Sasse 
+19.04.2018 13:59:13 verarbeite Zeile 9 Dr.med. Gerd Hinkelmann 
+19.04.2018 13:59:13 verarbeite Zeile 11 Dr. med. Elke Häusler 
+19.04.2018 13:59:13 verarbeite Zeile 6 Frau Ulrike Dahmen-Toppe 
+19.04.2018 13:59:13 verarbeite Zeile 11 Dr. med. Heiko Rieder 
+19.04.2018 13:59:13 verarbeite Zeile 6 Dr.med. Andrea Reibe 
+19.04.2018 13:59:13 verarbeite Zeile 9 Dr.med. Eberhard Fischer 
+19.04.2018 13:59:13 verarbeite Zeile 10 Andrzej Wozniak 
+19.04.2018 13:59:14 verarbeite Zeile 12 Frau Dr. med. Annette Müller-Garnn 
+19.04.2018 13:59:14 verarbeite Zeile 7 Dipl.Med. Renate Lüthke 
+19.04.2018 13:59:14 verarbeite Zeile 7 Dr.med. Matthias John 
+19.04.2018 13:59:14 verarbeite Zeile 9 Dipl.Med. Sylvia Güther 
+19.04.2018 13:59:14 verarbeite Zeile 8 Dr. Albrecht Bezler 
+19.04.2018 13:59:14 verarbeite Zeile 10 Dr. Oskar Oehling 
+19.04.2018 13:59:14 verarbeite Zeile 6 Herr Dr. med. Detlef Rose 
+index:9
+sizeDiff:0
+idx:1
+
+19.04.2018 13:59:14 verarbeite Zeile 10 Frau Dr. med. Eva Pauly 
+19.04.2018 13:59:14 verarbeite Zeile 8 Dr. Winfried Trusch 
+19.04.2018 13:59:14 verarbeite Zeile 12 Christian Hausarztpraxis Dr. med. Mayer 
+index:3
+sizeDiff:8
+idx:8
+
+index:5
+sizeDiff:1
+idx:2
+
+19.04.2018 13:59:14 verarbeite Zeile 8 Frau Dr. med. Jutta-Maria Conzelmann-Plieth 
+19.04.2018 13:59:14 verarbeite Zeile 4 Herr Dr. med. Helmut Ibel 
+19.04.2018 13:59:14 verarbeite Zeile 9 Herr Dr. med. Ludolf Kleemann 
+19.04.2018 13:59:14 verarbeite Zeile 8 Dr. med. Kerstin Benecke 
+19.04.2018 13:59:14 verarbeite Zeile 10 Dipl.-Psych. Barbara Apold 
+19.04.2018 13:59:14 verarbeite Zeile 9 Praxis Dr. Giehoff 
+19.04.2018 13:59:14 verarbeite Zeile 12 Dr. med. Yaser Trautmann-El-Reshaidat 
+19.04.2018 13:59:14 verarbeite Zeile 9 Dr. med. Johannes Lipman 
+19.04.2018 13:59:14 verarbeite Zeile 7 Dr.med. Wolf-Andreas Lösment 
+index:10
+sizeDiff:1
+idx:1
+
+19.04.2018 13:59:14 verarbeite Zeile 9 Dieter Stinshoff Facharzt für Psychosomat. Med. und Psychotherapie 
+19.04.2018 13:59:14 verarbeite Zeile 4 KfH Kuratorium für Dialyse und Nierentransplantation e.V. 
+19.04.2018 13:59:14 verarbeite Zeile 10 Dr. med. Barbara Kestler 
+index:9
+sizeDiff:0
+idx:1
+
+19.04.2018 13:59:14 verarbeite Zeile 6 Dr. med. Wolfgang Hansi 
+19.04.2018 13:59:14 verarbeite Zeile 11 Dr. med. Helmut Wilkens 
+19.04.2018 13:59:14 verarbeite Zeile 9 Dr.med. Bernd Leister 
+19.04.2018 13:59:14 verarbeite Zeile 11 Fachärztin f. Allgemeinmedizin 
+index:6
+sizeDiff:2
+idx:3
+
+19.04.2018 13:59:14 verarbeite Zeile 9 Dr. med. Christian Frey Arzt für Allgemeinmedizin 
+19.04.2018 13:59:14 verarbeite Zeile 12 Dr. med. Sandra Hammes Internistin 
+19.04.2018 13:59:14 verarbeite Zeile 11 Thomas Hesse 
+19.04.2018 13:59:14 verarbeite Zeile 11 Dr. med. Reinhard Jochheim 
+19.04.2018 13:59:14 verarbeite Zeile 8 DR. MED. BASTIAN WIECHMANN 
+19.04.2018 13:59:14 verarbeite Zeile 8 Dr. med. Uwe Winkel 
+19.04.2018 13:59:14 verarbeite Zeile 10 Gebr. Beckmann e. K. Inh. Stefan Beckmann 
+19.04.2018 13:59:14 verarbeite Zeile 9 Frau Dipl.-Psych. Monika Breuer-Samulat 
+19.04.2018 13:59:14 verarbeite Zeile 11 Frau Dr. med. Gabriele Wolz 
+19.04.2018 13:59:14 verarbeite Zeile 10 Frau Olga Dause 
+19.04.2018 13:59:14 verarbeite Zeile 7 Wirbelsäulenorthopädie Dr. Stephan Werle 
+19.04.2018 13:59:14 verarbeite Zeile 10 Praxis Dr. Steffen Rohrbach und Susanne Rohrbach 
+19.04.2018 13:59:14 verarbeite Zeile 8 Herr Dr. med. Thomas Kleber 
+19.04.2018 13:59:14 verarbeite Zeile 9 Frau Dipl.-Psych. Univ. Caroline Scholz-Schneider 
+19.04.2018 13:59:14 verarbeite Zeile 9 Frau Dipl.-Psych. Dorothea Rahm 
+19.04.2018 13:59:14 verarbeite Zeile 7 Dr. Andrea Fürst-Megyeri Fachärztin für Allgemeinmedizin 
+19.04.2018 13:59:14 verarbeite Zeile 7 Herr Dipl.-Psych. Thomas Nebgen 
+19.04.2018 13:59:14 verarbeite Zeile 10 Dr. med. Martin Leibbrand 
+19.04.2018 13:59:14 verarbeite Zeile 10 Dr. Jutta Hundt-Eichner 
+index:5
+sizeDiff:1
+idx:2
+
+19.04.2018 13:59:14 verarbeite Zeile 11 Frau Dipl.-Psych. Angela Fath-Volk 
+19.04.2018 13:59:14 verarbeite Zeile 9 Herr Dr. med. Volker Evers 
+19.04.2018 13:59:14 verarbeite Zeile 9 Frau Dipl.-Soz. Päd. Adelheid Brick-Eilers 
+19.04.2018 13:59:14 verarbeite Zeile 9 Dr. med. Martin Brand 
+19.04.2018 13:59:15 verarbeite Zeile 11 Frau Dr. med. Carla Thiele 
+19.04.2018 13:59:15 verarbeite Zeile 12 Dipl.Med. Jutta Kolbe 
+19.04.2018 13:59:15 verarbeite Zeile 9 Gemeinschaftspraxis Dr. (H) Rothmann und Dr. Obladen 
+19.04.2018 13:59:15 verarbeite Zeile 12 Dr.med. Michael Schwend Facharzt für Innere Medizin 
+19.04.2018 13:59:15 verarbeite Zeile 9 Frau Dipl.-Psych. Sabine Meiser 
+19.04.2018 13:59:15 verarbeite Zeile 7 Frau Dr. med. Rosemarie Bock 
+19.04.2018 13:59:15 verarbeite Zeile 9 Frau Dipl.-Soz. Päd. (FH) Claudia Straub 
+19.04.2018 13:59:15 verarbeite Zeile 10 Herr Gerulf Fricke 
+19.04.2018 13:59:15 verarbeite Zeile 7 MediClin MVZ Offenburg 
+19.04.2018 13:59:15 verarbeite Zeile 10 Frau Dr. med. Christine Röbenack-Stahl 
+19.04.2018 13:59:15 verarbeite Zeile 13 Jutta Schabl Praktische Ärztin 
+19.04.2018 13:59:15 verarbeite Zeile 11 Frau Grit Ines Schneider 
+index:7
+sizeDiff:4
+idx:3
+
+19.04.2018 13:59:15 verarbeite Zeile 9 Dr. med. Martin Engelhardt 
+19.04.2018 13:59:15 verarbeite Zeile 9 Praxis für Orthopädie & Unfallchirurgie Stephan Weiß 
+19.04.2018 13:59:15 verarbeite Zeile 11 Praxis Dr. med. Christoph Burmester 
+index:9
+sizeDiff:0
+idx:1
+
+19.04.2018 13:59:15 verarbeite Zeile 11 Herr Dr. med. Jan Kirchhübel 
+index:10
+sizeDiff:0
+idx:1
+
+19.04.2018 13:59:15 verarbeite Zeile 8 Dipl.Med. Heike Rosswog Fachärztin für Kinderchirurgie 
+19.04.2018 13:59:15 verarbeite Zeile 7 Herr Dr. med. Michael Pieschka 
+19.04.2018 13:59:15 verarbeite Zeile 13 Margarete Dietl 
+19.04.2018 13:59:15 verarbeite Zeile 9 Dr.med.Djurdja Schulz 
+index:7
+sizeDiff:0
+idx:1
+
+19.04.2018 13:59:15 verarbeite Zeile 8 Dr. Dr. Edith Öhrig-Pohl 
+19.04.2018 13:59:15 verarbeite Zeile 6 Dr.med. Martin Biskowitz 
+index:8
+sizeDiff:2
+idx:1
+
+19.04.2018 13:59:15 verarbeite Zeile 11 Herr Dr. med. Franz Krupar 
+index:11
+sizeDiff:0
+idx:1
+
+19.04.2018 13:59:15 verarbeite Zeile 8 Chirurgisch-Orthopädische Gemeinschaftspraxis Karsten Ohnhold und Felix Hessel 
+19.04.2018 13:59:15 verarbeite Zeile 9 Dr. med. Hanno Schäfers 
+19.04.2018 13:59:15 verarbeite Zeile 8 Frau Dipl.-Psych. Ingrid Fus 
+index:9
+sizeDiff:0
+idx:1
+
+19.04.2018 13:59:15 verarbeite Zeile 11 Naturheilpraxis in Augsburg Dr. Ruf, Dr. Schwerd-Ruf 
+19.04.2018 13:59:15 verarbeite Zeile 8 Dr. Matthias Gruber 
+19.04.2018 13:59:15 verarbeite Zeile 10 Antje Görbing 
+19.04.2018 13:59:16 verarbeite Zeile 9 Herr Hans-Joachim Krämer 
+19.04.2018 13:59:16 verarbeite Zeile 11 Frau Dr. Marcella Malmusi 
+19.04.2018 13:59:16 verarbeite Zeile 8 Dr. Michael Winkelmann 
+19.04.2018 13:59:16 verarbeite Zeile 9 Herr Dr. med. Gunnar Tröger 
+19.04.2018 13:59:16 verarbeite Zeile 11 Dr.med. Vinko Moro 
+19.04.2018 13:59:16 verarbeite Zeile 9 Frau Dr. med. Corina Hennig 
+19.04.2018 13:59:16 verarbeite Zeile 9 Dr. Jürgen Helmbrecht 
+19.04.2018 13:59:16 verarbeite Zeile 10 Dr.med. Eberhard Grimm Facharzt für Innere Medizin 
+19.04.2018 13:59:16 verarbeite Zeile 9 Chirurgische Tagesklinik Bad Honnef 
+19.04.2018 13:59:16 verarbeite Zeile 11 Dipl.Med. Dietmar Vock Facharzt für Neurochirurgie 
+19.04.2018 13:59:16 verarbeite Zeile 11 Hausarztpraxis Tegernheim 
+index:8
+sizeDiff:1
+idx:1
+
+19.04.2018 13:59:17 verarbeite Zeile 12 Frau Dipl.-Psych. Vera Annette Müller 
+19.04.2018 13:59:17 verarbeite Zeile 8 Praxis Dres. Andrea und Martin Achtnich 
+index:6
+sizeDiff:0
+idx:1
+
+19.04.2018 13:59:17 verarbeite Zeile 12 Herr Dr. med. Alexander Bernasowski 
+index:10
+sizeDiff:2
+idx:2
+
+index:5
+sizeDiff:3
+idx:1
+
+19.04.2018 13:59:17 verarbeite Zeile 6 Asklepios Klinik Altona 
+19.04.2018 13:59:17 verarbeite Zeile 11 Ljudmila Inalova Augenarzt 
+index:10
+sizeDiff:3
+idx:1
+
+19.04.2018 13:59:17 verarbeite Zeile 7 Dr.med. Dagmar Steinbrück 
+19.04.2018 13:59:17 verarbeite Zeile 7 Dres. Birgit Lang, Hans-Georg Wulff, Heiko Schmidt HNO-Ärzte 
+index:8
+sizeDiff:2
+idx:1
+
+19.04.2018 13:59:17 verarbeite Zeile 9 Frau Dipl.-Psych. Gabriele Schmid 
+index:6
+sizeDiff:1
+idx:1
+
+19.04.2018 13:59:17 verarbeite Zeile 11 Frauenarztpraxis Katharina Bischoff 
+19.04.2018 13:59:17 verarbeite Zeile 13 Manuel Petsch und Dr. med. Malte Bräutigam 
+19.04.2018 13:59:18 verarbeite Zeile 10 Frau Dipl.-Psych. Eva-Maria Kreuzer 
+index:8
+sizeDiff:2
+idx:1
+
+19.04.2018 13:59:18 verarbeite Zeile 9 Dr. med. Christian Laskowitz 
+19.04.2018 13:59:18 verarbeite Zeile 11 Dr. med. Volker Lakner 
+19.04.2018 13:59:18 verarbeite Zeile 9 Herr Dr. med. Klaus Stinshoff 
+19.04.2018 13:59:18 verarbeite Zeile 10 Dr.med. Lutz Piscalar 
+19.04.2018 13:59:18 verarbeite Zeile 7 Dr. med. Andreas von Negelein 
+19.04.2018 13:59:18 verarbeite Zeile 10 Dr. med. Hans Jörg Intemann 
+19.04.2018 13:59:18 verarbeite Zeile 11 Herr Dr. med. Marius Held 
+index:11
+sizeDiff:0
+idx:1
+
+19.04.2018 13:59:18 verarbeite Zeile 10 Urologische Praxis Dr. Kaup 
+19.04.2018 13:59:18 verarbeite Zeile 11 Carsten Petersen Facharzt für Orthopädie 
+19.04.2018 13:59:18 verarbeite Zeile 10 Dr. med. Andrea Klocke-Serick 
+19.04.2018 13:59:18 verarbeite Zeile 11 Dr. med. Meinhard Korte 
+19.04.2018 13:59:18 verarbeite Zeile 7 Dr. med. Christian Ibold 
+19.04.2018 13:59:18 verarbeite Zeile 11 Dr.med. Steffi Franke 
+index:5
+sizeDiff:2
+idx:3
+
+19.04.2018 13:59:18 verarbeite Zeile 12 Elisabeth Klinikum Schmalkalden GmbH 
+19.04.2018 13:59:18 verarbeite Zeile 9 Herr Dr. med. Klaus-Detlev Schultz 
+19.04.2018 13:59:18 verarbeite Zeile 10 Herr Dr. med. Michael Surrey 
+19.04.2018 13:59:18 verarbeite Zeile 10 Dr. Ludwig Rüdig 
+19.04.2018 13:59:18 verarbeite Zeile 11 Gemeinschaftspraxis Dres. Wagner 
+19.04.2018 13:59:18 verarbeite Zeile 8 Frau Dr. Eva Völker 
+19.04.2018 13:59:18 verarbeite Zeile 12 Frau Dipl.-Psych. Annette Kluitmann-Müller 
+19.04.2018 13:59:18 verarbeite Zeile 10 Praxis Dr. Kolberg 
+19.04.2018 13:59:18 verarbeite Zeile 8 Dr. Dorte Janz 
+19.04.2018 13:59:18 verarbeite Zeile 10 Andreas Japtok 
+19.04.2018 13:59:18 verarbeite Zeile 9 Frau Dipl.-Psych. Sigrid Oehmig 
+19.04.2018 13:59:18 verarbeite Zeile 10 Frau Heike Nußholz 
+19.04.2018 13:59:18 verarbeite Zeile 12 Praxisgem. f. Orthopädie Frank A. Fasco / Dr. Jürgen Knoch 
+19.04.2018 13:59:18 verarbeite Zeile 10 Gudrun Schäfer 
+index:10
+sizeDiff:2
+idx:1
+
+19.04.2018 13:59:18 verarbeite Zeile 10 Dr. med. Helga Mulzer 
+index:5
+sizeDiff:4
+idx:2
+
+19.04.2018 13:59:18 verarbeite Zeile 7 Ursula Preuß 
+19.04.2018 13:59:18 verarbeite Zeile 10 Ulrike Burkert 
+19.04.2018 13:59:18 verarbeite Zeile 10 Hausärztliche Gemeinschaftspraxis Dr. S. Decker und Dr. S. Huser-Villringer 
+19.04.2018 13:59:18 verarbeite Zeile 10 Hausarztpraxis-Handewitt (ehem. Dr. Jost) 
+19.04.2018 13:59:18 verarbeite Zeile 8 Herr Christian Hartz 
+19.04.2018 13:59:18 verarbeite Zeile 9 Gregor Soler 
+19.04.2018 13:59:18 verarbeite Zeile 9 Dr. med. Uwe Berger 
+19.04.2018 13:59:18 verarbeite Zeile 8 Dr. med. Bettina Förg 
+19.04.2018 13:59:18 verarbeite Zeile 10 Susanne Wittenbecher Psycholog. Psychotherapeutin 
+19.04.2018 13:59:18 verarbeite Zeile 12 Sporthopaedicum Straubing 
+19.04.2018 13:59:19 verarbeite Zeile 10 Dr. med. Guido Ludwig 
+19.04.2018 13:59:19 verarbeite Zeile 9 Dr. med. Harald Kirwald und Dr. med. Katharina Lindhorst 
+19.04.2018 13:59:19 verarbeite Zeile 9 Herr Andreas Lindrum 
+19.04.2018 13:59:19 verarbeite Zeile 10 Psychotherapeutische Praxis Dipl. Psych. Michèle Lüttge 
+19.04.2018 13:59:19 verarbeite Zeile 10 Frau Dr. med. Ritva Klingelhöfer-Mez 
+19.04.2018 13:59:19 verarbeite Zeile 6 Dr. med. Thomas Borberg 
+19.04.2018 13:59:19 verarbeite Zeile 8 Frau Dr. med. Carola Meinhold 
+19.04.2018 13:59:19 verarbeite Zeile 9 Herr Dr. med. Peter Steuernagel 
+19.04.2018 13:59:19 verarbeite Zeile 9 Dr. med. Rosa Ruckmich-Zachan 
+19.04.2018 13:59:19 verarbeite Zeile 7 Dr. med. Ingrid Goltz 
+19.04.2018 13:59:19 verarbeite Zeile 10 Röbenack-Stahl Christine 
+19.04.2018 13:59:19 verarbeite Zeile 8 Dr.jur. Edgar Schmidt 
+19.04.2018 13:59:19 verarbeite Zeile 10 Frau Dipl.-Psych. Petra Grünke 
+19.04.2018 13:59:19 verarbeite Zeile 13 Margarete Dietl 
+index:6
+sizeDiff:2
+idx:1
+
+19.04.2018 13:59:19 verarbeite Zeile 12 Frau Dr. med. Margot Bohlmann-Büttner 
+index:8
+sizeDiff:0
+idx:1
+
+19.04.2018 13:59:19 verarbeite Zeile 11 Gruber Petra 
+19.04.2018 13:59:19 verarbeite Zeile 14 Dr.med. Andreas Schwegele 
+19.04.2018 13:59:19 verarbeite Zeile 7 Dr. med. Dagmar Fleischer 
+19.04.2018 13:59:19 verarbeite Zeile 11 Dr.med. Ines Hedrich 
+19.04.2018 13:59:19 verarbeite Zeile 8 Frau Dr. med. Julia Scheurer 
+19.04.2018 13:59:19 verarbeite Zeile 9 Herr Dr. med. Johannes Höß 
+19.04.2018 13:59:19 verarbeite Zeile 10 Praxis Ulrike Strähle-Tröger 
+index:10
+sizeDiff:0
+idx:1
+
+19.04.2018 13:59:19 verarbeite Zeile 9 Herr Dr. med. Kurt Dworschak 
+index:8
+sizeDiff:3
+idx:2
+
+19.04.2018 13:59:19 verarbeite Zeile 12 Herr Dr. med. Rainer Schikore 
+19.04.2018 13:59:19 verarbeite Zeile 10 Sieveking Daniel 
+19.04.2018 13:59:19 verarbeite Zeile 9 Frau Dipl.-Med. Elke Geib 
+19.04.2018 13:59:19 verarbeite Zeile 11 Hans-Joachim Baudis 
+19.04.2018 13:59:19 verarbeite Zeile 11 Bettina Kunzmann 
+19.04.2018 13:59:19 verarbeite Zeile 12 Herr Dipl.-Soz. Arb. (FH) Kurt Schley 
+19.04.2018 13:59:19 verarbeite Zeile 12 Herr Dr. (Univ. Belgrad) Predrag Vuckovic 
+index:10
+sizeDiff:0
+idx:1
+
+19.04.2018 13:59:20 verarbeite Zeile 12 Dr. Margot Jakobi-Tilk 
+19.04.2018 13:59:20 verarbeite Zeile 7 Monika Rundel-Tegtmeyer 
+19.04.2018 13:59:20 verarbeite Zeile 10 Dr. Hans-Jörg Intemann FA f. Chirurg., Handchirurg. Uwe Kapieske FA f. Chirurg. 
+index:8
+sizeDiff:0
+idx:1
+
+19.04.2018 13:59:20 verarbeite Zeile 11 Frau Dipl.-Psych. Anne Kreitner 
+19.04.2018 13:59:20 verarbeite Zeile 12 Frau Dr. med. Kathrin Beilecke 
+19.04.2018 13:59:20 verarbeite Zeile 9 Gabriele Fischer Psycholog.Psychotherapeutin 
+19.04.2018 13:59:20 verarbeite Zeile 11 Mark-Twain-Grundschule 
+19.04.2018 13:59:20 verarbeite Zeile 9 Dipl.Med. Ulrike Hentsch 
+19.04.2018 13:59:20 verarbeite Zeile 8 Dr. med. Gerhard Schrörs 
+19.04.2018 13:59:20 verarbeite Zeile 12 Martin Simon 
+index:3
+sizeDiff:9
+idx:9
+
+19.04.2018 13:59:20 verarbeite Zeile 13 Herr Dr. med. Fritz Jähn 
+19.04.2018 13:59:20 verarbeite Zeile 4 Frau Dr. med. Ilka Winning 
+19.04.2018 13:59:20 verarbeite Zeile 9 UB Weiss GmbH 
+index:7
+sizeDiff:0
+idx:1
+
+19.04.2018 13:59:20 verarbeite Zeile 10 Herr Frank Deutzmann 
+19.04.2018 13:59:20 verarbeite Zeile 11 Dr. med. Reinhard Jochheim 
+19.04.2018 13:59:20 verarbeite Zeile 11 Dr. Angela Leiter 
+19.04.2018 13:59:20 verarbeite Zeile 13 Frau Dr. med. Franca Roth 
+index:6
+sizeDiff:3
+idx:4
+
+index:7
+sizeDiff:5
+idx:4
+
+19.04.2018 13:59:20 verarbeite Zeile 12 Dr. med. Alexander Köppl 
+index:8
+sizeDiff:4
+idx:1
+
+19.04.2018 13:59:21 verarbeite Zeile 9 Dr. med. Stephan Schultz 
+index:11
+sizeDiff:1
+idx:1
+
+index:11
+sizeDiff:1
+idx:2
+
+19.04.2018 13:59:21 verarbeite Zeile 12 Dr. med. Annette Hertz 
+19.04.2018 13:59:21 verarbeite Zeile 7 Dr. Peter Bennemann 
+19.04.2018 13:59:21 verarbeite Zeile 12 Herr Priv. Doz. Dr. med. Jörn Ludwig 
+19.04.2018 13:59:21 verarbeite Zeile 11 Dr. med. Dagmar Queisser 
+index:5
+sizeDiff:2
+idx:1
+
+index:9
+sizeDiff:1
+idx:1
+
+19.04.2018 13:59:21 verarbeite Zeile 9 Dr.med. Manfred Kadelka Facharzt für Allgemeinmedizin 
+19.04.2018 13:59:21 verarbeite Zeile 8 Dr. med. Uwe Rauser 19.04.2018 13:59:21 verarbeite Zeile 9 Praxis Wolfgang Brandes 
+19.04.2018 13:59:21 verarbeite Zeile 10 Frau Dr. med. Jolanta Azubuike 
+
+19.04.2018 13:59:21 verarbeite Zeile 12 Dr. med. Dominika Strik Fachärztin für Frauenheilkunde und Geburtshilfe 
+19.04.2018 13:59:21 verarbeite Zeile 11 Frau Dipl.-Psych. Susanne Bode 
+19.04.2018 13:59:21 verarbeite Zeile 9 Frau Anke Schmidt-Daberkow 
+19.04.2018 13:59:21 verarbeite Zeile 12 Frau Dr. med. Ute Wesselmann 
+19.04.2018 13:59:21 verarbeite Zeile 10 Dr. med. Fabian Spielmann 
+19.04.2018 13:59:21 verarbeite Zeile 12 Dr. med. Bernd Porten 
+index:12
+sizeDiff:1
+idx:1
+
+19.04.2018 13:59:21 verarbeite Zeile 10 Herr Dr. med. Jung-Hun Lee 
+19.04.2018 13:59:21 verarbeite Zeile 11 Dr. Sabine Buntrock 
+19.04.2018 13:59:21 verarbeite Zeile 10 Frau Dr. med. Judit Varga 
+19.04.2018 13:59:21 verarbeite Zeile 12 Dr. med. Uwe Hofmann 
+19.04.2018 13:59:21 verarbeite Zeile 12 Yesim Altin 
+19.04.2018 13:59:21 verarbeite Zeile 12 Dr. med. Anette Hartwich 
+19.04.2018 13:59:21 verarbeite Zeile 14 Herr Dr. med. Oliver Noga 
+index:8
+sizeDiff:5
+idx:2
+
+index:11
+sizeDiff:2
+idx:3
+
+19.04.2018 13:59:22 verarbeite Zeile 7 Dr. med. Maria Weindler Fachärztin für Anästhesiologie 
+19.04.2018 13:59:22 verarbeite Zeile 12 Dr.med. Annette Gerhardt 
+19.04.2018 13:59:22 verarbeite Zeile 9 Herr Dr. med. Hans Schulz 
+19.04.2018 13:59:22 verarbeite Zeile 11 Dr. Heinz-Jörg Fischer 
+19.04.2018 13:59:22 verarbeite Zeile 12 Dr. med. Eckhard Welk 
+19.04.2018 13:59:22 verarbeite Zeile 11 Daniela Budelmann 
+19.04.2018 13:59:22 verarbeite Zeile 11 Dr.med. Harald Müller Facharzt für Innere Medizin Endokrinologie u. Diabetologie 
+19.04.2018 13:59:22 verarbeite Zeile 14 Markus Knichel 
+19.04.2018 13:59:22 verarbeite Zeile 12 Rheumatologische Facharztpraxis 
+index:3
+sizeDiff:10
+idx:10
+
+19.04.2018 13:59:22 verarbeite Zeile 12 Dr. Keren M. Först-Hädicke 
+19.04.2018 13:59:22 verarbeite Zeile 10 Frau Cornelia Butzner-Salewski 
+19.04.2018 13:59:22 verarbeite Zeile 9 Frauenarzt in Bonn - Dr. med. I. Boakye 
+19.04.2018 13:59:22 verarbeite Zeile 10 AVM Zentrum für Arbeits- und Betriebsmedizin 
+19.04.2018 13:59:22 verarbeite Zeile 11 Dipl.Med. Margitta Wießner 
+19.04.2018 13:59:22 verarbeite Zeile 9 Herr Thorsten Knigge 
+19.04.2018 13:59:22 verarbeite Zeile 4 Andree Klemm 
+19.04.2018 13:59:22 verarbeite Zeile 10 Dr. med. Andre Kunka 
+19.04.2018 13:59:22 verarbeite Zeile 10 Dr. med. Michael Kunze 
+19.04.2018 13:59:22 verarbeite Zeile 10 Dr. Sebastian Schuster 
+19.04.2018 13:59:22 verarbeite Zeile 11 Frau Sabine Scholz 
+19.04.2018 13:59:22 verarbeite Zeile 11 Dipl.-Psych. Tom Koch 
+19.04.2018 13:59:22 verarbeite Zeile 11 Dr.med. Wolfgang Niebling Facharzt für Anästhesiologie 
+index:11
+sizeDiff:3
+idx:1
+
+19.04.2018 13:59:22 verarbeite Zeile 11 Herr Dr. med. Christoph Balzer 
+19.04.2018 13:59:23 verarbeite Zeile 10 Frauenarztpraxis Dr. Berthold Eberlein 
+19.04.2018 13:59:23 verarbeite Zeile 11 Dipl.Med. Monika Rausch Fachärztin f. Allgemeinmedizin 
+19.04.2018 13:59:23 verarbeite Zeile 9 Praxisklinik Orthopädie Nebenbetriebsstätte Dr. Hopf 
+19.04.2018 13:59:23 verarbeite Zeile 14 Praxis Dr. med. Hartmut Sanke 
+19.04.2018 13:59:23 verarbeite Zeile 10 Dr.med. Gabriele Angeli 
+19.04.2018 13:59:23 verarbeite Zeile 12 Schley Kurt 
+19.04.2018 13:59:23 verarbeite Zeile 7 Szalontai Lajos 
+19.04.2018 13:59:23 verarbeite Zeile 13 Burmester – Kruse – Ziegler 
+19.04.2018 13:59:23 verarbeite Zeile 10 Frau Dipl.-Psych. Christiane Werner 
+19.04.2018 13:59:23 verarbeite Zeile 9 Frau Dr. med. Eva-Marie Wagner-Ehrhart 
+19.04.2018 13:59:23 verarbeite Zeile 12 Frau Dr. med. Friederike Behr 
+19.04.2018 13:59:23 verarbeite Zeile 5 Dr. Nurdogan Mat 
+19.04.2018 13:59:23 verarbeite Zeile 12 Dr. med. Marc Podder 
+19.04.2018 13:59:23 verarbeite Zeile 9 Henning Meyer & Dr.med.Katrin Meyer, Igor Pugachov 
+19.04.2018 13:59:23 verarbeite Zeile 10 Dr. med. Brigitte Lingner 
+19.04.2018 13:59:23 verarbeite Zeile 12 Dr. med. Thomas Boll 
+19.04.2018 13:59:23 verarbeite Zeile 11 Herr Dr. med. Fritjof Schmidt-Hoensdorf 
+19.04.2018 13:59:23 verarbeite Zeile 13 Frau Dr. med. Stefanie Stocker 
+19.04.2018 13:59:23 verarbeite Zeile 14 Dr. Oliver Noga 
+19.04.2018 13:59:23 verarbeite Zeile 13 Hannah Hoppe 
+19.04.2018 13:59:23 verarbeite Zeile 11 Dr.med. Raimund Eckrich 
+19.04.2018 13:59:23 verarbeite Zeile 12 Dr. med. Norbert Mai, Facharzt für Allgemeinmedizin 
+19.04.2018 13:59:23 verarbeite Zeile 9 Herr Dipl.-Psych. Dipl.-Volksw. Thomas Kuhlmann 
+19.04.2018 13:59:23 verarbeite Zeile 12 Dr.med. Wolfgang Speckenbach 
+19.04.2018 13:59:23 verarbeite Zeile 13 Dr. med. Oliver Schubert 
+19.04.2018 13:59:23 verarbeite Zeile 8 Frau Dr. med. Michaela Brandl 
+19.04.2018 13:59:23 verarbeite Zeile 11 Dr. med. Claus-Hermann Bückendorf 
+19.04.2018 13:59:23 verarbeite Zeile 8 Herr Dr. med. Florian Giensch 
+19.04.2018 13:59:23 verarbeite Zeile 12 Herr Dr. Predrag Vukovic 
+19.04.2018 13:59:23 verarbeite Zeile 11 Dr.med. Gert Schwiethal 
+index:9
+sizeDiff:1
+idx:1
+
+19.04.2018 13:59:24 verarbeite Zeile 9 Dr.med. Johannes Höß Facharzt für Allgemeinmedizin 
+19.04.2018 13:59:24 verarbeite Zeile 9 Herr Dr. med. Klaus Harms 
+index:10
+sizeDiff:0
+idx:1
+
+19.04.2018 13:59:24 verarbeite Zeile 11 Rheumapraxis Heidelberg 
+index:6
+sizeDiff:2
+idx:1
+
+19.04.2018 13:59:24 verarbeite Zeile 10 Dr.med. Thomas Link 
+19.04.2018 13:59:24 verarbeite Zeile 11 Frau Dr. med. Petra Kuhlicke 
+19.04.2018 13:59:24 verarbeite Zeile 9 Dr.med. Willi Langenberg Praktischer Arzt 
+index:8
+sizeDiff:1
+idx:2
+
+19.04.2018 13:59:24 verarbeite Zeile 9 Stephan Weiß 
+index:8
+sizeDiff:0
+idx:1
+
+index:6
+sizeDiff:3
+idx:2
+
+19.04.2018 13:59:24 verarbeite Zeile 7 Gemeinschaftspraxis Herzhorn 
+19.04.2018 13:59:24 verarbeite Zeile 7 Dr.med. Dagmar Hünemohr Fachärztin für Augenheilkunde 
+19.04.2018 13:59:24 verarbeite Zeile 12 Ljudmila Titova 
+19.04.2018 13:59:24 verarbeite Zeile 9 Sabine Pieper Kinder- und Jugendlichenpsychotherapeut 
+index:9
+sizeDiff:4
+idx:1
+
+19.04.2018 13:59:24 verarbeite Zeile 13 Dr. med. Ulrich Ebner von Eschenbach 
+19.04.2018 13:59:24 verarbeite Zeile 10 Frau Dr. med. Susanne Böker-Sehl 
+19.04.2018 13:59:24 verarbeite Zeile 9 Dr.med. Verena Maurer 
+19.04.2018 13:59:24 verarbeite Zeile 12 Hausärzte im Zentrum Dr.Drexel Dr.Posch M.Sedlmeier 
+19.04.2018 13:59:24 verarbeite Zeile 13 Frau Dr. med. Britta Holzschuh 
+19.04.2018 13:59:24 verarbeite Zeile 10 Drs. Stefanie Heinzius u. Ralph Puhlmann - Gesundheitszentrum am Stadion 
+index:11
+sizeDiff:3
+idx:4
+
+19.04.2018 13:59:24 verarbeite Zeile 10 Knut Ehlen 
+19.04.2018 13:59:24 verarbeite Zeile 7 Dr. med. Michael Wördehoff 
+19.04.2018 13:59:24 verarbeite Zeile 10 Dr. med. Klaus Ignatzy 
+19.04.2018 13:59:24 verarbeite Zeile 11 Lilija Fuchs 
+19.04.2018 13:59:24 verarbeite Zeile 11 Marion Lindlar 
+19.04.2018 13:59:24 verarbeite Zeile 12 Dr. med. Martin Bauersachs 
+index:8
+sizeDiff:6
+idx:3
+
+19.04.2018 13:59:24 verarbeite Zeile 9 Herr Dr. med. Albrecht Schulz-Clasen 
+19.04.2018 13:59:24 verarbeite Zeile 9 Ina-Gabriele Fischer 
+19.04.2018 13:59:24 verarbeite Zeile 7 Frau Dr. med. Gabriele Schmidt 
+19.04.2018 13:59:25 verarbeite Zeile 8 Dr.med. Gerd Pietschmann 
+19.04.2018 13:59:25 verarbeite Zeile 13 Herr Dr. med. Martin Trendel 
+19.04.2018 13:59:25 verarbeite Zeile 11 Thomas Krubeck 
+19.04.2018 13:59:25 verarbeite Zeile 10 Dr.med. Peter Hagen Facharzt für Allgemeinmedizin 
+19.04.2018 13:59:25 verarbeite Zeile 13 Dr. med. Fritz Paulisch 
+19.04.2018 13:59:25 verarbeite Zeile 10 Frau Dr. med. Daniela Eska 
+19.04.2018 13:59:25 verarbeite Zeile 13 Dipl.-Psych. Dagmara Gawin 
+index:11
+sizeDiff:0
+idx:1
+
+19.04.2018 13:59:25 verarbeite Zeile 7 Gemeinschaftspraxis Dr. med. Walter Faustmann Dr. med. univ. Felix Faustmann Martin 
+19.04.2018 13:59:25 verarbeite Zeile 10 Dr.med. Andreas Thüer 
+19.04.2018 13:59:25 verarbeite Zeile 10 Gotsmich, Dr. med. Stephan 
+19.04.2018 13:59:25 verarbeite Zeile 10 Dr. med. Werner Kienle 
+19.04.2018 13:59:25 verarbeite Zeile 12 Frau Dipl.-Psych. Karin Grimm 
+19.04.2018 13:59:26 verarbeite Zeile 11 Herr Dr. med. Bernd Liesenfeld 
+index:10
+sizeDiff:0
+idx:1
+
+19.04.2018 13:59:26 verarbeite Zeile 13 Augenzentrum Westpfalz Dres. Schwarz, Lägel, Helb, Heinen, Reidel 
+19.04.2018 13:59:26 verarbeite Zeile 12 Dr.med. Anna Maria Poloczek 
+19.04.2018 13:59:26 verarbeite Zeile 11 Frau Susanne Georg-Nies 
+19.04.2018 13:59:26 verarbeite Zeile 13 Dialysepraxis Dr. med. Mira Küllmer & Kollegen 
+index:13
+sizeDiff:1
+idx:1
+
+19.04.2018 13:59:26 verarbeite Zeile 12 Dr. med. Matthias Hoyme 
+19.04.2018 13:59:26 verarbeite Zeile 11 Dr. med. Markus Skorupka 
+19.04.2018 13:59:26 verarbeite Zeile 11 Dr. med. Hans-Ulrich Püschel 
+index:3
+sizeDiff:11
+idx:11
+
+19.04.2018 13:59:26 verarbeite Zeile 12 Dr. med. Heinz-Dieter Gutowski (MVZ ELBE-WEST) 
+19.04.2018 13:59:26 verarbeite Zeile 13 Frau Natalija Janzen 
+19.04.2018 13:59:26 verarbeite Zeile 10 Die Südstadtkinderärzte 
+19.04.2018 13:59:26 verarbeite Zeile 12 DERMAKULM 
+19.04.2018 13:59:26 verarbeite Zeile 12 Gemeinschaftspraxis Dr.Ortlepp/Wittig 
+19.04.2018 13:59:26 verarbeite Zeile 11 Praxis Dr. Buanga 
+19.04.2018 13:59:26 verarbeite Zeile 11 Frau Dr. med. Katharina Pollack 
+19.04.2018 13:59:26 verarbeite Zeile 12 Frau Dr. med. Barbara Lenzen 
+19.04.2018 13:59:26 verarbeite Zeile 12 Dr. med. Markus Bähr 
+19.04.2018 13:59:26 verarbeite Zeile 10 Frau Dipl.-Med. Annely Schmidt 
+19.04.2018 13:59:26 verarbeite Zeile 12 Dr. Igor Stojanovski 
+19.04.2018 13:59:26 verarbeite Zeile 10 Dr. med. Volker Heilmann 
+19.04.2018 13:59:26 verarbeite Zeile 10 Dr. med. Uta Blankenhorn-Theiss 
+19.04.2018 13:59:26 verarbeite Zeile 9 Sonja Purrmann Fachärztin für Innere Medizin 
+19.04.2018 13:59:26 verarbeite Zeile 14 Dr. med. Thomas Schneider 
+19.04.2018 13:59:26 verarbeite Zeile 12 Dr. med. Bernhard Schuknecht 
+19.04.2018 13:59:26 verarbeite Zeile 11 Dr.med. Bärbel Wojciechowski 
+19.04.2018 13:59:26 verarbeite Zeile 9 Frau Dr. med. Christiane Heberer-Erhard 
+19.04.2018 13:59:26 verarbeite Zeile 11 Herr Dr. med. Manfred Schöffel 
+19.04.2018 13:59:26 verarbeite Zeile 13 Dipl.-Med. Thomas Aurich Facharzt für Orthopädie 
+19.04.2018 13:59:26 verarbeite Zeile 12 Almoutaz Tayara 
+19.04.2018 13:59:26 verarbeite Zeile 10 Dr. med. Marita Suter 
+19.04.2018 13:59:26 verarbeite Zeile 13 Carola Schreyer-Römeth 
+19.04.2018 13:59:26 verarbeite Zeile 11 Frau Dr. med. Gabriela Salazar Volkmann 
+19.04.2018 13:59:26 verarbeite Zeile 10 Praxis Dr. Barth & Kollegen 
+19.04.2018 13:59:26 verarbeite Zeile 11 Dr. med. Andreas Finger 
+19.04.2018 13:59:26 verarbeite Zeile 11 Herr Dr. med. Jung-Hun Lee 
+19.04.2018 13:59:26 verarbeite Zeile 12 Hausarzt Dr. med. Heidi Kolb-Fricke, Andrea Weidmann 
+index:8
+sizeDiff:7
+idx:4
+
+19.04.2018 13:59:27 verarbeite Zeile 7 Dr. Andreas Kleinholz 
+19.04.2018 13:59:27 verarbeite Zeile 13 Dr. Gerd Kelly 
+19.04.2018 13:59:27 verarbeite Zeile 11 Dr. med. Günter Frankenberger 
+19.04.2018 13:59:27 verarbeite Zeile 11 Dr.med. Stephan Mönninghoff 
+19.04.2018 13:59:27 verarbeite Zeile 12 Dr.med. Dirk Schüürmann 
+19.04.2018 13:59:27 verarbeite Zeile 13 Frau Simone Scheid 
+19.04.2018 13:59:27 verarbeite Zeile 6 Frau Dr. med. Luise Lochner 
+19.04.2018 13:59:27 verarbeite Zeile 13 Herr Dr. med. Fritz Teufl 
+19.04.2018 13:59:27 verarbeite Zeile 13 Dr. med. Mario Zwingenberg 
+19.04.2018 13:59:27 verarbeite Zeile 12 Ulrike Armbruster-Goldstein 
+19.04.2018 13:59:27 verarbeite Zeile 11 Eric Hanssen Facharzt für Orthopädie 
+19.04.2018 13:59:27 verarbeite Zeile 9 Dr. Med. Michael Schultz 
+19.04.2018 13:59:27 verarbeite Zeile 11 Herr Dr. med. Heinz-Gerhard Paulsen 
+19.04.2018 13:59:27 verarbeite Zeile 11 Dr. Johannes Höing 
+index:8
+sizeDiff:1
+idx:2
+
+19.04.2018 13:59:27 verarbeite Zeile 13 Herr Dr. med. Detlev Körtke 
+19.04.2018 13:59:27 verarbeite Zeile 13 Frau Dipl.-Psych. Elisabeth Oberegge 
+19.04.2018 13:59:27 verarbeite Zeile 9 Herr Dr. med. Rudolf Lippok 
+19.04.2018 13:59:27 verarbeite Zeile 12 Herr Dr. med. Rudolf Höing 
+19.04.2018 13:59:27 verarbeite Zeile 13 Frau Dr. med. Erika Plöntzke 
+19.04.2018 13:59:27 verarbeite Zeile 15 Dr. med. Bernd Mayer-Hubner 
+19.04.2018 13:59:27 verarbeite Zeile 12 Dr. med. Wolfgang Scholtz 
+19.04.2018 13:59:27 verarbeite Zeile 14 Frau Dipl.-Psych. Jutta Magritz 
+19.04.2018 13:59:27 verarbeite Zeile 10 Frau Milita Pohlmeyer 
+19.04.2018 13:59:27 verarbeite Zeile 13 Dr. med. Ute Weidenhaun-Lange 
+19.04.2018 13:59:27 verarbeite Zeile 12 Dr.med. Peter Offermann 
+19.04.2018 13:59:28 verarbeite Zeile 13 Dr.med. Jürgen Schunder 
+19.04.2018 13:59:28 verarbeite Zeile 9 Harro Viererbl 
+19.04.2018 13:59:28 verarbeite Zeile 15 Frau Dr. rer. nat. Dipl.-Psych. Karin Wagner 
+19.04.2018 13:59:28 verarbeite Zeile 10 Herr Prof. Dr. med. Joachim Gottschalk 
+19.04.2018 13:59:28 verarbeite Zeile 14 Enders Anja 
+19.04.2018 13:59:28 verarbeite Zeile 9 Herr Dr. med. Peter Seidel 
+index:8
+sizeDiff:2
+idx:3
+
+19.04.2018 13:59:28 verarbeite Zeile 8 Facharztzentrum für Innere-, Leber-, Magen- und Darm-Krankheiten Dr. med. Daniel Werk, Michael Mengee 
+19.04.2018 13:59:28 verarbeite Zeile 12 Frau Dipl.-Psych. Claudia Regina Haberkam 
+19.04.2018 13:59:28 verarbeite Zeile 10 W.D.Smikalla Psychotherapie ADHS 
+index:8
+sizeDiff:1
+idx:1
+
+index:10
+sizeDiff:0
+idx:1
+
+19.04.2018 13:59:28 verarbeite Zeile 9 biosarda, Stephan Sainer 
+index:6
+sizeDiff:4
+idx:3
+
+19.04.2018 13:59:28 verarbeite Zeile 11 Dr.med. Johannes Geiger Facharzt für Innere Medizin und Rheumatologie 
+19.04.2018 13:59:28 verarbeite Zeile 8 Dr. med. Ralph Görtler 
+index:11
+sizeDiff:1
+idx:1
+
+19.04.2018 13:59:28 verarbeite Zeile 14 Herr Dr. Massoud Dabiri 
+19.04.2018 13:59:28 verarbeite Zeile 13 Prof. Dr. med. Hartwig Mensing 
+19.04.2018 13:59:28 verarbeite Zeile 15 Kantchew-Haustein Antonio Dr. Facharzt für Allgemeinmedizin 
+19.04.2018 13:59:28 verarbeite Zeile 12 Matthias de Boer 
+19.04.2018 13:59:28 verarbeite Zeile 7 Dr. med. Matthias Brede 
+19.04.2018 13:59:28 verarbeite Zeile 11 Peter Unger 
+19.04.2018 13:59:28 verarbeite Zeile 14 Dr. med. Rolf Schillfahrt 
+19.04.2018 13:59:28 verarbeite Zeile 11 Dr. med. Andreas Thelemann 
+19.04.2018 13:59:28 verarbeite Zeile 13 Dr. med. Matthias Neff 
+19.04.2018 13:59:28 verarbeite Zeile 8 Dr. med. Madeleine Schunter 
+19.04.2018 13:59:28 verarbeite Zeile 11 Benker B. Dr. med. Dipl.-Psych. 
+19.04.2018 13:59:28 verarbeite Zeile 11 Praxis Dechower Weg 
+19.04.2018 13:59:28 verarbeite Zeile 11 Dipl.Psych. Heika Gröning 
+19.04.2018 13:59:28 verarbeite Zeile 9 Frau Dr. med. Sigrid Höppner-Deymann 
+19.04.2018 13:59:28 verarbeite Zeile 13 Dr.med.Gabriele Heiland 
+19.04.2018 13:59:28 verarbeite Zeile 8 Herr Dr. med. Andreas Mehnert 
+index:6
+sizeDiff:0
+idx:1
+
+19.04.2018 13:59:28 verarbeite Zeile 11 Frau Dipl.-Med. Kathrin Batsch 
+19.04.2018 13:59:28 verarbeite Zeile 13 Herr Frank Cullik 
+19.04.2018 13:59:29 verarbeite Zeile 9 Heiko Meyer 
+19.04.2018 13:59:29 verarbeite Zeile 9 Prof. Dr. med. Jan-Dirk Rompe 
+19.04.2018 13:59:29 verarbeite Zeile 9 Herr Dipl.-Psych. Stefan Trobisch-Lütge 
+19.04.2018 13:59:29 verarbeite Zeile 11 DRK Krankenhaus: Praxis für Orthopedie 
+19.04.2018 13:59:29 verarbeite Zeile 12 Dr. Gerald Stein 
+19.04.2018 13:59:29 verarbeite Zeile 11 Dr. Morad Ilbagian 
+19.04.2018 13:59:29 verarbeite Zeile 9 Dr. med. Frank Gaschler 
+19.04.2018 13:59:29 verarbeite Zeile 12 Dr. med. Susanne Fuchs Dr. med. Franz Xaver Hierl - Diabetologie Endokrinologie Innere Medizin 
+19.04.2018 13:59:30 verarbeite Zeile 9 Heberer Jörg und Kollegen 
+19.04.2018 13:59:30 verarbeite Zeile 8 Gemeinschaftspraxis Dr. med. Walter Faustmann Dr. med. univ. Felix Faustmann Martin 
+19.04.2018 13:59:30 verarbeite Zeile 10 Frau Dr. med. Monika Barth 
+19.04.2018 13:59:30 verarbeite Zeile 12 Parkpraxis Mund-Kiefer-Gesichtschirurgie 
+index:8
+sizeDiff:2
+idx:1
+
+19.04.2018 13:59:30 verarbeite Zeile 15 Kußmann Petra 
+19.04.2018 13:59:30 verarbeite Zeile 9 Frau Sabine Pieper 
+19.04.2018 13:59:30 verarbeite Zeile 10 Augenarztpraxis Pohlmeyer 
+19.04.2018 13:59:30 verarbeite Zeile 13 Dr. med. Leif Meißner 
+19.04.2018 13:59:30 verarbeite Zeile 14 Dr. Marc Koch 
+19.04.2018 13:59:30 verarbeite Zeile 11 Herr Dr. med. Manfred Krichbaum 
+19.04.2018 13:59:30 verarbeite Zeile 12 Frau Dr. med. Susanne Friese 
+19.04.2018 13:59:30 verarbeite Zeile 11 Herr Dr. med. Joachim Kulemann 
+index:11
+sizeDiff:0
+idx:1
+
+19.04.2018 13:59:30 verarbeite Zeile 5 Herr Dr. med. Hans-Werner Huch-Sambraus 
+19.04.2018 13:59:30 verarbeite Zeile 11 Herr Dr. med. Dipl.-Biochem. Ralf Glaubitz 
+19.04.2018 13:59:30 verarbeite Zeile 15 Frau Elke Riecken 
+19.04.2018 13:59:30 verarbeite Zeile 13 Frau Sabine Ahlers 
+19.04.2018 13:59:30 verarbeite Zeile 10 Dr. med. Ullrich Richardt 
+19.04.2018 13:59:30 verarbeite Zeile 10 Dr.med. Carsten Hielscher Facharzt für Frauenheilkunde und Geburtshilfe 
+19.04.2018 13:59:30 verarbeite Zeile 14 Herr Dipl.-Psych. Dieter Müller 
+19.04.2018 13:59:30 verarbeite Zeile 13 Frau Dipl.-Psych. Linda Brunßen 
+index:8
+sizeDiff:8
+idx:5
+
+19.04.2018 13:59:30 verarbeite Zeile 11 Beate Eva Lapisa 
+19.04.2018 13:59:30 verarbeite Zeile 9 Herr Dr. med. Wilfried Schulz 
+19.04.2018 13:59:30 verarbeite Zeile 14 Dipl.Med. Gabriela Odoy Fachärztin für Frauenheilkunde & Geburtshilfe 
+index:8
+sizeDiff:0
+idx:1
+
+19.04.2018 13:59:30 verarbeite Zeile 14 Dipl. Psych. Ai-Leen Ripsas 
+19.04.2018 13:59:30 verarbeite Zeile 13 Dr. med. Wolfgang Scholtz 
+19.04.2018 13:59:30 verarbeite Zeile 9 Dr. med. Ulrich Hoffmann 
+index:9
+sizeDiff:1
+idx:1
+
+19.04.2018 13:59:31 verarbeite Zeile 13 Dr.med. Diana Rameil 
+19.04.2018 13:59:31 verarbeite Zeile 9 Frau Dr. med. Helga Heberer 
+index:11
+sizeDiff:1
+idx:1
+
+19.04.2018 13:59:31 verarbeite Zeile 12 Herr Dr. med. Bernt Schulze 
+19.04.2018 13:59:31 verarbeite Zeile 11 Kinder-u. Jugendarztpraxis Dr. med. Erdmute und Thomas Wenzel 
+19.04.2018 13:59:31 verarbeite Zeile 14 Doleschal 
+19.04.2018 13:59:31 verarbeite Zeile 13 Frau Dipl.-Med. Ute Suttner 
+19.04.2018 13:59:31 verarbeite Zeile 11 Frau Mareen Wittkat 
+19.04.2018 13:59:31 verarbeite Zeile 13 Die Hausärzte Dittelbrunn 
+19.04.2018 13:59:31 verarbeite Zeile 13 Praxis für Psychotherapie und Psychoanalyse Dipl.-Psych. Gabriele Glöckel 
+19.04.2018 13:59:31 verarbeite Zeile 15 Dr. med Viktoria Zimmermann-Keller 
+19.04.2018 13:59:31 verarbeite Zeile 13 Naturheilpraxis Thomas Franke 
+19.04.2018 13:59:31 verarbeite Zeile 11 Herr Dr. med. Wolfgang Kaufhold 
+19.04.2018 13:59:31 verarbeite Zeile 9 Dr. Peter Seidel 
+19.04.2018 13:59:31 verarbeite Zeile 12 Dr. Kemal Demir Dr. Kenan Demir H. Dogan-Gruß Dr. K. Susewind Y.Durgac 
+19.04.2018 13:59:31 verarbeite Zeile 13 Frau Brigitte Krug-Schulte 
+19.04.2018 13:59:31 verarbeite Zeile 14 Frau Dr. med. Margret Maas 
+19.04.2018 13:59:31 verarbeite Zeile 14 Dr. Hermann Dirk Wilken 
+index:8
+sizeDiff:3
+idx:2
+
+19.04.2018 13:59:31 verarbeite Zeile 12 Dr.med.Stefan von Zimmermann 
+index:8
+sizeDiff:3
+idx:1
+
+19.04.2018 13:59:31 verarbeite Zeile 11 Frank Langos 
+19.04.2018 13:59:31 verarbeite Zeile 11 Dr. Thomas Grießer 
+19.04.2018 13:59:31 verarbeite Zeile 13 Frau Dipl.-Psych. Eva Ströbl-Zitzelsberger 
+19.04.2018 13:59:31 verarbeite Zeile 11 Dr.med. Michael Ludwig 
+19.04.2018 13:59:31 verarbeite Zeile 10 Frau Elisabeth Henrichfreise 
+19.04.2018 13:59:31 verarbeite Zeile 13 Richard Hoffmann 
+19.04.2018 13:59:31 verarbeite Zeile 12 Michael Schwerdtfeger 
+19.04.2018 13:59:31 verarbeite Zeile 13 Dr. med. Hartmut Clemens und Dr. med. Patrick Clemens 
+19.04.2018 13:59:31 verarbeite Zeile 12 Dr. Jens Baetge 
+19.04.2018 13:59:31 verarbeite Zeile 11 Frau Dipl.-Med. Elke Thrum 
+19.04.2018 13:59:31 verarbeite Zeile 8 Herr Dr. med. Darwin Simoes 
+19.04.2018 13:59:31 verarbeite Zeile 14 Frau Dipl.-Med. Annelie Stuhr 
+19.04.2018 13:59:31 verarbeite Zeile 12 Dr. med. Werner Michel 
+index:8
+sizeDiff:9
+idx:6
+
+19.04.2018 13:59:31 verarbeite Zeile 9 Dr. Petra Schulz 
+19.04.2018 13:59:31 verarbeite Zeile 16 Dr. Martin Müller 
+19.04.2018 13:59:31 verarbeite Zeile 12 Frau Andrea Thiemann 
+index:8
+sizeDiff:1
+idx:2
+
+19.04.2018 13:59:31 verarbeite Zeile 14 Frau Dr. med. Britta Holzschuh 
+index:12
+sizeDiff:1
+idx:1
+
+19.04.2018 13:59:31 verarbeite Zeile 14 Dr. Julia Kern Dipl. Psych. Praxis für Psychotherapie 
+19.04.2018 13:59:32 verarbeite Zeile 12 Dr. med Nora Gorecki-Blassmann 
+index:6
+sizeDiff:2
+idx:1
+
+19.04.2018 13:59:32 verarbeite Zeile 7 Dr. med. Gabriele Caspers-Schmitt 
+19.04.2018 13:59:32 verarbeite Zeile 11 Dr.med. Kirsten Schwarz 
+19.04.2018 13:59:32 verarbeite Zeile 14 Dr.med. Norbert Moissl Facharzt für Orthopädie u. Unfallchirurgie 
+19.04.2018 13:59:32 verarbeite Zeile 13 Urologische Gemeinschaftspraxis 
+19.04.2018 13:59:32 verarbeite Zeile 10 DR. VOLKER HEILMANN 
+index:8
+sizeDiff:3
+idx:4
+
+19.04.2018 13:59:32 verarbeite Zeile 13 Dr. med. Thomas Brank 
+19.04.2018 13:59:32 verarbeite Zeile 9 Stephan Weiss 
+19.04.2018 13:59:32 verarbeite Zeile 12 Christine Wegner 
+19.04.2018 13:59:32 verarbeite Zeile 14 Dr.med. Swen H. Jacki 
+19.04.2018 13:59:32 verarbeite Zeile 14 Herr Dr. med. Roland Zais 
+19.04.2018 13:59:32 verarbeite Zeile 16 Dr. med. Christa Mühlbacher-Nickl 
+19.04.2018 13:59:32 verarbeite Zeile 12 Frau Dr. med. Monika Hornig 
+19.04.2018 13:59:32 verarbeite Zeile 13 Herr Dipl.-Psych. Helmut Zäpfel 
+19.04.2018 13:59:32 verarbeite Zeile 13 Dr. med. Katrin Heinrich-Abukar 
+19.04.2018 13:59:32 verarbeite Zeile 13 radiomed Wiesbaden - Gemeinschaftspraxis für Radiologie und Nuklearmedizin 
+19.04.2018 13:59:32 verarbeite Zeile 15 Frieder Nau 
+19.04.2018 13:59:32 verarbeite Zeile 13 Frau Wiebke Vanselow 
+index:12
+sizeDiff:0
+idx:1
+
+19.04.2018 13:59:32 verarbeite Zeile 10 g.SUND 
+19.04.2018 13:59:32 verarbeite Zeile 9 Dipl.-Psych. Christiane Riekenberg 
+19.04.2018 13:59:32 verarbeite Zeile 12 Dr.med. Christoph Peschkes 
+index:11
+sizeDiff:1
+idx:1
+
+19.04.2018 13:59:32 verarbeite Zeile 13 Frau Anette Schultze-Leva 
+19.04.2018 13:59:32 verarbeite Zeile 11 HNO im Medicinum 
+19.04.2018 13:59:32 verarbeite Zeile 10 Dipl.-Med. Beate Arnold 
+19.04.2018 13:59:32 verarbeite Zeile 14 Dr. med. Ursula-Christine Hagelüken 
+19.04.2018 13:59:32 verarbeite Zeile 13 Frau Dr. med. Elvira Keucher 
+19.04.2018 13:59:32 verarbeite Zeile 10 Miriam Schaper Fachärztin f. Allgemeinmedizin 
+19.04.2018 13:59:32 verarbeite Zeile 10 Frau Dipl.-Psych. Hilka Lührs 
+19.04.2018 13:59:32 verarbeite Zeile 12 Frau Dr. med. Magdulin Abu-Salim 
+19.04.2018 13:59:32 verarbeite Zeile 11 MVZ Schwäbisch Hall - Dr. Keller, Dr. Spranger, Böhme, Arbogast und Burgschweiger 
+19.04.2018 13:59:32 verarbeite Zeile 10 Andreas Stadler 
+index:10
+sizeDiff:1
+idx:1
+
+index:8
+sizeDiff:3
+idx:1
+
+19.04.2018 13:59:33 verarbeite Zeile 13 Rehn Libertad Dr. Fachärztin für Frauenheilkunde und Geburtshilfe 
+19.04.2018 13:59:33 verarbeite Zeile 13 Frau Dipl.-Soz. Päd. Sigrid Müller-Hoogen 
+19.04.2018 13:59:33 verarbeite Zeile 12 Hölzl, Dr. Matthias 
+19.04.2018 13:59:33 verarbeite Zeile 13 Axel Dewald 
+19.04.2018 13:59:33 verarbeite Zeile 11 Frau Dr. med. Ulrike Weidt 
+19.04.2018 13:59:33 verarbeite Zeile 12 Dr.med. Gertraud Bergen 
+19.04.2018 13:59:33 verarbeite Zeile 11 Praxis Gr. Wallstraße 
+index:10
+sizeDiff:2
+idx:1
+
+19.04.2018 13:59:33 verarbeite Zeile 14 Dr. med. Jörg Hammer 
+19.04.2018 13:59:33 verarbeite Zeile 12 Martin Ellers 
+19.04.2018 13:59:33 verarbeite Zeile 12 Frau Dr. med. Sarah Knödel 
+19.04.2018 13:59:33 verarbeite Zeile 10 Frau Dr. med. univ Moshref 
+19.04.2018 13:59:33 verarbeite Zeile 10 Hausärzte am Klosterhof: Praxis Ernst Waldner und Dr. Michael Ruoff 
+index:12
+sizeDiff:1
+idx:1
+
+19.04.2018 13:59:33 verarbeite Zeile 6 Herr Dr. med. Dr. phil. Hans Bandmann 
+19.04.2018 13:59:33 verarbeite Zeile 13 Augenpraxis Anke Heiland 
+index:9
+sizeDiff:3
+idx:1
+
+19.04.2018 13:59:33 verarbeite Zeile 10 Dr. med. Irene Ruehlemann 
+index:6
+sizeDiff:3
+idx:2
+
+19.04.2018 13:59:33 verarbeite Zeile 12 Herr Dr. med. Benedikt Greshake 
+index:8
+sizeDiff:10
+idx:7
+
+19.04.2018 13:59:33 verarbeite Zeile 14 Dr. med. Herbert Sieber 
+19.04.2018 13:59:33 verarbeite Zeile 12 Internisten am Markt 
+19.04.2018 13:59:33 verarbeite Zeile 15 Herr Dr. med. Markus Weber 
+19.04.2018 13:59:33 verarbeite Zeile 12 Dr. med. Katja Schroth und Joanna Neumann 
+19.04.2018 13:59:33 verarbeite Zeile 9 Frau Dr. med. Grobien -Siemssen 
+19.04.2018 13:59:33 verarbeite Zeile 12 Dr. med. Karin von Stuckrad 

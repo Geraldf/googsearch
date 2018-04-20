@@ -1,5 +1,5 @@
 import pandas as pd 
-from googleplaces import GooglePlaces, types, lang
+from googleplaces import GooglePlaces, types, lang, GooglePlacesError
 #from pandas import *
 from collections import defaultdict
 import time 
@@ -20,12 +20,12 @@ YOUR_API_KEY = 'AIzaSyD3wdGHiewoTV3iAGadKK7WkCLwqdhjyJs'
 google_places = GooglePlaces(YOUR_API_KEY)
 
 def read_Exel():
-    #xl = pd.ExcelFile("\\\\sv022181\\abl$\\abl\\Austausch\\Gerald\\Vertragspartner\\Arztverzeichnis-work-5000.xlsx")
+    #xl = pd.ExcelFile("\\\\sv022181\\abl$\\abl\\Austausch\\Gerald\\Vertragspartner\\Arztverzeichnis-work-500000.xlsx")
     xl = pd.ExcelFile("./Arztverzeichnis-work-5000.xlsx")
     
     df = xl.parse("Arztverzeichnis 01.01.2018")
     xl.close()
-    max_rows = 100
+    max_rows = 5000
     dataframes = []
     while len(df) > max_rows:
         top = df[:max_rows]
@@ -33,8 +33,13 @@ def read_Exel():
         dataframes.append(top)
         df = df[max_rows:]
     else:
+        df.reset_index(inplace=True, drop=True)
         dataframes.append(df)
     print ('running {} programms in Parallel, each Programm performs {} searches. '.format (len(dataframes), max_rows))
+    
+    for f in dataframes:
+        print ('framezize:{}-- maxindex:{}\n'.format(len(f),f.index[len(f)-1]))
+    
     for f in dataframes:
    
         t = Thread(target=lambda q, arg1: q.put(traverse(arg1)), args=(que, f))
@@ -54,7 +59,7 @@ def read_Exel():
     rdf= pd.concat(resultDataFrames)    
     #target = traverse(df)
     # Create a Pandas Excel writer using XlsxWriter as the engine.
-    #writer = pd.ExcelWriter('\\\\sv022181\\abl$\\abl\\Austausch\\Gerald\\Vertragspartner\\Arztverzeichnis-work-gesammt-google.xlsx')
+    #writer = pd.ExcelWriter('\\\\sv022181\\abl$\\abl\\Austausch\\Gerald\\Vertragspartner\\Arztverzeichnis-work-5000-google.xlsx')
     
     
     writer = pd.ExcelWriter('./Arztverzeichnis-work-5000-google.xlsx')
@@ -124,12 +129,12 @@ def googSearch(row, googdf, index, cols, target_DF):
         
     #searchstr = "{} {} {}".format(row['Titel'],row['Vorname'],row['Nachname'])
     searchstr = row['Titel']+' '+row['Vorname']+' '+row['Nachname']+', '+row['Ort']
-    s_result = google_places.text_search(searchstr, language='de', radius=20000)
+    s_result = do_google_search(searchstr)
 
     if len(s_result.places) == 0:
         # nothing found, try it without "Ort"
         searchstr = row['Titel']+' '+row['Vorname']+' '+row['Nachname']+', '
-        s_result = google_places.text_search(searchstr, language='de', radius=20000)
+        s_result = do_google_search(searchstr)
 
 
     if len(s_result.places) == 0:
@@ -140,7 +145,10 @@ def googSearch(row, googdf, index, cols, target_DF):
         print ('{} verarbeite Zeile {} {} '.format(time.strftime("%d.%m.%Y %H:%M:%S"),index+1,place.name))
         #print (place.place_id)
         #print ()
-        place.get_details()
+        try:
+            place.get_details()
+        except GooglePlacesError as err:
+            print (err)
 
         plz = getPlacesPLZ(place.details['address_components'])
         ort = getPlacesOrt(place.details['address_components'])
@@ -156,13 +164,15 @@ def googSearch(row, googdf, index, cols, target_DF):
         sizeDiff = len(target_DF.values)- len(googdf.values)
 
         if idx > 0:
-            s1 = googdf.iloc[index]
-            s2 = target_DF.iloc[0:index+sizeDiff]
-            s3 = target_DF.iloc[index+sizeDiff:]
-            s4 = pd.concat([s1.to_frame().T],ignore_index=True)
-            target_DF = pd.concat([s2,s4, s3],ignore_index=True)
-            
-            
+            try:
+                print ('index:{}\nsizeDiff:{}\nidx:{}\n'.format(index,sizeDiff,idx))
+                s1 = googdf.iloc[index]
+                s2 = target_DF.iloc[0:index+sizeDiff]
+                s3 = target_DF.iloc[index+sizeDiff:]
+                s4 = pd.concat([s1.to_frame().T],ignore_index=True)
+                target_DF = pd.concat([s2,s4, s3],ignore_index=True)
+            except:
+                print ('index:{}\nsizeDiff:{}\nidx:{}\n'.format(index,sizeDiff,idx))
 
         if 'website' in place.details:
             web = place.details['website']
@@ -203,6 +213,17 @@ def googSearch(row, googdf, index, cols, target_DF):
 
     return target_DF
 
+
+
+def do_google_search(searchstring):
+    try:
+        ret = google_places.text_search(searchstring, language='de', radius=20000)
+        return ret
+    except GooglePlacesError as error_detail:
+        print( error_detail)
+      
+        
+    
 def emptyCols(cols, target_DF):
     cols['goog_name'].append('')
     cols['goog_plz'].append('') 
