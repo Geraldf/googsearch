@@ -148,7 +148,10 @@ def googSearch(row, googdf, index, cols, target_DF):
         try:
             place.get_details()
         except GooglePlacesError as err:
-            print (err)
+            if err.find('OVER_QUERY_LIMIT') >= 0:
+                wait_and_continue()
+            else:
+                print (err)
 
         plz = getPlacesPLZ(place.details['address_components'])
         ort = getPlacesOrt(place.details['address_components'])
@@ -216,12 +219,21 @@ def googSearch(row, googdf, index, cols, target_DF):
 
 
 def do_google_search(searchstring):
-    try:
-        ret = google_places.text_search(searchstring, language='de', radius=20000)
-        return ret
-    except GooglePlacesError as error_detail:
-        print( error_detail)
-      
+    is_locked = False
+    while not is_locked
+        try:
+            ret = google_places.text_search(searchstring, language='de', radius=20000)
+            is_locked = False
+            return ret
+        except GooglePlacesError as err:
+            if err.find('OVER_QUERY_LIMIT') >= 0:
+                is_locked=True
+              
+                    wait_and_continue()
+
+            else:
+                print (err)
+        
         
     
 def emptyCols(cols, target_DF):
@@ -240,6 +252,13 @@ def emptyCols(cols, target_DF):
 
     return target_DF
 
+def wait_an_hour():
+    time.sleep(3600)
+    return
+
+def wait_and_continue():
+   
+        
 
 start = time.time()
 read_Exel()
