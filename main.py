@@ -4,13 +4,15 @@ from googleplaces import GooglePlaces, types, lang, GooglePlacesError
 from collections import defaultdict
 import time 
 from multiprocessing import Queue
-from threading import Thread
+from threading import Thread,Lock
 
 
 # lock to serialize console output
 #lock = threading.Lock()
 que = Queue()
 threads_list = list()
+
+lock = Lock()
 
 
 #YOUR_API_KEY = 'AIzaSyCxxraww0nAVV2Emm_1HbIFnmhTi3UhZzQ'
@@ -121,6 +123,7 @@ def getPlacesOrt(place):
 
 
 def googSearch(row, googdf, index, cols, target_DF):
+    event_is_set = e.wait()
     if pd.isna(row['Titel']):
         row['Titel'] = ''
 
@@ -129,11 +132,14 @@ def googSearch(row, googdf, index, cols, target_DF):
         
     #searchstr = "{} {} {}".format(row['Titel'],row['Vorname'],row['Nachname'])
     searchstr = row['Titel']+' '+row['Vorname']+' '+row['Nachname']+', '+row['Ort']
+    event_is_set = e.wait()
     s_result = do_google_search(searchstr)
+   
 
     if len(s_result.places) == 0:
         # nothing found, try it without "Ort"
         searchstr = row['Titel']+' '+row['Vorname']+' '+row['Nachname']+', '
+        event_is_set = e.wait()
         s_result = do_google_search(searchstr)
 
 
@@ -146,13 +152,17 @@ def googSearch(row, googdf, index, cols, target_DF):
         #print (place.place_id)
         #print ()
         try:
+            event_is_set = e.wait()
             place.get_details()
+            e.set()
         except GooglePlacesError as err:
             if err.find('OVER_QUERY_LIMIT') >= 0:
-                wait_and_continue()
+               e.clear() 
             else:
                 print (err)
-
+                break
+        
+    
         plz = getPlacesPLZ(place.details['address_components'])
         ort = getPlacesOrt(place.details['address_components'])
         hausnummer = getPlacesHN(place.details['address_components'])
@@ -219,20 +229,18 @@ def googSearch(row, googdf, index, cols, target_DF):
 
 
 def do_google_search(searchstring):
-    is_locked = False
-    while not is_locked
-        try:
-            ret = google_places.text_search(searchstring, language='de', radius=20000)
-            is_locked = False
-            return ret
-        except GooglePlacesError as err:
-            if err.find('OVER_QUERY_LIMIT') >= 0:
-                is_locked=True
-              
-                    wait_and_continue()
+    
+    try:
+        ret = google_places.text_search(searchstring, language='de', radius=20000)
+        e.set()
+        return ret
+    except GooglePlacesError as err:
+        if err.find('OVER_QUERY_LIMIT') >= 0:
+            lock.acquire()
+            wait_and_continue(google_places.text_search,searchstring, language='de', radius=20000)
 
-            else:
-                print (err)
+        else:
+            print (err)
         
         
     
@@ -252,14 +260,11 @@ def emptyCols(cols, target_DF):
 
     return target_DF
 
-def wait_an_hour():
-    time.sleep(3600)
-    return
 
-def wait_and_continue():
-   
+
         
 
+e = threading.Event()
 start = time.time()
 read_Exel()
 done = time.time()
