@@ -17,7 +17,7 @@ t = threading.Thread(name='your_mum',
 t.start()
 
 while True:
-    print ('MAIN LOOP: still in the main loop..')
+    print ('\MAIN LOOP: still in the main loop..')
     time.sleep(4)
     print ('MAIN LOOP: I just set the flag..')
     e.set()
