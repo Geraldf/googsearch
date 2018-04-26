@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "/Users/geraldfuchs/miniconda2/envs/googsearch/bin/python"
+    "python.pythonPath": "C:\\Users\\Gerald Fuchs\\AppData\\Local\\conda\\conda\\envs\\googsearch\\python.exe",
+    "python.linting.pylintEnabled": false
 }
