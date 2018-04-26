@@ -41,24 +41,6 @@ def read_Exel():
     # Create a Pandas Excel writer using XlsxWriter as the engine.
     #writer = pd.ExcelWriter('\\\\sv022181\\abl$\\abl\\Austausch\\Gerald\\Vertragspartner\\Arztverzeichnis-work-google.xlsx')
     
-   
-   
-    for f in dataframes:
-   
-        t = Thread(target=lambda q, arg1, eq: q.put(traverse(arg1,eq)), args=(que, f, error_q))
-        t.daemon=True
-        t.start()
-        threads_list.append(t)
-
-    # Join all the threads
-    for t in threads_list:
-        t.join()
-
-    # Check thread's return value
-    resultDataFrames = []
-    while not re.empty():
-        resultdf = que.get()
-        resultDataFrames.append(resultdf)
 
     rdf= pd.concat(resultDataFrames)    
     #target = traverse(df)
@@ -83,9 +65,6 @@ def traverse(df):
 
     
     for index, row in df.iterrows():
-        row = df.iloc[i]
-        row.append()
-        row.iloc('ind')= index
         worker_q.put(row)
    
     # Wait until que is empty again. 
@@ -146,9 +125,9 @@ def worker(worker_q, result_q):
             # kill this worker thread
             break 
 
-        row = row.to_frame()
+        #row = row.to_frame()
         if pd.isna(row['Titel']):
-            row.loc['Titel'] = ''
+            row['Titel'] = ''
 
         if pd.isna(row['Ort']):
             row['Ort'] = ''
@@ -178,7 +157,7 @@ def newmethod986(s_result, row):
         place = s_result.places[i]
     #for idx, place in enumerate(s_result.places):
         idx = i
-        print ('{} verarbeite Zeile {} {} '.format(time.strftime("%d.%m.%Y %H:%M:%S"),row['ind']+1,place.name))
+        print ('{} verarbeite Zeile {} '.format(time.strftime("%d.%m.%Y %H:%M:%S"),place.name))
 
         try:    
             place = get_place_detail(place)
@@ -221,20 +200,20 @@ def newmethod986(s_result, row):
                 #row['PLZ'] = 0
             plzdiff =  abs(int(row['PLZ']) - int(plz))
             rdf = row     
-            rdf.loc[0:'goog_name'] = name
-            rdf.loc[0:'goog_plz'] = plz 
-            rdf.loc[0:'goog_web'] = web 
-            rdf.loc[0:'goog_ort']= ort
-            rdf.loc[0:'goog_phone']= phone
-            rdf.loc[0:'goog_hausnummer']= hausnummer
-            rdf.loc[0:'goog_strasse']= strasse
-            rdf.loc[0:'goog_rating']= rating
-            rdf.loc[0:'goog_adr_formatiert']= adr_formatiert
-            rdf.loc[0:'goog_types']= types    
-            rdf.loc[0:'goog_url'] = url
-            rdf.loc[0:'goog_plzdiff'] = plzdiff
-            result_q.put(rdf)
-    i = i+1
+            rdf.loc['goog_name'] = name
+            rdf.loc['goog_plz'] = plz 
+            rdf.loc['goog_web'] = web 
+            rdf.loc['goog_ort']= ort
+            rdf.loc['goog_phone']= phone
+            rdf.loc['goog_hausnummer']= hausnummer
+            rdf.loc['goog_strasse']= strasse
+            rdf.loc['goog_rating']= rating
+            rdf.loc['goog_adr_formatiert']= adr_formatiert
+            rdf.loc['goog_types']= types    
+            rdf.loc['goog_url'] = url
+            rdf.loc['goog_plzdiff'] = plzdiff
+            result_q.put(rdf.to_frame())
+        i = i+1
 
 def get_place_detail(place):
     for loop in range(MAX_RETRIES):
@@ -323,4 +302,4 @@ start = time.time()
 read_Exel()
 done = time.time()
 elapsed = done - start
-print('Ausführungsdauer: {} Sekunden'.format (elapsed))
+print('Ausfuhrungsdauer: {} Sekunden'.format (elapsed))
