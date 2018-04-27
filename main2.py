@@ -36,13 +36,11 @@ def read_Exel():
     print ('running {} programms in Parallel, handling  {} searches. '.format (MAX_THREADS, len(df)))
 
     resultDataFrames = traverse(df)
-    rdf= pd.concat(resultDataFrames)    
+    rdf= pd.concat(resultDataFrames,ignore_index=True)    
     #target = traverse(df)
     # Create a Pandas Excel writer using XlsxWriter as the engine.
     #writer = pd.ExcelWriter('\\\\sv022181\\abl$\\abl\\Austausch\\Gerald\\Vertragspartner\\Arztverzeichnis-work-google.xlsx')
     
-
-    rdf= pd.concat(resultDataFrames)    
     #target = traverse(df)
     # Create a Pandas Excel writer using XlsxWriter as the engine.
     #writer = pd.ExcelWriter('\\\\sv022181\\abl$\\abl\\Austausch\\Gerald\\Vertragspartner\\Arztverzeichnis-work-google.xlsx')
@@ -63,8 +61,9 @@ def traverse(df):
         t.start()
         threads_list.append(t)
 
-    
-    for index, row in df.iterrows():
+
+    for i in range(0, len(df)):
+        row = df.iloc[[i]]
         worker_q.put(row)
    
     # Wait until que is empty again. 
@@ -126,14 +125,16 @@ def worker(worker_q, result_q):
             break 
 
         #row = row.to_frame()
-        if pd.isna(row['Titel']):
+    
+       
+        if  pd.isna(row['Titel'].item()):
             row['Titel'] = ''
 
-        if pd.isna(row['Ort']):
+        if pd.isna(row['Ort'].item()):
             row['Ort'] = ''
             
         #searchstr = "{} {} {}".format(row['Titel'],row['Vorname'],row['Nachname'])
-        searchstr = row['Titel']+' '+row['Vorname']+' '+row['Nachname']+', '+row['Ort']
+        searchstr = row['Titel'].item()+' '+row['Vorname'].item()+' '+row['Nachname'].item()+', '+row['Ort'].item()
         
         try:
 
@@ -148,12 +149,12 @@ def worker(worker_q, result_q):
 def newmethod986(s_result, row):
     if len(s_result.places) == 0:
         # nothing found, try it without "Ort"
-        searchstr = row['Titel']+' '+row['Vorname']+' '+row['Nachname']+', '
-        event_is_set = e.wait()
+        searchstr = row['Titel'].item()+' '+row['Vorname'].item()+' '+row['Nachname'].item()+', '
         s_result = do_google_search(searchstr)
-
+    row_save = row.copy()
     i = 0
     while i < len(s_result.places):
+        row = row_save.copy()
         place = s_result.places[i]
     #for idx, place in enumerate(s_result.places):
         idx = i
@@ -195,11 +196,12 @@ def newmethod986(s_result, row):
             else:
                 url = ''
 
-            if pd.isna(row['PLZ']):
+            if pd.isna(row['PLZ'].item()):
                 row.loc[0:'PLZ']=0
                 #row['PLZ'] = 0
-            plzdiff =  abs(int(row['PLZ']) - int(plz))
-            rdf = row     
+            plzdiff =  abs(int(row['PLZ'].item()) - int(plz))
+            rdf = row.copy()
+                
             rdf.loc['goog_name'] = name
             rdf.loc['goog_plz'] = plz 
             rdf.loc['goog_web'] = web 
@@ -212,7 +214,7 @@ def newmethod986(s_result, row):
             rdf.loc['goog_types']= types    
             rdf.loc['goog_url'] = url
             rdf.loc['goog_plzdiff'] = plzdiff
-            result_q.put(rdf.to_frame())
+            result_q.put(rdf)
         i = i+1
 
 def get_place_detail(place):
