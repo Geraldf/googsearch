@@ -2,10 +2,18 @@ from threading import Thread, Event
 from googleplaces import GooglePlaces, types, lang, GooglePlacesError
 import pandas as pd 
 import time 
+import urllib.request, urllib.error
 
-YOUR_API_KEY = 'AIzaSyD3wdGHiewoTV3iAGadKK7WkCLwqdhjyJs'
+#YOUR_API_KEY = 'AIzaSyD3wdGHiewoTV3iAGadKK7WkCLwqdhjyJs'
+YOUR_API_KEY = 'AIzaSyCtgpyGubuZsNMxN0oEuDwjSlikI-OG8qw'
 MAX_RETRIES = 24
 ERASE_LINE = '\x1b[2K'
+
+BASE_URL = 'https://maps.googleapis.com/maps/api'
+PLACE_URL = BASE_URL + '/place'
+TEXT_SEARCH_API_URL = PLACE_URL + '/textsearch/json?'
+DETAIL_API_URL = PLACE_URL + '/details/json?'
+
 
 
 class workerThread (Thread):
@@ -90,7 +98,8 @@ class workerThread (Thread):
             idx = i
             #print ('{} verarbeite Zeile {} {}'.format(time.strftime("%d.%m.%Y %H:%M:%S"),row.index.item()+1,place.name))
             print ('\033[{};0H\x1b[2K{}-thread {} verarbeitet Zeile {} {}'.format(thread,time.strftime("%d.%m.%Y %H:%M:%S"),thread+1,row.index.item()+1,place.name))
-
+            if row.index.item() == 4999:
+                print('last Record')
 
             try:    
                 place = self.get_place_detail(place)
@@ -162,7 +171,7 @@ class workerThread (Thread):
                     
                     # retry after sleep
                 else:
-                    print (err)
+                    print (error_detail)
                     # retry emediataly
         raise Exception
 
@@ -189,7 +198,22 @@ class workerThread (Thread):
     
 
 
-
+    def callGoogle():
+        url = 'http://www.google.com/asdfsf'
+        try:
+            conn = urllib.request.urlopen(url)
+        except urllib.error.HTTPError as e:
+            # Return code error (e.g. 404, 501, ...)
+            # ...
+            print('HTTPError: {}'.format(e.code))
+        except urllib.error.URLError as e:
+            # Not an HTTP-specific error (e.g. connection refused)
+            # ...
+            print('URLError: {}'.format(e.reason))
+        else:
+            # 200
+            # ...
+            print('good')
 
     def do_google_search(self,searchstring):
         for loop in range(MAX_RETRIES):
@@ -206,7 +230,7 @@ class workerThread (Thread):
                     print ('\033[{};0H\x1b[2K{}-thread {} return from sleep'.format(self.threadID,time.strftime("%d.%m.%Y %H:%M:%S"),self.threadID+1))
                     # retry after sleep
                 else:
-                    print (err)
+                    print (error_detail)
                     # retry emediataly
 
         # MAX_RETRIES reached raise an exception
