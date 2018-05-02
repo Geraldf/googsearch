@@ -21,32 +21,38 @@ threads_list = list()
 
 YOUR_API_KEY = 'AIzaSyD3wdGHiewoTV3iAGadKK7WkCLwqdhjyJs'
 
-MAX_THREADS = 1
+MAX_THREADS = 50
 MAX_RETRIES = 24
+
+ERASE_LINE = '\x1b[2K'
 
 google_places = GooglePlaces(YOUR_API_KEY)
 
 def read_Exel():
     #xl = pd.ExcelFile("\\\\sv022181\\abl$\\abl\\Austausch\\Gerald\\Vertragspartner\\Arztverzeichnis-work-gesammt00.xlsx")
-    xl = pd.ExcelFile("./Arztverzeichnis-work-8.xlsx")
+    xl = pd.ExcelFile("./Arztverzeichnis-work-5000.xlsx")
     
     df = xl.parse("Arztverzeichnis 01.01.2018")
     xl.close()
-   
+    print(chr(27) + "[2J")
     print ('running {} programms in Parallel, handling  {} searches. '.format (MAX_THREADS, len(df)))
 
     resultDataFrames = traverse(df)
     rdf= pd.concat(resultDataFrames,ignore_index=True)    
     #target = traverse(df)
     # Create a Pandas Excel writer using XlsxWriter as the engine.
+<<<<<<< HEAD
     #writer = pd.ExcelWriter('\\\\sv022181\\abl$\\abl\\Austausch\\Gerald\\Vertragspartner\\Arztverzeichnis-work-google.xlsx')
     
+=======
+    #writer = pd.ExcelWriter('\\\\sv022181\\abl$\\abl\\Austausch\\Gerald\\Vertragspartner\\Arztverzeichnis-work-google.xlsx')   
+>>>>>>> 2be622811259813d8f008ecab4a32eb8f69f1bd5
     #target = traverse(df)
     # Create a Pandas Excel writer using XlsxWriter as the engine.
     #writer = pd.ExcelWriter('\\\\sv022181\\abl$\\abl\\Austausch\\Gerald\\Vertragspartner\\Arztverzeichnis-work-google.xlsx')
     
     
-    writer = pd.ExcelWriter('./Arztverzeichnis-work-8-google.xlsx')
+    writer = pd.ExcelWriter('./Arztverzeichnis-work-5000-google.xlsx')
     rdf.to_excel(writer, sheet_name='Sheet1')
     writer.save()
 
@@ -56,15 +62,21 @@ def traverse(df):
     df_target = df
     for i in range (MAX_THREADS):
         #t = threading.Thread(target=worker)
-        t = Thread(target=lambda q, wq, rq: q.put(worker(wq,rq)), args=(que, worker_q, result_q))
+        t = Thread(target=lambda q, wq, rq,i: q.put(worker(wq,rq,i)), args=(que, worker_q, result_q,i ))
         t.daemon=True
         t.start()
         threads_list.append(t)
 
+<<<<<<< HEAD
 
     for i in range(0, len(df)):
         row = df.iloc[[i]]
         worker_q.put(row)
+=======
+    
+    for index, row in df.iterrows():
+        worker_q.put(df.iloc[[index]])
+>>>>>>> 2be622811259813d8f008ecab4a32eb8f69f1bd5
    
     # Wait until que is empty again. 
     worker_q.join()
@@ -115,7 +127,8 @@ def getPlacesOrt(place):
     return ''
 
 
-def worker(worker_q, result_q):
+def worker(worker_q, result_q,i):
+    print ('starting Thread {}'.format(i))
     while True:
         
         row = worker_q.get()
@@ -125,9 +138,13 @@ def worker(worker_q, result_q):
             break 
 
         #row = row.to_frame()
+<<<<<<< HEAD
     
        
         if  pd.isna(row['Titel'].item()):
+=======
+        if pd.isna(row['Titel'].item()):
+>>>>>>> 2be622811259813d8f008ecab4a32eb8f69f1bd5
             row['Titel'] = ''
 
         if pd.isna(row['Ort'].item()):
@@ -143,22 +160,23 @@ def worker(worker_q, result_q):
         except:
             add_empty_google_result()
         else:
-            newmethod986(s_result, row)
+            newmethod986(s_result, row, i)
             worker_q.task_done()
 
-def newmethod986(s_result, row):
+def newmethod986(s_result, row, thread):
     if len(s_result.places) == 0:
         # nothing found, try it without "Ort"
         searchstr = row['Titel'].item()+' '+row['Vorname'].item()+' '+row['Nachname'].item()+', '
         s_result = do_google_search(searchstr)
     row_save = row.copy()
     i = 0
+   
     while i < len(s_result.places):
         row = row_save.copy()
         place = s_result.places[i]
     #for idx, place in enumerate(s_result.places):
         idx = i
-        print ('{} verarbeite Zeile {} '.format(time.strftime("%d.%m.%Y %H:%M:%S"),place.name))
+        print ('\033[{};0H\x1b[2K{}-thread {} verarbeitet Zeile {} {}'.format(thread,time.strftime("%d.%m.%Y %H:%M:%S"),thread+1,row.index.item()+1,place.name))
 
         try:    
             place = get_place_detail(place)
@@ -200,6 +218,7 @@ def newmethod986(s_result, row):
                 row.loc[0:'PLZ']=0
                 #row['PLZ'] = 0
             plzdiff =  abs(int(row['PLZ'].item()) - int(plz))
+<<<<<<< HEAD
             rdf = row.copy()
                 
             rdf.loc['goog_name'] = name
@@ -214,6 +233,21 @@ def newmethod986(s_result, row):
             rdf.loc['goog_types']= types    
             rdf.loc['goog_url'] = url
             rdf.loc['goog_plzdiff'] = plzdiff
+=======
+            rdf = row.copy()     
+            rdf['goog_name'] = name
+            rdf['goog_plz'] = plz 
+            rdf['goog_web'] = web 
+            rdf['goog_ort']= ort
+            rdf['goog_phone']= phone
+            rdf['goog_hausnummer']= hausnummer
+            rdf['goog_strasse']= strasse
+            rdf['goog_rating']= rating
+            rdf['goog_adr_formatiert']= adr_formatiert
+            rdf['goog_types']= types    
+            rdf['goog_url'] = url
+            rdf['goog_plzdiff'] = plzdiff
+>>>>>>> 2be622811259813d8f008ecab4a32eb8f69f1bd5
             result_q.put(rdf)
         i = i+1
 
@@ -222,9 +256,9 @@ def get_place_detail(place):
         try:
             place.get_details()
             return place
-        except GooglePlacesError as err:
+        except GooglePlacesError as error_detail:
             if str(error_detail).find('OVER_QUERY_LIMIT') >= 0:
-                print ('going to sleep for an hour')
+                print ('{} going to sleep for an hour\n'.format(time.strftime("%d.%m.%Y %H:%M:%S")))
                 time.sleep(3600)
                 # retry after sleep
             else:
@@ -264,9 +298,9 @@ def do_google_search(searchstring):
             #successfull leave loop
             return ret
 
-        except GooglePlacesError as err:
+        except GooglePlacesError as error_detail:
             if str(error_detail).find('OVER_QUERY_LIMIT') >= 0:
-                print ('going to sleep for an hour')
+                print ('{} going to sleep for an hour\n'.format(time.strftime("%d.%m.%Y %H:%M:%S")))
                 time.sleep(3600)
                 # retry after sleep
             else:
@@ -277,23 +311,7 @@ def do_google_search(searchstring):
     raise Exception
                 
         
-        
-    
-def emptyCols(cols, target_DF):
-    cols['goog_name'].append('')
-    cols['goog_plz'].append('') 
-    cols['goog_web'].append('') 
-    cols['goog_ort'].append('')
-    cols['goog_phone'].append('')
-    cols['goog_hausnummer'].append('')
-    cols['goog_strasse'].append('')
-    cols['goog_rating'].append('')
-    cols['goog_adr_formatiert'].append('' )
-    cols['goog_types'].append('')
-    cols['goog_url'].append('')
-    cols['goog_plzdiff'].append('')
-
-    return target_DF
+ 
 
 
 
