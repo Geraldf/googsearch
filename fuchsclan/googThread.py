@@ -3,9 +3,11 @@ from googleplaces import GooglePlaces, types, lang, GooglePlacesError
 import pandas as pd 
 import time 
 import urllib.request, urllib.error
+from decimal import Decimal
+import json
 
 #YOUR_API_KEY = 'AIzaSyD3wdGHiewoTV3iAGadKK7WkCLwqdhjyJs'
-YOUR_API_KEY = 'AIzaSyCtgpyGubuZsNMxN0oEuDwjSlikI-OG8qw'
+YOUR_API_KEY = 'AIzaSyCOXwbiVzqW8j9khZd12tK9CzEANmaygys'
 MAX_RETRIES = 24
 ERASE_LINE = '\x1b[2K'
 
@@ -13,6 +15,9 @@ BASE_URL = 'https://maps.googleapis.com/maps/api'
 PLACE_URL = BASE_URL + '/place'
 TEXT_SEARCH_API_URL = PLACE_URL + '/textsearch/json?'
 DETAIL_API_URL = PLACE_URL + '/details/json?'
+
+RESPONSE_STATUS_OK = 'OK'
+RESPONSE_STATUS_ZERO_RESULTS = 'ZERO_RESULTS'
 
 
 
@@ -98,7 +103,7 @@ class workerThread (Thread):
             idx = i
             #print ('{} verarbeite Zeile {} {}'.format(time.strftime("%d.%m.%Y %H:%M:%S"),row.index.item()+1,place.name))
             print ('\033[{};0H\x1b[2K{}-thread {} verarbeitet Zeile {} {}'.format(thread,time.strftime("%d.%m.%Y %H:%M:%S"),thread+1,row.index.item()+1,place.name))
-            if row.index.item() == 4999:
+            if row.index.item() >= 4990:
                 print('last Record')
 
             try:    
@@ -198,10 +203,16 @@ class workerThread (Thread):
     
 
 
-    def callGoogle():
-        url = 'http://www.google.com/asdfsf'
+    def call_Google(self,service, searchstr):
+        
+        url = service+'query='+searchstr+'&radius=20000&language=de&key=AIzaSyCtgpyGubuZsNMxN0oEuDwjSlikI-OG8qw&sensor=false'
+
         try:
-            conn = urllib.request.urlopen(url)
+            request = urllib.request.Request(url)
+            response = urllib.request.urlopen(request)
+            str_response = response.read().decode('utf-8')
+            
+            js = json.loads(str_response, parse_float=Decimal)
         except urllib.error.HTTPError as e:
             # Return code error (e.g. 404, 501, ...)
             # ...
@@ -217,25 +228,32 @@ class workerThread (Thread):
 
     def do_google_search(self,searchstring):
         for loop in range(MAX_RETRIES):
-            try:
+            # try:
                 ret = self.google_places.text_search(searchstring, language='de', radius=20000)
+                #ret = self.call_Google(TEXT_SEARCH_API_URL, searchstring)
+               
                 #successfull leave loop
                 return ret
 
-            except GooglePlacesError as error_detail:
-                if str(error_detail).find('OVER_QUERY_LIMIT') >= 0:
+            # except GooglePlacesError as error_detail:
+            #     if str(error_detail).find('OVER_QUERY_LIMIT') >= 0:
                     
-                    print ('\033[{};0H\x1b[2K{}-thread {} going to sleep for an hour'.format(self.threadID,time.strftime("%d.%m.%Y %H:%M:%S"),self.threadID+1))
-                    time.sleep(900)
-                    print ('\033[{};0H\x1b[2K{}-thread {} return from sleep'.format(self.threadID,time.strftime("%d.%m.%Y %H:%M:%S"),self.threadID+1))
-                    # retry after sleep
-                else:
-                    print (error_detail)
-                    # retry emediataly
+            #         print ('\033[{};0H\x1b[2K{}-thread {} going to sleep for an hour'.format(self.threadID,time.strftime("%d.%m.%Y %H:%M:%S"),self.threadID+1))
+            #         time.sleep(900)
+            #         print ('\033[{};0H\x1b[2K{}-thread {} return from sleep'.format(self.threadID,time.strftime("%d.%m.%Y %H:%M:%S"),self.threadID+1))
+            #         # retry after sleep
+            #     else:
+            #         print (error_detail)
+            #         # retry emediataly
 
         # MAX_RETRIES reached raise an exception
         raise Exception
                     
     
+    def _validate_response(self,url, response):
+        """Validates that the response from Google was successful."""
+        if response['status'] not in [self.RESPONSE_STATUS_OK, self.RESPONSE_STATUS_ZERO_RESULTS]:
+            error_detail = ('Request to URL %s failed with response code: %s' % (url, response['status']))
+            raise GooglePlacesError(error_detail)
         
 

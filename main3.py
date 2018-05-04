@@ -22,8 +22,8 @@ threads_list = list()
 
 
 
-MAX_THREADS = 1
-XLS_File = "./Arztverzeichnis-work-5000"
+MAX_THREADS = 5
+XLS_File = "./Arztverzeichnis-work-1330"
 
 
 
