@@ -8,7 +8,7 @@ import json
 
 #YOUR_API_KEY = 'AIzaSyD3wdGHiewoTV3iAGadKK7WkCLwqdhjyJs'
 YOUR_API_KEY = 'AIzaSyCOXwbiVzqW8j9khZd12tK9CzEANmaygys'
-MAX_RETRIES = 24
+MAX_RETRIES = 1
 ERASE_LINE = '\x1b[2K'
 
 BASE_URL = 'https://maps.googleapis.com/maps/api'
@@ -22,12 +22,15 @@ RESPONSE_STATUS_ZERO_RESULTS = 'ZERO_RESULTS'
 
 
 class workerThread (Thread):
-    def __init__(self, threadID, worker_q, result_q):
+    def __init__(self, threadID, worker_q, result_q, threadsList, mutex, req_mutex):
         Thread.__init__(self)
         self.threadID = threadID
         self.worker_q = worker_q
         self.result_q = result_q
         self.google_places = GooglePlaces(YOUR_API_KEY)
+        self.threadsList = threadsList
+        self.mutex = mutex
+        self.req_mutex = req_mutex
     
     def run(self):
         self.worker(self.worker_q, self.result_q,self.threadID)
@@ -64,8 +67,10 @@ class workerThread (Thread):
         
         while True:
             
-            row = worker_q.get()
-            
+            if not worker_q.empty():
+                row = worker_q.get()
+            else:
+                break
             if row is None:
                 # kill this worker thread
                 break 
@@ -79,16 +84,17 @@ class workerThread (Thread):
                 
             #searchstr = "{} {} {}".format(row['Titel'],row['Vorname'],row['Nachname'])
             searchstr = row['Titel'].item()+' '+row['Vorname'].item()+' '+row['Nachname'].item()+', '+row['Ort'].item()
-            
+            self.req_mutex.acquire()
             try:
-
-
                 s_result = self.do_google_search(searchstr)
             except:
-                self.add_empty_google_result()
+                worker_q.put(row)
+                self.req_mutex.release()
+                break
             else:
                 self.newmethod986(s_result, row, threadnr)
                 self.worker_q.task_done()
+                self.req_mutex.release()  
 
     def newmethod986(self,s_result, row,thread):
         if len(s_result.places) == 0:
@@ -198,62 +204,36 @@ class workerThread (Thread):
         rdf['goog_plzdiff'] = ''
         result_q.put(rdf)
         return
-
-
-    
-
-
-    def call_Google(self,service, searchstr):
-        
-        url = service+'query='+searchstr+'&radius=20000&language=de&key=AIzaSyCtgpyGubuZsNMxN0oEuDwjSlikI-OG8qw&sensor=false'
-
-        try:
-            request = urllib.request.Request(url)
-            response = urllib.request.urlopen(request)
-            str_response = response.read().decode('utf-8')
-            
-            js = json.loads(str_response, parse_float=Decimal)
-        except urllib.error.HTTPError as e:
-            # Return code error (e.g. 404, 501, ...)
-            # ...
-            print('HTTPError: {}'.format(e.code))
-        except urllib.error.URLError as e:
-            # Not an HTTP-specific error (e.g. connection refused)
-            # ...
-            print('URLError: {}'.format(e.reason))
-        else:
-            # 200
-            # ...
-            print('good')
+   
 
     def do_google_search(self,searchstring):
         for loop in range(MAX_RETRIES):
-            # try:
+            try:
                 ret = self.google_places.text_search(searchstring, language='de', radius=20000)
-                #ret = self.call_Google(TEXT_SEARCH_API_URL, searchstring)
+               
                
                 #successfull leave loop
                 return ret
 
-            # except GooglePlacesError as error_detail:
-            #     if str(error_detail).find('OVER_QUERY_LIMIT') >= 0:
-                    
-            #         print ('\033[{};0H\x1b[2K{}-thread {} going to sleep for an hour'.format(self.threadID,time.strftime("%d.%m.%Y %H:%M:%S"),self.threadID+1))
-            #         time.sleep(900)
-            #         print ('\033[{};0H\x1b[2K{}-thread {} return from sleep'.format(self.threadID,time.strftime("%d.%m.%Y %H:%M:%S"),self.threadID+1))
-            #         # retry after sleep
-            #     else:
-            #         print (error_detail)
-            #         # retry emediataly
+            except GooglePlacesError as error_detail:
+                if str(error_detail).find('OVER_QUERY_LIMIT') >= 0:
+                    pass
+                else:
+                    print (error_detail)
+                    # retry emediataly
 
         # MAX_RETRIES reached raise an exception
         raise Exception
+
+    def find_and_remove(self, x):
+        self.mutex.acquire()
+        for e in self.threadsList:
+            if e.ident == x:
+                self.threadsList.remove(e)
+                self.mutex.release()
+                return True
+        self.mutex.release()
+        return False
                     
     
-    def _validate_response(self,url, response):
-        """Validates that the response from Google was successful."""
-        if response['status'] not in [self.RESPONSE_STATUS_OK, self.RESPONSE_STATUS_ZERO_RESULTS]:
-            error_detail = ('Request to URL %s failed with response code: %s' % (url, response['status']))
-            raise GooglePlacesError(error_detail)
-        
-
+   

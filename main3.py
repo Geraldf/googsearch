@@ -4,7 +4,7 @@ from googleplaces import GooglePlaces, types, lang, GooglePlacesError
 from collections import defaultdict
 import time 
 import queue
-from threading import Thread, Event
+from threading import Thread, Event, Condition, Lock
 from fuchsclan import googThread
 
 
@@ -16,14 +16,17 @@ worker_q = queue.Queue()
 result_q = queue.Queue()
 threads_list = list()
 
+mutex = Lock()
+req_mutex = Lock()
+
 
 
 #YOUR_API_KEY = 'AIzaSyCxxraww0nAVV2Emm_1HbIFnmhTi3UhZzQ'
 
 
 
-MAX_THREADS = 5
-XLS_File = "./Arztverzeichnis-work-1330"
+MAX_THREADS = 2
+XLS_File = "./Arztverzeichnis-work-gesammt"
 
 
 
@@ -36,53 +39,53 @@ def read_Exel():
    
     print ('running {} programms in Parallel, handling  {} searches. '.format (MAX_THREADS, len(df)))
 
-    resultDataFrames = traverse(df)
-    rdf= pd.concat(resultDataFrames)    
-    #target = traverse(df)
-    # Create a Pandas Excel writer using XlsxWriter as the engine.
-    #writer = pd.ExcelWriter('\\\\sv022181\\abl$\\abl\\Austausch\\Gerald\\Vertragspartner\\Arztverzeichnis-work-google.xlsx')   
-    #target = traverse(df)
-    # Create a Pandas Excel writer using XlsxWriter as the engine.
-    #writer = pd.ExcelWriter('\\\\sv022181\\abl$\\abl\\Austausch\\Gerald\\Vertragspartner\\Arztverzeichnis-work-google.xlsx')
+    resultDataFrames, remainingDataFrames= traverse(df)
+    if len(resultDataFrames)>0:
+        rdf= pd.concat(resultDataFrames)   
+        writer = pd.ExcelWriter(XLS_File + '-google.xlsx')
+        rdf.to_excel(writer, sheet_name='Sheet1',index=False)
+        writer.save() 
+
+    if len(remainingDataFrames)> 0:
+        remdf= pd.concat(remainingDataFrames) 
+        writer = pd.ExcelWriter(XLS_File + '-remaining.xlsx')
+        remdf.to_excel(writer, sheet_name='Sheet1',index=False)
+        writer.save() 
+        
     
     
-    writer = pd.ExcelWriter(XLS_File + '-google.xlsx')
-    rdf.to_excel(writer, sheet_name='Sheet1')
-    writer.save()
 
 def traverse(df):    
     cols = d = defaultdict(list)
-    
+
+    # fill the que wiht the work wich needs to be performed
+    for index, row in df.iterrows():
+        worker_q.put(df.iloc[[index]])
+
     df_target = df
+
+    # Create and start ther threads to do the work in the que
     for i in range (MAX_THREADS):
         #t = threading.Thread(target=worker)
-        t= googThread.workerThread(i,worker_q,result_q);
+        t= googThread.workerThread(i,worker_q,result_q, threads_list, mutex, req_mutex);
         #t = Thread(target=lambda q, i, wq, rq: q.put(googThread.workerThread (i,wq,rq)), args=(que,i, worker_q, result_q,))
-        t.daemon=True
         t.start()
         threads_list.append(t)
 
-    
-    for index, row in df.iterrows():
-        worker_q.put(df.iloc[[index]])
-   
-    # Wait until que is empty again. 
-    worker_q.join()
-
-    #Kill each thread
-    for i in range (MAX_THREADS):
-        worker_q.put(None)
-
-    # wait untill all threads are killed
     for t in threads_list:
         t.join()
+
+    remainingFrames = []
+    while not worker_q.empty():
+        row = worker_q.get()
+        remainingFrames.append(row)
 
 
     resultDataFrames = []
     while not result_q.empty():
         resultdf = result_q.get()
         resultDataFrames.append(resultdf)
-    return resultDataFrames
+    return resultDataFrames, remainingFrames
         
 
 e = Event()
