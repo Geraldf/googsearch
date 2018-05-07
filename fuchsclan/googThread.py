@@ -84,17 +84,21 @@ class workerThread (Thread):
                 
             #searchstr = "{} {} {}".format(row['Titel'],row['Vorname'],row['Nachname'])
             searchstr = row['Titel'].item()+' '+row['Vorname'].item()+' '+row['Nachname'].item()+', '+row['Ort'].item()
-            self.req_mutex.acquire()
+            
             try:
                 s_result = self.do_google_search(searchstr)
             except:
                 worker_q.put(row)
-                self.req_mutex.release()
+               
                 break
             else:
-                self.newmethod986(s_result, row, threadnr)
-                self.worker_q.task_done()
-                self.req_mutex.release()  
+                try:
+                    self.newmethod986(s_result, row, threadnr)
+                except:
+                    worker_q.put(row)
+                else:
+                    self.worker_q.task_done()
+                
 
     def newmethod986(self,s_result, row,thread):
         if len(s_result.places) == 0:
@@ -109,13 +113,12 @@ class workerThread (Thread):
             idx = i
             #print ('{} verarbeite Zeile {} {}'.format(time.strftime("%d.%m.%Y %H:%M:%S"),row.index.item()+1,place.name))
             print ('\033[{};0H\x1b[2K{}-thread {} verarbeitet Zeile {} {}'.format(thread,time.strftime("%d.%m.%Y %H:%M:%S"),thread+1,row.index.item()+1,place.name))
-            if row.index.item() >= 4990:
-                print('last Record')
-
+           
             try:    
                 place = self.get_place_detail(place)
             except:
-                add_empty_google_result()
+                print ('No Details')
+                raise Exception
             else:
                 plz = self.getPlacesPLZ(place.details['address_components'])
                 ort = self.getPlacesOrt(place.details['address_components'])
@@ -174,15 +177,8 @@ class workerThread (Thread):
                 place.get_details()
                 return place
             except GooglePlacesError as error_detail:
-                if str(error_detail).find('OVER_QUERY_LIMIT') >= 0:
-                    print ('\033[{};0H\x1b[2K{}-thread {} going to sleep for an hour'.format(self.threadID,time.strftime("%d.%m.%Y %H:%M:%S"),self.threadID+1))
-
-                    time.sleep(900)
-                    print ('\033[{};0H\x1b[2K{}-thread {} return from sleep in details'.format(self.threadID,time.strftime("%d.%m.%Y %H:%M:%S"),self.threadID+1))
-                    
-                    # retry after sleep
-                else:
-                    print (error_detail)
+                print ('error_detail')
+                raise Exception
                     # retry emediataly
         raise Exception
 
@@ -217,7 +213,7 @@ class workerThread (Thread):
 
             except GooglePlacesError as error_detail:
                 if str(error_detail).find('OVER_QUERY_LIMIT') >= 0:
-                    pass
+                     raise Exception
                 else:
                     print (error_detail)
                     # retry emediataly
