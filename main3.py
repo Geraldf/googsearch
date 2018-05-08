@@ -46,18 +46,18 @@ def read_Exel():
     if len(resultDataFrames)>0:
         print ('writing result excel file')
         rdf= pd.concat(resultDataFrames)   
-        #writer = pd.ExcelWriter(XLS_File + '-google.xlsx')
-        rdf.to_csv(XLS_File + '-google.vsv' ,index=False, sep='\t', encoding='utf-8')
-        #rdf.to_excel(writer, sheet_name='Sheet1',index=False)
-        #writer.save() 
+        writer = pd.ExcelWriter(XLS_File + '-google.xlsx')
+        #rdf.to_csv(XLS_File + '-google.vsv' ,index=False, sep='\t', encoding='utf-8')
+        rdf.to_excel(writer, sheet_name='Sheet1',index=False)
+        writer.save() 
 
     if len(remainingDataFrames)> 0:
         print ('writing remaining Excel file')
         remdf= pd.concat(remainingDataFrames) 
-        #writer = pd.ExcelWriter(XLS_File + '-remaining.xlsx')
-        remdf.to_csv(XLS_File + '-remaining.csv',index=False,  sep='\t', encoding='utf-8')
-        #remdf.to_excel(writer, sheet_name='Sheet1',index=False)
-        #writer.save() 
+        writer = pd.ExcelWriter(XLS_File + '-remaining.xlsx')
+        #remdf.to_csv(XLS_File + '-remaining.csv',index=False,  sep='\t', encoding='utf-8')
+        remdf.to_excel(writer, sheet_name='Sheet1',index=False)
+        writer.save() 
         
     
     
