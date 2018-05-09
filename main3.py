@@ -6,6 +6,7 @@ import time
 import queue
 from threading import Thread, Event, Condition, Lock
 from fuchsclan import googThread
+import datetime
 
 
 # lock to serialize console output
@@ -54,7 +55,7 @@ def read_Exel():
     if len(remainingDataFrames)> 0:
         print ('writing remaining Excel file')
         remdf= pd.concat(remainingDataFrames) 
-        writer = pd.ExcelWriter(XLS_File + '-remaining.xlsx')
+        writer = pd.ExcelWriter(XLS_File + '-remaining-{}.xlsx'.format(datetime.date.today().strftime("%Y%m%d")))
         #remdf.to_csv(XLS_File + '-remaining.csv',index=False,  sep='\t', encoding='utf-8')
         remdf.to_excel(writer, sheet_name='Sheet1',index=False)
         writer.save() 
