@@ -5,6 +5,7 @@ import time
 import urllib.request, urllib.error
 from decimal import Decimal
 import json
+import difflib
 
 #YOUR_API_KEY = 'AIzaSyD3wdGHiewoTV3iAGadKK7WkCLwqdhjyJs'
 YOUR_API_KEY = 'AIzaSyCOXwbiVzqW8j9khZd12tK9CzEANmaygys'
@@ -81,10 +82,16 @@ class workerThread (Thread):
 
             if pd.isna(row['Ort'].item()):
                 row['Ort'] = ''
-                
+            try:    
             #searchstr = "{} {} {}".format(row['Titel'],row['Vorname'],row['Nachname'])
-            searchstr = row['Titel'].item()+' '+row['Vorname'].item()+' '+row['Nachname'].item()+', '+row['Ort'].item()
-            
+                searchstr = row['Titel'].item()+' '+row['Vorname'].item()+' '+row['Nachname'].item()+', '+row['Ort'].item()
+            except:
+                print ('error: {}-thread {} verarbeitet Zeile {} {}'.format(time.strftime("%d.%m.%Y %H:%M:%S"),thread+1,row.index.item()+1,place.name))
+                print (row['Titel'].item())
+                print (row['Vorname'].item())
+                print (row['Nachname'].item())
+                print (row['Ort'].item())
+
             try:
                 s_result = self.do_google_search(searchstr)
             except:
@@ -101,18 +108,19 @@ class workerThread (Thread):
                 
 
     def newmethod986(self,s_result, row,thread):
+        
         if len(s_result.places) == 0:
             # nothing found, try it without "Ort"
             searchstr = row['Titel'].item()+' '+row['Vorname'].item()+' '+row['Nachname'].item()+', '
             s_result = self.do_google_search(searchstr)
 
         i = 0
+        reslist = list()
         while i < len(s_result.places):
             place = s_result.places[i]
-        #for idx, place in enumerate(s_result.places):
             idx = i
-            #print ('{} verarbeite Zeile {} {}'.format(time.strftime("%d.%m.%Y %H:%M:%S"),row.index.item()+1,place.name))
-            print ('\033[{};0H\x1b[2K{}-thread {} verarbeitet Zeile {} {}'.format(thread,time.strftime("%d.%m.%Y %H:%M:%S"),thread+1,row.index.item()+1,place.name))
+            print ('{} verarbeite Zeile {} {}'.format(time.strftime("%d.%m.%Y %H:%M:%S"),row.index.item()+1,place.name))
+            #print ('\033[{};0H\x1b[2K{}-thread {} verarbeitet Zeile {} {}'.format(thread,time.strftime("%d.%m.%Y %H:%M:%S"),thread+1,row.index.item()+1,place.name))
            
             try:    
                 place = self.get_place_detail(place)
@@ -151,9 +159,11 @@ class workerThread (Thread):
                 else:
                     url = ''
 
-                if pd.isna(row['PLZ'].item()):
+                if (pd.isna(row['PLZ'].item())) or (row['PLZ'].item()==''):
                     row.loc[0:'PLZ']=0
                     #row['PLZ'] = 0
+                if plz == '':
+                    plz = 0
                 plzdiff =  abs(int(row['PLZ'].item()) - int(plz))
                 rdf = row.copy()     
                 rdf['goog_name'] = name
@@ -168,8 +178,18 @@ class workerThread (Thread):
                 rdf['goog_types']= types    
                 rdf['goog_url'] = url
                 rdf['goog_plzdiff'] = plzdiff
-                self.result_q.put(rdf)
+                reslist.append(rdf)
+               
+                    
             i = i+1
+        if len(reslist)==1:
+            rdf = reslist.pop()
+            self.result_q.put(rdf)
+        elif len(reslist)==0:
+            self.result_q.put(row)
+        else :
+            self.result_q.put(self.findMostSuitable(reslist))
+
 
     def get_place_detail(self,place):
         for loop in range(MAX_RETRIES):
@@ -221,15 +241,33 @@ class workerThread (Thread):
         # MAX_RETRIES reached raise an exception
         raise Exception
 
-    def find_and_remove(self, x):
-        self.mutex.acquire()
-        for e in self.threadsList:
-            if e.ident == x:
-                self.threadsList.remove(e)
-                self.mutex.release()
-                return True
-        self.mutex.release()
-        return False
+   
+
+    def findMostSuitable(self,rows):
+        ind = 0
+        highestMatch = 0.0
+        highestInd = 0
+        lowestPLZdiff = 99999999
+        lowestPLZind = 0
+        for  r in rows:
+            seq1 = r['Vorname'].item()+' '+r['Nachname'].item()
+            seq2 = r['goog_name'].item()
+            match = difflib.SequenceMatcher(None,seq1,seq2).ratio()
+            plzdiff =  r['goog_plzdiff'].item()
+            if match > highestMatch:
+                highestMatch = match
+                highestInd = ind
+            if lowestPLZdiff >= plzdiff:
+                lowestPLZdiff = plzdiff
+                lowestPLZind = ind
+            ind = ind +1
+        print ('lowest PLZ DIFF = {} at indes: {}'.format(lowestPLZdiff,lowestPLZind))
+        print ('highest macth = {} at indes: {}'.format(highestMatch,highestInd))
+        if lowestPLZind == highestInd:
+            return  rows[highestInd]
+        else:
+            return  rows[highestInd]
+        
                     
     
    

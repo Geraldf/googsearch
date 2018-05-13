@@ -1,9 +1,29 @@
+# This example is taken from the source for difflib.py.
 
-sum =0
-for i in range(3415):
-    if i % 3 == 0:
-        sum = sum +i
-    if i % 5 == 0:
-        sum = sum +i
+from difflib import SequenceMatcher
 
-print (sum)
+A = " abcd"
+B = "abcd abcd"
+
+print ('A = %r' % A)
+print ('B = %r' % B)
+
+print ('\nWithout junk detection:')
+
+s = SequenceMatcher(None, A, B)
+i, j, k = s.find_longest_match(0, 5, 0, 9)
+print ('  i = %d' % i)
+print ('  j = %d' % j)
+print ('  k = %d' % k)
+print ('  A[i:i+k] = %r' % A[i:i+k])
+print ('  B[j:j+k] = %r' % B[j:j+k])
+
+print ('\nTreat spaces as junk:')
+
+s = SequenceMatcher(lambda x: x==" ", A, B)
+i, j, k = s.find_longest_match(0, 5, 0, 9)
+print ('  i = %d' % i)
+print ('  j = %d' % j)
+print ('  k = %d' % k)
+print ('  A[i:i+k] = %r' % A[i:i+k])
+print ('  B[j:j+k] = %r' % B[j:j+k])

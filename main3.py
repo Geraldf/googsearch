@@ -9,8 +9,8 @@ from fuchsclan import googThread
 import datetime
 
 
-# lock to serialize console output
-#lock = threading.Lock()
+
+
 
 que = queue.Queue()
 worker_q = queue.Queue()
@@ -26,8 +26,9 @@ req_mutex = Lock()
 
 
 
-MAX_THREADS = 50
-XLS_File = "./Arztverzeichnis-work-gesammt"
+MAX_THREADS = 1
+#XLS_File = "./Arztverzeichnis-work-5000"
+XLS_File = 'Arztverzeichnis-work-5000-remaining-20180511-remaining-20180512'
 
 
 
@@ -49,7 +50,7 @@ def read_Exel():
         rdf= pd.concat(resultDataFrames)   
         writer = pd.ExcelWriter(XLS_File + '-google.xlsx')
         #rdf.to_csv(XLS_File + '-google.vsv' ,index=False, sep='\t', encoding='utf-8')
-        rdf.to_excel(writer, sheet_name='Sheet1',index=False)
+        rdf.to_excel(writer, sheet_name='Arztverzeichnis 01.01.2018',index=False)
         writer.save() 
 
     if len(remainingDataFrames)> 0:
